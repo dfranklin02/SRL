@@ -3,7 +3,7 @@ title: Performance Orientation
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
-permalink: performance_orientation.html
+permalink: mastery_orientation.html
 folder: motivation
 toc: false
 ---
