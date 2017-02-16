@@ -3,7 +3,7 @@ title: Is a High Performance Goal orientation a positive thing?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
-permalink: performance_orientation_influence.html
+permalink: mastery_orientation_influence.html
 folder: motivation
 toc: false
 ---
