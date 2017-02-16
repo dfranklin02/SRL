@@ -22,7 +22,7 @@ Alternatively, you can run a local web server with the following command (availa
 jekyll server --source docs --destination build
 ```
 
-### Editting
+### Editing
 
 The source of main content of the website is located in the [https://github.com/ExcelsiorCollege/SRL/tree/master/docs/pages](docs/pages) directory. Content is in Markdown format and converted to HTML either by the Jekyll commands above or when committed to Github. Each page contains metadata (surrounded by `---`) that provides information when the Markdown document is converted to the website format. The following parameters are accepted:
 
