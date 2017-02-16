@@ -3,7 +3,7 @@ title: What does performance orientation look like as it pertains to college lif
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
-permalink: performance_orientation_profile.html
+permalink: mastery_orientation_profile.html
 folder: motivation
 toc: false
 ---
