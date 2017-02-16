@@ -3,7 +3,7 @@ title: Recommendations for Improving Goal Orientation
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
-permalink: performance_orientation_recommendations.html
+permalink: mastery_orientation_recommendations.html
 folder: motivation
 toc: true
 ---
