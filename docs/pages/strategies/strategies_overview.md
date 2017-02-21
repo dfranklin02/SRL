@@ -2,7 +2,7 @@
 title: Strategies
 tags: 
 keywords: 
-summary: Strategies refer to the things that people think about and do to enhance their learning, knowledge or performance on an activity. They involve knowledge of procedures and understanding how to go about doing something. The SRL survey examined the frequency with which you reported using four categories of strategies: strategies for for help seeking, strategies for managing learning environments, strategies for managing time, and strategies for understanding."
+summary: "Strategies refer to the things that people think about and do to enhance their learning, knowledge or performance on an activity. They involve knowledge of procedures and understanding how to go about doing something. The SRL survey examined the frequency with which you reported using four categories of strategies: strategies for for help seeking, strategies for managing learning environments, strategies for managing time, and strategies for understanding."
 sidebar: mydoc_sidebar
 permalink: strategies_overview.html
 folder: strategies
