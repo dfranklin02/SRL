@@ -77,11 +77,19 @@ entries:
         url: /strategies_overview.html
         output: web
         
-      - title: Managing Learning
-        url: /managing_learning.html
+      - title: Help Seeking
+        url: /help_seeking.html
         output: web
         
-      - title: Deepning Learning
-        url: /deepening_learning.html
+      - title: Managing Environments
+        url: /managing_environment.html
+        output: web
+        
+      - title: Managing Time
+        url: /managing_time.html
+        output: web
+        
+      - title: Understanding
+        url: /understanding.html
         output: web
 
