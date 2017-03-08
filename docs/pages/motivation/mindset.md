@@ -40,7 +40,7 @@ Ben recently received a poor grade on his science midterm and was quick to label
 Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve her ability to learn if she puts in more effort and studies the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material.*
 </div>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/xe4U4f5aP7s?autoplay=0"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://vimeo.com/207330839"></iframe></div>
 
 <!-- 
 ## How was Mindset measured on the SRL survey?
