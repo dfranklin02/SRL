@@ -40,8 +40,7 @@ Ben recently received a poor grade on his science midterm and was quick to label
 Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve her ability to learn if she puts in more effort and studies the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material.*
 </div>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://player.vimeo.com/video/207330839" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/207330839">Self-Regulated Learning - Mindset</a> from <a href="https://vimeo.com/daacs">DAACS</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/207330839"></iframe></div>
 
 <!-- 
 ## How was Mindset measured on the SRL survey?
