@@ -22,7 +22,7 @@ entries:
     folderitems:
     
     - title: Overview
-      url: /metacognition_overview.html
+      url: /metacognition.html
       output: web
       
     - title: Planning
@@ -50,7 +50,7 @@ entries:
     folderitems:
   
     - title: Overview
-      url: /motivation_overview.html
+      url: /motivation.html
       output: web
       
     - title: Mindset
@@ -74,7 +74,7 @@ entries:
     folderitems: 
     
       - title: Overview
-        url: /strategies_overview.html
+        url: /strategies.html
         output: web
         
       - title: Help Seeking
@@ -93,3 +93,7 @@ entries:
         url: /understanding.html
         output: web
 
+      - title: Recommendations
+        url: /strategies_recommendations.html
+        output: web
+      
