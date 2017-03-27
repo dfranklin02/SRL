@@ -15,7 +15,7 @@ toc: false
 </ul>
 
 
-### What Does a Good Planner Do?
+### WHAT is planning?
 
 Effective planners think before taking action or completing their work.
 They ask themselves what the already know about a task, what is required
