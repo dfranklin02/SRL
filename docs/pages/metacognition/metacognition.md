@@ -37,7 +37,7 @@ Your metacognitive skills may all be equally developed, or you may use one strat
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/iKiBOFGyCwo?autoplay=0"></iframe></div>
 
-## Why is metacognition important?
+## WHY is metacognition important?
 
 Frequent use of metacognitive skills is important to being a successful learner! The more you are able to take control of your thinking, the better you will be able to understand things more deeply, remember them longer, and do better in school. Improving these skills will also help you find that you can reflect on the appropriateness of learning strategies and adjust as needed. 
 
