@@ -38,7 +38,7 @@ when completing most learning tasks
 
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Learn more about the three stages of metacognition</h2>
+             <h2 class="page-header">Learn more about the three components of metacognition</h2>
          </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
@@ -66,7 +66,7 @@ when completing most learning tasks
                  </div>
                  <div class="panel-body">
                      <h4>Monitoring</h4>
-                     <p>Frequent monitors use strategies to build their awareness about their thinking and learning so they understand and can control how well they learn.</p>
+                     <p>Effective monitors use strategies to build their awareness about their thinking and learning so they understand and can control how well they learn.</p>
                      <a href="metacognition_monitoring.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
