@@ -14,11 +14,9 @@ toc: false
     <li class="active">Metacognition</li>
 </ul>
 
-## Metacognition: Planning, Monitoring, and Evaluation
+## WHAT is metacognition?
 
-Have you ever procrastinated on an “easy” assignment only to find out you didn’t have enough time to finish it? (*Planning*) Or read course material then suddenly thought, “What did I just read?” (*Monitoring*). Have you ever finished a test and thought “I did pretty well!” only to receive a lower grade than you’d expected (*Evaluation*)? Skills in planning, monitoring, and evaluating your schoolwork are called **metacognition**. Metacognition is your awareness of and control over your thinking. These skills are important because they help people identify when things are go well or not and how they might need to adapt in order to improve.
-
-In this interactive figure, you can see how frequently you said you use metacognitive strategies to plan, monitor, and evaluate your thinking. You can click on the circles in the figure to explore your results and learn how you can improve your metacognitive skills to succeed in college.
+Have you ever procrastinated on an “easy” assignment only to find out you didn’t have enough time to finish it? (*Planning*) Or read course material then suddenly thought, “What did I just read?” (*Monitoring*). Have you ever finished a test and thought “I did pretty well!” only to receive a lower grade than you’d expected (*Evaluation*)? Skills in planning, monitoring, and evaluating your schoolwork are called **metacognition**. Metacognition is your awareness of and control over your thinking. These skills are important because they help people stay aware of and take control over how they approach and reflect on their learning.
 
 <center><img src='images/metacognition.png' alt='Metacognition Cycle' /></center>
 
