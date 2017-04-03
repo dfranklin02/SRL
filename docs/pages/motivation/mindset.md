@@ -15,7 +15,7 @@ toc: false
 </ul>
 
 
-## What is Growth and Fixed Mindset?
+## WHAT is mindset?
 
 Mindset refers to your beliefs about whether you think your intelligence or ability is fixed or if it can change over time. It refers to your *beliefs* about whether your intelligence or ability can improve. But you should recognize that it does NOT represent whether you are smart or not.
 
@@ -29,6 +29,8 @@ Generally speaking, there are two mindsets: **Fixed mindset** and **Growth minds
 
 
 <center><img src='images/motivation2.png' alt='Motivation' /></center>
+
+## WHY is mindset important?
 
 Read the brief scenarios about Ben and Nicole to get a better feel for these two mindsets:
 
