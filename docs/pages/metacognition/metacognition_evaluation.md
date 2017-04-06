@@ -29,11 +29,16 @@ Being an effective evaluator enables students to piece together a puzzle so that
 * develop an understanding of the strategies that are most effective for assignments
 * feel confident in the quality of work that you submit
 
-However, when you <b/><u>do <b/>not self-evaluate on a regular basis, some problems can arise. You may:
+However, when you <u**do** **not** self-evaluate on a regular basis, some problems can arise. You may:
 
+* not recognize the need to adapt or change how you approach a learning activity
+* repeat the same mistakes on future assignments
+* overestimate your skills and subsequently give less than optimal effort
+* feel helpless or defeated when an assignment or test does not go the way you hoped
 
+The scenario below illustrates some of these potential challenges that may arise when learners do not use evaluation strategies:
 
-> Anthony, a first-year college student, just finished taking his first
+> *Anthony, a first-year college student, just finished taking his first
 > History exam of the semester. Often after an exam Anthony thinks to
 > himself, “I know how well I did on that exam; I’m content with my
 > grade.” He thinks and reflects on the material he learned and is
@@ -43,31 +48,13 @@ However, when you <b/><u>do <b/>not self-evaluate on a regular basis, some probl
 > went well and what didn’t well with studying. Therefore, Anthony
 > sometimes feels stuck or overwhelmed when beginning to study for his
 > next exam, as he doesn’t really know the best way to study for an
-> exam, he only knows one way.
+> exam, he only knows one way.*
 
-<center><img src='images/Evaluation Picture.dox' alt='Metacognition Cycle' /></center>
+**Key Thought:** Anthony's experience of overestimating his learning during studying is common among college students. The key to avoiding these types of misjudgments is to remind constantly self-evaluate to obtain an accurate picture of how you perform.
 
-## Why is Evaluation Important?
+## HOW can I improve my evaluation skills?
 
-It is inevitable that you will encounter some challenges while completing your schoolwork. For example:
+If learning more about how to improve your evaluation skills is important to you, please click on the **Learn**, **See**, and/or **Do** buttons.
 
-* you might have difficulty understanding what you read from a textbook
-* you may struggle to solve certain types of mathematics problems.
-* you may not also be able to clearly express your thoughts in writing
-
-You may also do some things that are not very effective - and you do not even realize that they are ineffective. For example:
-
-* you may use the same types of strategies for all your classes even when other strategies might be more effective.
-* you might begin assignments without realizing that you are not doing things correctly
-
-By learning how monitor your learning strategies and skills more frequently, you can avoid these types challenges and become empowered to take control of your schoolwork.
-
-
-### Now that I know more about my evaluation skills, what should I do?
-
-To find out how you can improve your evaluation skills, and to learn more about the importance of evaluation and how it can make a difference in your life, click on the boxes in the figure below that are of interest to you. Click on all of the boxes that you feel may help you become a better evaluator.
-
-
-{% include footers/evaluation_footer.html %}
 
 
