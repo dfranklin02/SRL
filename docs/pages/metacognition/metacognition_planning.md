@@ -19,8 +19,8 @@ toc: false
 
 (Flow Chart)
 
-Planning is one aspect of metacognition. Planning involves thinking about how you will approach a task before you begin it. For example, students who frequently plan will ask themselves things like, “What do I already know about this task” or “What is needed to perform well on this task.” They may even think about, “What are some different ways I can complete this assignment?” Asking these types of planning questions is important because it often leads students to think about strategies that are needed to succeed. For example, when studying for a test, asking yourself what you material you have not learned or mastered can lead you to identify study strategies to help you learn that material. 
-In college, students may vary in how frequently they plan. If you are interested in learning more about your current planning skills, we strongly encourage you to take the SRL survey by clicking here https://demo.daacs.net/.
+Planning is one aspect of metacognition. Planning involves thinking about how you will approach a task before you begin it. For example, students who frequently plan will ask themselves things like, “What do I already know about this task” or “What is needed to perform well on this task.” They may even think about, “What are some different ways I can complete this assignment?” Asking these types of **planning questions** is important because it often leads students to think about strategies that are needed to succeed. For example, when studying for a test, asking yourself what you material you have not learned or mastered can lead you to identify study strategies to help you learn that material. 
+In college, students may vary in how frequently they plan. If you are interested in learning more about **your** current planning skills, we strongly encourage you to take the SRL survey by clicking here https://demo.daacs.net/.
 
 ## WHY is planning important?
 
