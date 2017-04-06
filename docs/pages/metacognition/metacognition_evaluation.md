@@ -29,7 +29,7 @@ Being an effective evaluator enables students to piece together a puzzle so that
 * develop an understanding of the strategies that are most effective for assignments
 * feel confident in the quality of work that you submit
 
-However, when you <b/><u>do <b/><u>not self-evaluate on a regular basis, some problems can arise. You may:
+However, when you <b/><u>do <b/>not self-evaluate on a regular basis, some problems can arise. You may:
 
 
 
