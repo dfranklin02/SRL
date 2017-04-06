@@ -40,19 +40,19 @@ Conversely, if you **do not** self-monitor your performance or the things you do
 
 The scenarios below illustrate the benefits of engaging in self-monitoring (see Sandra) along with the problems that may arise for college students when they do not self-monitor (see Jose).
 
-> Jose, a third year college student, is currently enrolled in an online biology course. 
+> *Jose, a third year college student, is currently enrolled in an online biology course. 
 > There are a lot of assigned readings for the class, and Jose tries to get through them 
 > as quickly as he can-–without stopping to make sure he understands what he is reading. 
 > Often, after reading an entire book chapter, he will think, “What did I just read?” 
 > By the next day, Jose has usually forgotten what he read the night before, but he keeps 
-> doing the readings this way because he has so much to cover.
+> doing the readings this way because he has so much to cover.*
 
-> Sandra, Jose's classmate, also struggles to complete all the class readings, but she 
+> *Sandra, Jose's classmate, also struggles to complete all the class readings, but she 
 > makes sure to pause and monitor her level of understanding of the reading. As she reads, 
 > Sandra highlights a word on the page that was confusing or marks an entire paragraph 
 > that was not clear. She also writes down questions after completing the reading, to remind 
 > herself what she needs to ask her classmates or instructor. Tracking these types of things 
-> helps to increase Sandra's confidence to learn well in the class.
+> helps to increase Sandra's confidence to learn well in the class.*
 
 **Key Thought**: A key thing that distinguished Sandra and Jose was that Sandra spent time monitoring how she was learning. She also kept track of the things that were confusing or challenging, which helped her seek out the help she needed. Just remember that becoming a more effective monitor is something that can be learned and improved.
 
