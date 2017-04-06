@@ -15,14 +15,30 @@ toc: false
 </ul>
 
 
-### WHAT is planning?
+## WHAT is planning?
 
-Effective planners think before taking action or completing their work.
-They ask themselves what the already know about a task, what is required
-of them to complete the task, and how they can best go about
-accomplishing the task.
+(Flow Chart)
 
-> Sophia, a second year college student, was feeling stressed and
+Planning is one aspect of metacognition. Planning involves thinking about how you will approach a task before you begin it. For example, students who frequently plan will ask themselves things like, “What do I already know about this task” or “What is needed to perform well on this task.” They may even think about, “What are some different ways I can complete this assignment?” Asking these types of planning questions is important because it often leads students to think about strategies that are needed to succeed. For example, when studying for a test, asking yourself what you material you have not learned or mastered can lead you to identify study strategies to help you learn that material. 
+In college, students may vary in how frequently they plan. If you are interested in learning more about your current planning skills, we strongly encourage you to take the SRL survey by clicking here https://demo.daacs.net/.
+
+## WHY is planning important?
+
+Planning or thinking ahead about how best to complete your work in college will help you:
+* avoid making mistakes
+* complete assignments correctly and on time
+* work more efficiently
+* feel more relaxed (and less stressed)
+
+However, when you **do not** think or make a plan about completing work, some problems can arise. For example, you may:
+
+* not fully understand what is being asked of you
+* underestimate how long an assignment will take, which can cause you to run out of time
+* not understand the learning strategies needed to perform well
+
+The scenario below illustrates some of these potential problems that may arise when learners do not use planning strategies:
+
+> *Sophia, a second year college student, was feeling stressed and
 > overwhelmed as her math course entered its second week. Luckily,
 > Sophia possesses strong time management skills. She printed her
 > syllabus, took out her student planner, and highlighted due dates for
@@ -33,21 +49,11 @@ accomplishing the task.
 > enough time to complete the assignment a few days before its actual
 > due date. “Wow! I have a lot of assignments for this class,” she
 > thought, “It’s a good thing I’m planning the semester now. I wouldn’t
-> want to fall behind.”
+> want to fall behind.”*
 
+**Key Thought**: Sophia's initial conversation with her advisor changed her outlook and perspective about school. He helped her realize that there was value in pausing and reflecting about an assignment for a few minutes before attempting to complete it. Having this realization naturally led Sophia to seek out additional assistance about how to become a more effective planner.
 
-<center><img src='images/metacognition.png' alt='Metacognition Cycle' /></center>
+## HOW can I improve my planning skills?
 
-
-### Now that I know more about my planning skills, what should I do?
-
-To find out how you can improve your planning skills, and to learn more
-about the importance of planning and how it can make a difference in
-your life, click on the boxes in the figure below that are of interest
-to you. Click on all of the boxes that you feel may help you become a
-better planner.
-
-
-{% include footers/planning_footer.html %}
-
+All students can benefit from learning how to improve planning skills! To develop your repertoire of planning skills please click on the **Learn**, **See**, and/or **Do** buttons.
 
