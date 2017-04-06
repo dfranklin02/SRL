@@ -34,7 +34,7 @@ what strategies works well and which strategies do not.
 > next exam, as he doesn’t really know the best way to study for an
 > exam, he only knows one way.
 
-<center><img src='images/metacognition.png' alt='Metacognition Cycle' /></center>
+<center><img src='images/Evaluation Picture.pdf' alt='Metacognition Cycle' /></center>
 
 ## Why is Evaluation Important?
 
