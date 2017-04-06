@@ -16,11 +16,22 @@ toc: false
 
 ## WHAT is evaluation?
 
-Effective evaluators will frequently reflect on their performances in
-school so that they can improve their learning in the future. They will
-frequently ask themselves, “What about my studying did or did not go
-well?” The answers to this simple question can help students pinpoint
-what strategies works well and which strategies do not.
+<center><img src='images/Evaluation Picture.dox' alt='Metacognition Cycle' /></center>
+
+Evaluation is a very important aspect of metacognition. As a college student, there will be many opportunities for you to evaluate yourself – that is, to ask how well you performed something. When students self-evaluate their performance, they may ask themselves, “Am I learning well on this activity?” or “What things did I find challenging?” These types of questions naturally prompt students to think about the strategies that worked well for them and those that were less effective. 
+
+## WHY is evaluation important?
+
+Being an effective evaluator enables students to piece together a puzzle so that they can identify what worked, what did not work, and, hopefully, what needs to be done to improve for next time. By evaluating yourself more frequently, it is likely that you will:
+
+* become more aware of your strengths and weaknesses
+* identify specific skills that need to be improved
+* develop an understanding of the strategies that are most effective for assignments
+* feel confident in the quality of work that you submit
+
+However, when you <b/><u>do <b/><u>not self-evaluate on a regular basis, some problems can arise. You may:
+
+
 
 > Anthony, a first-year college student, just finished taking his first
 > History exam of the semester. Often after an exam Anthony thinks to
