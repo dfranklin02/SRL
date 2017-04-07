@@ -18,13 +18,13 @@ toc: false
 
 <center><img src='images/Evaluation Picture.dox' alt='Metacognition Cycle' /></center>
 
-Evaluation is a very important aspect of metacognition. As a college student, there will be many opportunities for you to evaluate yourself – that is, to ask how well you performed something. When students self-evaluate their performance, they may ask themselves, “Am I learning well on this activity?” or “What things did I find challenging?” These types of questions naturally prompt students to think about the strategies that worked well for them and those that were less effective. 
+Evaluation is a very important aspect of metacognition. As a college student, there will be many opportunities for you to evaluate yourself – that is, to ask how well you performed something. When learners self-evaluate their performance, they may ask themselves, “Am I learning well on this activity?” or “What things did I find challenging?” These types of questions naturally prompt learners to think about the strategies that worked well for them and those that were less effective. 
 
-As you can see in the figure above, students can vary in how often they evaluate themselves in school (i.e., mastering, emerging, developing). If you have an interest in learning more about your current evaluation skills, please click on the following link to take the SRL survey https://demo.daacs.net/.
+As you can see in the figure above, learners can vary in how often they evaluate themselves in school (i.e., mastering, emerging, developing). If you have an interest in learning more about your current evaluation skills, please click on the following link to take the SRL survey https://demo.daacs.net/.
 
 ## WHY is evaluation important?
 
-Being an effective evaluator enables students to piece together a puzzle so that they can identify what worked, what did not work, and, hopefully, what needs to be done to improve for next time. By evaluating yourself more frequently, it is likely that you will:
+Being an effective evaluator enables learners to piece together a puzzle so that they can identify what worked, what did not work, and, hopefully, what needs to be done to improve for next time. By evaluating yourself more frequently, it is likely that you will:
 
 * become more aware of your strengths and weaknesses
 * identify specific skills that need to be improved
