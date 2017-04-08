@@ -24,7 +24,8 @@ Test Anxiety is not just about tests. It represents an experience of *negative t
 Alternatively, learners with **low anxiety** may demonstrate confidence in their ability to complete a test. While they may feel nervous about a test, they do not let this affect their performance because they can effectively manage and control these feelings. 
 To more effectively reduce your level of test anxiety, take the SRL survey by clicking here ***link to daacs.net***.
 
-**WHY is test anxiety important?**
+## WHY is test anxiety important?**
+
 Managing anxiety in school is important because it can affect students’ overall motivation to learn as well as the quality of their engagement in school. By maintaining a low level of anxiety, it is likely that you will:
 
 - feel at ease before, during, and after the exams and other assignments
@@ -32,9 +33,24 @@ Managing anxiety in school is important because it can affect students’ overal
 - use higher quality strategies to learn and perform 
 - demonstrate confidence in your ability to succeed 
 
+When you experience **high levels of anxiety,** you are likely to:
 
-> *Sal, a second year college student, was feeling extremely nervous about failing his math exam. At the mention of any exam, Sal immediately begins to have negative thoughts -- he believes he’s going to fail, and often questions his ability to pass the exam and class. Sal worries so much that he often finds it difficult to not only concentrate on the exam, but to complete homework and classwork. As his next math test approached, he thought, “It doesn’t matter how much I study, I don’t know anything. There’s no way I’m going to pass this exam, or this class.”*
+- feel stressed and overwhelmed every time you are evaluated 
+- avoid activities related to learning (e.g., homework, class assignments, studying)
+- be more likely to give up when feeling overwhelmed
+- experience low self-efficacy
 
+The scenario below illustrates how your level of anxiety has the potential to influence how you think and what you do during learning. 
+
+
+
+> *Sal, a second year college student, was feeling extremely nervous about failing his math exam. At the mention of any exam, Sal immediately began to have negative thoughts -- he believed he was going to fail, and often questioned his ability to pass the exam and class. Sal worried so much that he often found it difficult to not only concentrate on the exam, but to complete homework and classwork. As his next math test approached, he thought, “It doesn’t matter how much I study, I don’t know anything. There’s no way I’m going to pass this exam, or this class.”*
+
+**Key thought:** Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower anxiety about tests and other assignments and to improve performance.
+
+## HOW can I lessen my overall feelings of anxiety in school?
+
+All learners can benefit from lessening and thereby improving their test anxiety! To learn more about test anxiety and different ways to decrease your level of test anxiety, click on the **Learn, See,** and/or **Do** buttons. 
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>High Test Anxiety</b> means having excessive worry about test performance while demonstrating little confidence in your ability to successfully complete exams.
 </div>
