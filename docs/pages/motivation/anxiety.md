@@ -15,7 +15,7 @@ toc: false
 </ul>
 
 
-**WHAT is Test Anxiety?**
+## **WHAT is Test Anxiety?**
 
 <center><img src='images/TestAnxiety1.png' alt='test anxiety' /></center>
 
@@ -24,7 +24,7 @@ Test Anxiety is not just about tests. It represents an experience of *negative t
 Alternatively, learners with **low anxiety** may demonstrate confidence in their ability to complete a test. While they may feel nervous about a test, they do not let this affect their performance because they can effectively manage and control these feelings. 
 To more effectively reduce your level of test anxiety, take the SRL survey by clicking here ***link to daacs.net***.
 
-## WHY is test anxiety important?**
+## WHY is test anxiety important?
 
 Managing anxiety in school is important because it can affect students’ overall motivation to learn as well as the quality of their engagement in school. By maintaining a low level of anxiety, it is likely that you will:
 
