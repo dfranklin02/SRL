@@ -36,13 +36,15 @@ After George finished the exam, he looked at his notes and realized that he perf
 
 Luckily, George took the SRL survey. After talking with his DAACS advisor, he received some advice to look through Test Anxiety section. Gradually, George began to realize that his *excessive worry and fear of failure* was probably a major reason why he has not improved in school. He began to search for some strategies or ideas about how he could lessen his anxiety.
 
-
+<img src='images/testanxietysee4.png' alt='anxiety_profile' />
 
 As the semester continued, George continued to access recommendations and strategies for Test Anxiety on the DAACS website. When George encountered other exams, instead of falling back into patterns of worry, quitting, and under-performing, he focused on using **one or two of the recommended strategies.** He seemed to like the idea of working with a study group and practicing some relaxation/breathing techniques. He remembered from the SRL survey that focusing on his breathing for 5 minutes everyday can help to calm his mind and body.
 
-
+<img src='images/testanxietysee5.png' alt='anxiety_profile' />
 
 During a future exam George felt that his mind was going blank. Unlike in the past, however, George was aware of the negative thoughts and feelings he was having. He told himself, “Just relax. Take a breath. You can do this.”  **He also decided to skip the difficult questions and come back to them later.** As he completed some of the problems correctly, his mind calmed down a bit and he felt more at ease. He then focused his attention on addressing the few problems that were difficult for him. 
+
+<img src='images/testanxietysee6.png' alt='anxiety_profile' />
 
 {% include footers/anxiety_footer.html %}
 
