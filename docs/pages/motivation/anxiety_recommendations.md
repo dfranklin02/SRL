@@ -19,17 +19,15 @@ There are a variety of different strategies learners can use to lessen their lev
 
 <center><img src='images/testanxietydo1.png' alt='anxiety_recommendations' /></center>
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Create a Schedule
-</div>
+### Create a schedule
 
-> Create a schedule of days and times to study and complete your work. In addition to helping you with time management, this schedule can ease your mind that will have enough time to study all of the material.
-> 
+> Create a schedule of days and times to study and complete your work. In addition to helping you with time management, this schedule can ease your mind that you will have enough time to study all of the material.
+
 > *When you learn about an upcoming exam in a class, begin laying out your study plan. Figure out how much material you need to cover and how many days you have to cover that material. Then, begin putting in study times on specific days (i.e. Monday, study Chapter 5 for 2 hours, Tuesday, review Chapter 5 for 1 hour, Study Chapter 6 for 2 hours. Monday – Friday, complete practice work sheets,30 minutes each day).*
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Seek help
-</div>
+> To become more effective at creating a schedule and other time management techniques, click here ***link to time management recommendations***
+
+### Seek Help
 
 > Everyone experiences some level of test anxiety, but not everyone reaches out for assistance or support. Seeking help when confused can be valuable because it can improve your knowledge and skills and can help build your confidence. Some useful help seeking tips include:
 > 
@@ -37,22 +35,26 @@ Seek help
 > 2.  Reach out to your professor to ask specific questions about course materials on the upcoming exam.
 > 3.  Write down questions as they come up – it is hard to remember everything that might be hard. Writing down question or confusing items as it happens can help you to ask the right questions.
 > 4.  Just remember that asking for help is not a sign of weakness – it is a sign that you care about your learning and want to put in effort to learn and improve your skills.
+
+>To become more effective at help seeking, click here ***link to help seeking***
                                               
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Learn and practice study strategies
-</div>
+### Learn practice and study strategies
 
 > When preparing for an exam, think about which study strategies might be most helpful to you learning. Many times reading your notes or re-reading a chapter from the textbook is not enough. Memorizing material (using mnemonic devices), using flash cards or graphic organizers, practicing writing, studying with others, and scheduling in study time can all be helpful for successful studying. See the link below for a more detailed list of suggestions for improvement.
+
+### Use positive self-talk
+
+
 
 <div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
 Use positive self talk
 </div>
 
 > You can build your self-confidence and reduce test anxiety by using positive self-talk – saying positive and encouraging statements to yourself. When you become anxious about tests or other evaluation situations, it is important to remind yourself of past successes, motivate yourself to keep trying, to reassure yourself, and to stay calm. Some common things to say to yourself when anxious as you do your work is:
-> 
-> * *“It’s OK…don’t worry. You can do this”*
-> * *“Take a few minutes to relax and breath”*
-> * *“I can reach out for some help if I can’t get this”*
+ 
+> * *“It’s OK…don’t worry. You can do this.”*
+> * *“Take a few minutes to relax and breathe.”*
+> * *“I can reach out for some help if I can’t get this.”*
 > * *“I know this material, I studied.” *
                                               
 
