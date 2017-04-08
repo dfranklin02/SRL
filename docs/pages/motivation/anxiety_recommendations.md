@@ -1,5 +1,5 @@
 ---
-title: Recommendations on How to Improve your Test Anxiety
+title: How can I reduce my test anxiety?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -14,7 +14,6 @@ toc: false
     <li><a href="anxiety.html">Test Anxiety</a></li>
     <li class="active">Recommendations</li>
 </ul>
-## How can I reduce my test anxiety?
 
 There are a variety of different strategies learners can use to lessen their level of anxiety. Below are several strategies to help you decrease your level of anxiety related to tests as well as other performance or evaluation situations in school. You might find that not all strategies are useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
 
