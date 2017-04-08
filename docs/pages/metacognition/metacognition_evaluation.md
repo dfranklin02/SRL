@@ -60,5 +60,5 @@ The scenario below illustrates some of these potential challenges that may arise
 
 If learning more about how to improve your evaluation skills is important to you, please click on the **Learn**, **See**, and/or **Do** buttons.
 
-
+{% include footers/evaluation_footer.html %}
 
