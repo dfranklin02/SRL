@@ -27,10 +27,10 @@ To more effectively reduce your level of test anxiety, take the SRL survey by cl
 **WHY is test anxiety important?**
 Managing anxiety in school is important because it can affect students’ overall motivation to learn as well as the quality of their engagement in school. By maintaining a low level of anxiety, it is likely that you will:
 
-•	feel at ease before, during, and after the exams and other assignments
-•	remain focused when challenged during learning or some type of evaluation
-•	use higher quality strategies to learn and perform 
-•	demonstrate confidence in your ability to succeed 
+- feel at ease before, during, and after the exams and other assignments
+- remain focused when challenged during learning or some type of evaluation
+- use higher quality strategies to learn and perform 
+- demonstrate confidence in your ability to succeed 
 
 
 > *Sal, a second year college student, was feeling extremely nervous about failing his math exam. At the mention of any exam, Sal immediately begins to have negative thoughts -- he believes he’s going to fail, and often questions his ability to pass the exam and class. Sal worries so much that he often finds it difficult to not only concentrate on the exam, but to complete homework and classwork. As his next math test approached, he thought, “It doesn’t matter how much I study, I don’t know anything. There’s no way I’m going to pass this exam, or this class.”*
