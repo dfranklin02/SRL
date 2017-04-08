@@ -16,7 +16,6 @@ toc: false
 </ul>
 
 ## ***BEFORE*** ***George began using SRL resources and recommendations -***
-
 ***High Test Anxiety:***
 
 During math class, George learned that the professor was going to administer an exam in two weeks. George instantly got nervous and believed he was going to fail. He avoided studying until the day before the exam. When he finally began to study, George tried completing practice problems but kept getting answers wrong. His confidence was shaken and he began to second-guess himself. Because he was overcome with fear that he might fail yet again, George felt paralyzed even though he knew he should keep studying. 
