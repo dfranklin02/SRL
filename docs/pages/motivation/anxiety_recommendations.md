@@ -51,11 +51,11 @@ Use positive self talk
 </div>
 
 > You can build your self-confidence and reduce test anxiety by using positive self-talk – saying positive and encouraging statements to yourself. When you become anxious about tests or other evaluation situations, it is important to remind yourself of past successes, motivate yourself to keep trying, to reassure yourself, and to stay calm. Some common things to say to yourself when anxious as you do your work is:
- 
-> * *“It’s OK…don’t worry. You can do this.”*
-> * *“Take a few minutes to relax and breathe.”*
-> * *“I can reach out for some help if I can’t get this.”*
-> * *“I know this material, I studied.” *
+
+> * “It’s OK…don’t worry. You can do this.”
+> * “Take a few minutes to relax and breathe.”
+> * “I can reach out for some help if I can’t get this.”
+> * “I know this material, I studied.”
                                               
 
 <div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
