@@ -20,7 +20,7 @@ There are a variety of different strategies learners can use to lessen their lev
 
 <center><img src='images/anxiety_improve.png' alt="Improve Test Anxiety" /></center>
 
-<center><img src='images/testanxietydo1' alt="Improve Test Anxiety" /></center>
+<center><img src='images/testanxietydo1' alt="anxiety_recommendations" /></center>
 
 <div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
 Create a Schedule
