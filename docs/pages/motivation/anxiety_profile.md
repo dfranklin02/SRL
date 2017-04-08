@@ -15,19 +15,13 @@ toc: false
     <li class="active">Profiles</li>
 </ul>
 
-
-The following scenario explores Test Anxiety with a fictional college student, George. Click on the links below to read about George’s test taking experience in two situations:
-
-* Before he took the SRL survey and learned how to improve
-* After he began using the recommended tips and strategies
-
-As you read the scenarios, take note of how George’s experiences changed based on his level of test anxiety
-
-## **BEFORE** George began using SRL resources and recommendations
+## ***BEFORE*** ***George began using SRL resources and recommendations -***
 
 ***High Test Anxiety: ***
 
-During math class, George learned that the professor was going to administer an exam in two weeks. George instantly got nervous and believed he was going to fail. He avoided studying until the day before the exam. When he finally began to study, George tried completing practice problems but kept getting answers wrong. His confidence was shaken and he began to second-guess himself. Because he was overcome with fear that he might fail yet again, George felt paralyzed even though he knew he should keep studying.
+During math class, George learned that the professor was going to administer an exam in two weeks. George instantly got nervous and believed he was going to fail. He avoided studying until the day before the exam. When he finally began to study, George tried completing practice problems but kept getting answers wrong. His confidence was shaken and he began to second-guess himself. Because he was overcome with fear that he might fail yet again, George felt paralyzed even though he knew he should keep studying. 
+
+<img src='images/testanxietysee1.png' alt='anxiety_profile' />
 
 > George instantly got nervous at the mention of an exam and engaged in irrational thinking. Studying and focusing became difficult.
 > 
