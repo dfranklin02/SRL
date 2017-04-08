@@ -1,5 +1,5 @@
 ---
-title: Why is Understanding Test Anxiety Important?
+title: How can your anxiety influence the way you think, feel, and act?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -15,7 +15,8 @@ toc: false
     <li class="active">Influence</li>
 </ul>
 
-Lowering your level of test anxiety is important because it can make you feel more relaxed so that you can enjoy school more. It can also improve your overall academic achievement. Preparing to take an exam can take time, effort, and motivation. If you begin worrying as soon as an exam is mentioned, you may notice that you avoid studying or procrastinate. Without making any attempts to lower your anxiety, your worries and self-doubt can become excessive and lead to you believe that you’re going to fail. Thus, it is very important to learn how to stop test anxiety in its tracks before it leads you to feeling stuck.
+The following figure tells you what it means to have HIGH, MEDIUM, or LOW test anxiety. It also will give you some clues about how people with different levels of anxiety respond to anxiety-provoking situations. As you look at this figure, think about how these levels of test anxiety may relate to you as a learner.
+
 
 ## How Test Anxiety can Influence the Way You Think, Feel, and Act
 
