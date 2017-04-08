@@ -17,11 +17,6 @@ toc: false
 
 The following figure tells you what it means to have HIGH, MEDIUM, or LOW test anxiety. It also will give you some clues about how people with different levels of anxiety respond to anxiety-provoking situations. As you look at this figure, think about how these levels of test anxiety may relate to you as a learner.
 
-
-## How Test Anxiety can Influence the Way You Think, Feel, and Act
-
-The following figure tells you what it means to have *HIGH, MEDIUM, or LOW Test Anxiety*. This figure will also give you some ideas about the typical outcomes and feelings learners might experience, depending on their level of test anxiety. As you look at the figure, try to take note of what this might mean to you as a student.
-
 <center><img src='images/anxiety.png' alt="Test Anxiety" /></center>
 
 {% include footers/anxiety_footer.html %}
