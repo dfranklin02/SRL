@@ -25,13 +25,17 @@ During math class, George learned that the professor was going to administer an 
 
 During the exam, George got nervous because his mind went blank. He found it difficult to concentrate on the exam as *his mind wandered about college not being worth it.*
 
+<img src='images/testanxietysee2.png' alt='anxiety_profile' />
+
 After George finished the exam, he looked at his notes and realized that he performed some of the problems incorrectly. George had a recurrent thought that he could have done better on the exam and worried that he failed. He said to himself, “I knew that answer! How could I have gotten these questions wrong? I’ll never pass this class.”
+
+<img src='images/testanxietysee3.png' alt='anxiety_profile' />
 
 ## **AFTER** George began using SRL resources and recommendations -
 
 **Medium Test Anxiety:***
 
-Luckily, George took the SRL survey. With the advice of his advisor, George began to look through Test Anxiety section because he knew he was pretty anxious about school. Gradually, George began to realize that his *excessive worry and fear of failure* was probably a major reason why he has not improved in school. He began to search for some strategies or ideas about how he can lessen his anxiety.
+Luckily, George took the SRL survey. After talking with his DAACS advisor, he received some advice to look through Test Anxiety section. Gradually, George began to realize that his *excessive worry and fear of failure* was probably a major reason why he has not improved in school. He began to search for some strategies or ideas about how he could lessen his anxiety.
 
 > George became aware of his Test Anxiety. 
 
