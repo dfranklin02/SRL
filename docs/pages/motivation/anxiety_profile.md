@@ -27,21 +27,6 @@ During the exam, George got nervous because his mind went blank. He found it dif
 
 After George finished the exam, he looked at his notes and realized that he performed some of the problems incorrectly. George had a recurrent thought that he could have done better on the exam and worried that he failed. He said to himself, “I knew that answer! How could I have gotten these questions wrong? I’ll never pass this class.”
 
-> George instantly got nervous at the mention of an exam and engaged in irrational thinking. Studying and focusing became difficult.
-> 
-> How would things look if George  Learned and Practiced Study Strategies or Practiced Relaxation Techniques 
-
-
-> George continues to question his abilities. What if George used Positive Self-talk?
-
-
-After George finished the exam, he looked at his notes and realized that he performed some of the problems incorrectly. George had a recurrent thought that he could have done better on the exam and worried that he failed. He said to himself, “I knew that answer! How could I have gotten these questions wrong? I’ll never pass this class.”
-
-> George reflects on his exam, but doesn’t use this information in a useful way. He engages in irrational thinking. 
-> 
-> What if he used the strategy Review your Techniques & Reflect
-
-
 ## **AFTER** George began using SRL resources and recommendations -
 
 **Medium Test Anxiety:***
