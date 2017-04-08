@@ -60,6 +60,4 @@ All learners can benefit from lessening and thereby improving their test anxiety
 
 <div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Low Test Anxiety</b> means that while you may worry or feel nervous about an exam, you don’t let it affect your performance. You demonstrate confidence regarding your test performance.
 </div>
-
-
 {% include footers/anxiety_footer.html %}
