@@ -23,12 +23,14 @@ During math class, George learned that the professor was going to administer an 
 
 <img src='images/testanxietysee1.png' alt='anxiety_profile' />
 
+During the exam, George got nervous because his mind went blank. He found it difficult to concentrate on the exam as *his mind wandered about college not being worth it.*
+
+After George finished the exam, he looked at his notes and realized that he performed some of the problems incorrectly. George had a recurrent thought that he could have done better on the exam and worried that he failed. He said to himself, “I knew that answer! How could I have gotten these questions wrong? I’ll never pass this class.”
+
 > George instantly got nervous at the mention of an exam and engaged in irrational thinking. Studying and focusing became difficult.
 > 
 > How would things look if George  Learned and Practiced Study Strategies or Practiced Relaxation Techniques 
 
-
-During the exam, George got nervous because his mind went blank. He found it difficult to concentrate on the exam as *his mind wandered about college not being worth it*.
 
 > George continues to question his abilities. What if George used Positive Self-talk?
 
