@@ -57,3 +57,4 @@ The scenario below illustrates some of these potential problems that may arise w
 
 All students can benefit from learning how to improve planning skills! To develop your repertoire of planning skills please click on the **Learn**, **See**, and/or **Do** buttons.
 
+{% include footers/metacognition_footer.html %}
