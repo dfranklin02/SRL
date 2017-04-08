@@ -30,7 +30,7 @@ After George finished the exam, he looked at his notes and realized that he perf
 
 <img src='images/testanxietysee3.png' alt='anxiety_profile' />
 
-## **AFTER** George began using SRL resources and recommendations -
+## ***AFTER*** George began using SRL resources and recommendations -
 
 ***Medium Test Anxiety:***
 
