@@ -60,4 +60,4 @@ The scenarios below illustrate the benefits of engaging in self-monitoring (see 
 
 To learn more about self-monitoring and how you can develop these skills, please click on the **Learn**, **See**, and/or **Do**.
 
-
+{% include footers/monitoring_footer.html %}
