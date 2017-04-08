@@ -15,7 +15,9 @@ toc: false
 </ul>
 
 
-**What is Test Anxiety?**
+**WHAT is Test Anxiety?**
+
+<center><img src='images/TestAnxiety1.png' alt='Test Anxiety' /></center>
 
 Test Anxiety represents an experience of negative thoughts (worries, fears) that typically involves uncomfortable and unpleasant feelings (anxiety) and physiological reactions (increased pulse rate). When people experience *high test* anxiety, they tend to worry a lot about failing or being evaluated poorly. They also may frequently feel “on edge” and as a result may avoid activities, such as completing homework or studying, which in turn may affect performance on evaluation activities (i.e. test or exams).
 
