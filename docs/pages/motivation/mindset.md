@@ -14,7 +14,7 @@ toc: false
     <li class="active">Mindset</li>
 </ul>
 
-<center><img src='images/mindset1.png' alt='motivation' /></center>
+<center><img src='images/mindset1.png' alt='mindset' /></center>
 
 Mindset refers to your beliefs about whether your intelligence is fixed or can change over time. It refers to your *beliefs* about whether your intelligence or ability can improve, but **NOT** whether you are actually smart or not. Learners who have a *Growth mindset* tend to view mistakes as a normal part of learning and want to improve as they encounter challenges. Alternatively, learners with a *Fixed mindset* typically see mistakes as reflecting low ability or intelligence – something that they cannot change or improve. As a result, they tend to avoid challenging situations and are not sure about how to move forward after making mistakes. 
 
