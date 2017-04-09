@@ -16,7 +16,7 @@ toc: false
 
 Have you encountered a difficult assignment and thought, “I can’t do this, I should just give up now?” *(Self Efficacy).* Maybe, you believe that no matter what you do, you can’t change your intelligence *(Mindset).* Perhaps you find yourself trying to excel in school because you simply enjoy learning and want to become more knowledgeable *(Mastery Orientation).* Finally, have you ever been presented with a project or test and became so nervous and anxious, to the point where you froze and were unsure how to proceed? *(Test Anxiety).* Each of these beliefs or ways of thinking are linked to your **motivation,** or your desire to do something. Undertanding these different sources of motivation will help you work towards your goals and perhaps to become more successful in school. Like the figure below illustrates, however, many students exhibit strengths and weaknesses in their motivation profile.
 
-<center><img src='images/motivation.png' alt='Motivation' /></center>
+<center><img src='images/motivationoverview.png' alt='Motivation' /></center>
 
 <div class="row">
          <div class="col-lg-12">
