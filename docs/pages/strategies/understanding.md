@@ -14,5 +14,8 @@ toc: false
     <li class="active">Understanding</li>
 </ul>
 
+<style> img {float: right; margin: 0px 0px 15px 20px}</style>
 
-<right><img src='images/mindsetsee1.png' alt='mindset_profile' /></right>
+<p><img src='images/mindsetsee1.png'>
+Test. Lets see where this goes. 
+</p>
