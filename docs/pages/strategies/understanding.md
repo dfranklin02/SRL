@@ -15,4 +15,4 @@ toc: false
 </ul>
 
 
-
+<center><img src='images/mindsetsee1.png' alt='mindset_profile' /></center>
