@@ -79,7 +79,7 @@ There are a variety of different strategies learners can use to lessen their lev
 > * Take a few deep breaths if you get stuck
 > * If there is an essay or another type of written response, spend 2-3 minutes creating an outline or pre-writing
  
-## Review and adapt learning techniques
+### Review and adapt learning techniques
 
 > After completing an exam, you may have some doubts and feelings of uncertainty. You may think: did you perform to the best of your ability? Did you use effective strategies? Could you have done something differently? Take note of the strategies you used for the exam, and determine what worked and what didn’t work. When you begin planning and studying for your next exam, make the appropriate changes so you can be better prepared.
 >  To become more effective at reviewing and adapting your learning techniques, click here ***link to metacognition – evaluation***
