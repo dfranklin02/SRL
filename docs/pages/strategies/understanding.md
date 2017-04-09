@@ -14,8 +14,10 @@ toc: false
     <li class="active">Understanding</li>
 </ul>
 
-<style> img {float: right; margin: 0px 0px 15px 20px}</style>
 
-<p><img src='images/mindsetsee1.png'>
-Test. Lets see where this goes. 
+<div style> img {float: right; margin: 0px 0px 15px 20px}</style>
+
+<p><img img src='images/mindsetsee1.png' alt='mindset_profile' />
+Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.” 
 </p>
+</div>
