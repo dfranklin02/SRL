@@ -22,7 +22,6 @@ There are a variety of different strategies learners can use to lessen their lev
 ### Create a schedule
 
 > Create a schedule of days and times to study and complete your work. In addition to helping you with time management, this schedule can ease your mind that you will have enough time to study all of the material.
-
 > *When you learn about an upcoming exam in a class, begin laying out your study plan. Figure out how much material you need to cover and how many days you have to cover that material. Then, begin putting in study times on specific days (i.e. Monday, study Chapter 5 for 2 hours, Tuesday, review Chapter 5 for 1 hour, Study Chapter 6 for 2 hours. Monday – Friday, complete practice work sheets,30 minutes each day).*
 
 > To become more effective at creating a schedule and other time management techniques, click here ***link to time management recommendations***
