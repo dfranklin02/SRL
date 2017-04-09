@@ -1,5 +1,5 @@
 ---
-title: Recommendations for Improving Mindset
+title: How can I improve my mindset?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -15,13 +15,11 @@ toc: false
     <li class="active">Recommendations</li>
 </ul>
 
-There are many different things students can do to improve their mindset. In the following figure, you can click on several different strategies for enhancing your mindset while completing learning tasks (e.g., writing a paper, studying for a test, completing difficult homework assignments). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
+There are many different things students can do to improve their mindset. Below are several different strategies for enhancing your mindset while completing learning tasks (e.g., writing a paper, studying for a test, completing a difficult homework assignment). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
 
 <center><img src='images/mindset_recommendations.png' alt='Mindset Recommendations' /></center>
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Be aware of your Mindset
-</div>
+### Be aware of your Mindset
 
 > Try to pay attention to how you talk to yourself about your schoolwork. It is important that you recognize when you respond to school activities with a Fixed mindset or a Growth mindset. A Fixed mindset will typically prompt you to question your ability to succeed and may convince you not to try, while your Growth mindset is more oriented towards seeing the positive in all situations.
 > 
