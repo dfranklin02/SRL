@@ -1,5 +1,5 @@
 ---
-title: How can your self-efficacy influence the way you think, feel, and act? 
+title: How can I improve my self-efficacy? 
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -15,9 +15,9 @@ toc: false
     <li class="active">Influence</li>
 </ul>
 
-The following figure can help you better understand the effects of having HIGH, MEDIUM, or LOW self-efficacy. This figure can also give you some ideas about the typical outcomes and feelings people might experience depending on their level of self-efficacy. **In what ways do the following descriptions reflect you as a learner?**
+There are many different things students can do to improve their self-efficacy. Below are several different strategies for enhancing your self-efficacy while completing learning tasks (e.g., writing a paper, studying for a test, completing difficult homework assignments). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
 
-<center><img src='images/selfefficacylearn.png' alt='self-efficacy_importance' /></center>
+<center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
 {% include footers/self-efficacy_footer.html %}
 
