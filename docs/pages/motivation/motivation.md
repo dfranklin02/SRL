@@ -18,6 +18,20 @@ Have you encountered a difficult assignment and thought, “I can’t do this, I
 
 <center><img src='images/motivationoverview.png' alt='motivation' /></center>
 
+Just remember, each of these four concepts represent *beliefs,* not actual abilities. Further, these beliefs can be changed or tweaked. A key purpose of the information presented in this motivation section is to help you learn how to improve how you think about yourself as a learner. If you would like to learn more about YOUR motivational beliefs, take the SRL survey here ***link to daacs.net website***.
+
+## WHY is motivation important?
+Many students in school believe that:
+- they cannot perform well in school *(low self-efficacy)*
+- they cannot change how smart they are *(fixed mindset)*
+- grades are more important than the process of learning *(performance goal orientation)*
+- they are overly stressed in school *(high test anxiety)* 
+
+These types of beliefs make it extremely difficult for students to excel and perform optimally in school. When students learn how to shift these negative motivation beliefs into more positive ways of thinking, they will be much more likely to persist and display resiliency as they attempt to overcome different challenges they experience.
+
+## HOW can I improve the use of motivation?
+To develop a deeper understanding about these four motivational beliefs – *Self-efficacy, Mindset, Goal Orientation, and Test Anxiety* – and to hear about some ideas on how to improve them, click on the **Learn, See,** and/or **Do** buttons. 
+
 <div class="row">
          <div class="col-lg-12">
              <h2 class="page-header">Learn more about the four aspects of motivation</h2>
