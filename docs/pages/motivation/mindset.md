@@ -1,5 +1,5 @@
 ---
-title: Mindset
+title: WHAT is mindset?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -14,8 +14,7 @@ toc: false
     <li class="active">Mindset</li>
 </ul>
 
-
-## WHAT is mindset?
+<center><img src='images/mindset1.png' alt='mindset' /></center>
 
 Mindset refers to your beliefs about whether you think your intelligence or ability is fixed or if it can change over time. It refers to your *beliefs* about whether your intelligence or ability can improve. But you should recognize that it does NOT represent whether you are smart or not.
 
@@ -26,9 +25,6 @@ Generally speaking, there are two mindsets: **Fixed mindset** and **Growth minds
 * Learners with a **Growth** mindset believe intelligence can be improved with effort; they tend to view mistakes as a normal part of learning and grow from challenges they encounter.
 
 * Learners with a **Mixed** mindset may adopt either a Fixed or Growth mindset depending on the class, topic, or situation; they may also be unsure about whether or not their intelligence can change.
-
-
-<center><img src='images/motivation2.png' alt='Motivation' /></center>
 
 ## WHY is mindset important?
 
