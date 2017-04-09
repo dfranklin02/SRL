@@ -1,5 +1,5 @@
 ---
-title: Why is it important to have high self-efficacy? 
+title: How can your self-efficacy influence the way you think, feel, and act? 
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -15,17 +15,9 @@ toc: false
     <li class="active">Influence</li>
 </ul>
 
-## Why is it important to have high self-efficacy? 
+The following figure can help you better understand the effects of having HIGH, MEDIUM, or LOW self-efficacy. This figure can also give you some ideas about the typical outcomes and feelings people might experience depending on their level of self-efficacy. **In what ways do the following descriptions reflect you as a learner?**
 
-You may be wondering whether having high or low self-efficacy matters. This is a GREAT question to think about. Of greatest importance of you to realize at this point is that there is a ton of research showing that students with high levels of confidence in their skills and abilities tend to try harder, persist longer, and ultimately perform better in school that students who are not very confident. 
-
-
-## How your self-efficacy can influence the way you think, feel, and act.
-
-
-The following figure can help you better understand the effects of having HIGH, MEDIUM, or LOW self-efficacy. This figure can also give you some ideas about the typical outcomes and feelings people might experience depending on their level of self-efficacy. 
-
-<center><img src='images/self-efficacy_influence.png' alt='Self-Efficacy Influence' /></center>
+<center><img src='images/selfefficacylearn.png' alt='self-efficacy_importance' /></center>
 
 {% include footers/self-efficacy_footer.html %}
 
