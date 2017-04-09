@@ -15,7 +15,7 @@ toc: false
     <li class="active">Why is Planning Important?</li>
 </ul>
 
-## How can Planning  influence the way you think, feel, and act?
+## How can planning  influence the way you think, feel, and act?
 
 The following figure will help you understand what it means to be a FREQUENT, PARTIAL, or INFREQUENT user of planning strategies. In reviewing this figure, you will also learn about the typical outcomes and feelings people might experience depending on how frequently they effectively plan. **In what ways do the following descriptions reflect you as a learner?**
 
