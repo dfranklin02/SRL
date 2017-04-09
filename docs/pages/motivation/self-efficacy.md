@@ -1,5 +1,5 @@
 ---
-title: Self-Efficacy for Learning with Self-Paced, Online Training
+title: WHAT is self-efficacy?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -14,27 +14,13 @@ toc: false
     <li class="active">Self-Efficacy</li>
 </ul>
 
-## What is Self-Efficacy? 
+<center><img src='images/selfefficacy1.png' alt='self-efficacy' /></center>
 
-Self-efficacy simply refers to is a person’s beliefs in his or her ability to do something – it involves how confident that person is in being able to perform well or to exhibit certain behaviors. Students have self-efficacy for many different things like studying, writing an essay, performing mathematics problems and many other academic tasks. Read below about what Maria’s low self-efficacy for online learning looks like:
+Self-efficacy refers to beliefs about one’s own ability or competency to do something. It involves levels of confidence to do specific things or the belief that one can perform well. The interesting thing about self-efficacy is that is it can vary across different courses and learning activities. For example, it would not be surprising to see that your self-efficacy for studying, writing an essay, or performing mathematics problems were very different. The DAACS SRL survey looked at a particular aspect of your self-efficacy – that is, how confident you are to learn and succeed when taking classes in an online environment. Thus, the information provided in this section is tailored to **self-efficacy for online learning,** but the principles we share are applicable to most other activities! 
 
-> Maria, a first year college student, was hesitant about enrolling in an online biology course. Although she possesses strong self-efficacy for reading, she was afraid that she wouldn’t understand the biology concepts without meeting face to face with an instructor to explain things – science had never been her strongest subject. The first class module was difficult for Maria, and she had a hard time understanding the topic. “I may as well give up now,” she thought, “Maybe this was a mistake.”
+To learn more about your self-efficacy for online learning, we encourage you to take the SRL survey by clicking here ***link to daacs.net***.
 
-
-<center><img src='images/motivation.png' alt='Motivation' /></center>
-
-You can interpret the feedback about your self-efficacy in the following
-way:
-
-* ***HIGH*** – your confidence or belief in your ability to learn and to display effective behaviors in an online environment is strong
-
-* ***MEDIUM*** - you likely have some confidence in these abilities, or your confidence varies across the different items
-
-* ***LOW*** – you do not have much confidence in your ability to learn in an online context; you may have a lot of self-doubt
-
-## Now that I know more about my self-efficacy, what should I do?
-
-To find out how you can improve your self-efficacy, and to learn more about the importance of self-efficacy and how it can make a difference in your life, click on the boxes in the figure below that are of interest to you. Click on all of the boxes that you feel may help you become more confident in yourself as a student.
+## WHY is self efficacy important?
 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/zWuyOJd90Ug?autoplay=0"></iframe></div>
