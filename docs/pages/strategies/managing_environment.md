@@ -46,6 +46,6 @@ The scenario below illustrates some of the challenges that may arise when learne
 Learning how to manage one’s study environment is a key to success in college! To develop your repertoire of skills to manage your environment please click on the **Learn**, **See**, and/or **Do** buttons.
 
 ## How can managing your environment influence the way you think, feel, and act?
-In the figure below, you will learn what it means to FREQUENTLY, PARTIALLY, or INFREQUENTLY use strategies for managing your environment. The figure also provides an overview of outcomes and feelings that learners often experience, depending on their use of environmental management strategies. In what ways do the following descriptions reflect you as a learner?
+In the figure below, you will learn what it means to FREQUENTLY, PARTIALLY, or INFREQUENTLY use strategies for managing your environment. The figure also provides an overview of outcomes and feelings that learners often experience, depending on their use of environmental management strategies. **In what ways do the following descriptions reflect you as a learner?**
 
 <center><img src='images/LSManagingEnvironment2.JPG' alt='Managing Environment' /></center>
