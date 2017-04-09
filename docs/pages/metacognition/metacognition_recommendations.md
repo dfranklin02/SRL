@@ -24,14 +24,6 @@ toc: false
 
 Making changes to the way you plan, monitor, and evaluate your thinking during learning activities in college can have a great impact on your academic, emotional, and personal well-being. Click on **Writing**, **Studying**, or **Reading** below to learn how you can improve the way you approach, complete, and reflect on these types of learning activities. 
 
-**What can I do when writing a paper or completing an assignment?** 
-
-  
-  
- 
-
-
-
 <div class="row">
          <div class="col-lg-12">
              <h2 class="page-header">Learn more about the improving your metacognition</h2>
