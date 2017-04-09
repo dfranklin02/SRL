@@ -14,21 +14,36 @@ toc: false
     <li class="active">Mindset</li>
 </ul>
 
-<center><img src='images/mindset1.png' alt='mindset' /></center>
+<center><img src='images/mindset1.png' alt='motivation' /></center>
 
-Mindset refers to your beliefs about whether you think your intelligence or ability is fixed or if it can change over time. It refers to your *beliefs* about whether your intelligence or ability can improve. But you should recognize that it does NOT represent whether you are smart or not.
+Mindset refers to your beliefs about whether your intelligence is fixed or can change over time. It refers to your *beliefs* about whether your intelligence or ability can improve, but **NOT** whether you are actually smart or not. Learners who have a *Growth mindset* tend to view mistakes as a normal part of learning and want to improve as they encounter challenges. Alternatively, learners with a *Fixed mindset* typically see mistakes as reflecting low ability or intelligence – something that they cannot change or improve. As a result, they tend to avoid challenging situations and are not sure about how to move forward after making mistakes. 
 
-Generally speaking, there are two mindsets: **Fixed mindset** and **Growth mindset.**
-
-* Learners with a **Fixed** mindset believe intelligence cannot be changed; they may see mistakes as a result of low ability or    intelligence which they believe cannot be changed. As a result, they tend to avoid challenging situations and are not sure about how to move forward from mistakes.
-
-* Learners with a **Growth** mindset believe intelligence can be improved with effort; they tend to view mistakes as a normal part of learning and grow from challenges they encounter.
-
-* Learners with a **Mixed** mindset may adopt either a Fixed or Growth mindset depending on the class, topic, or situation; they may also be unsure about whether or not their intelligence can change.
+If you are interested in learning more about your own mindset, we strongly encourage you to take the SRL survey by clicking here ***link to daacs.net***.
 
 ## WHY is mindset important?
+Adopting a Growth mindset is important because it can affect how you view success and failure and has a major influence on whether you persist or give up when encountering a challenge. 
 
-Read the brief scenarios about Ben and Nicole to get a better feel for these two mindsets:
+Adopting a Growth mindset across different topics and situations will: 
+
+- help you to cope and directly deal with struggles and challenges in school
+- enhance your desire to use learning strategies more frequently 
+- feel more confident in your academic abilities, especially when challenged
+- be more motivated to learn and use learning strategies 
+
+Alternatively, a Fixed mindset can adversely affect you in school. This type of mindset may lead you to: 
+
+- feel more anxious in school
+- avoid things that are difficult or challenging
+- give up when you get stuck or confused 
+- have negative emotional reactions, such as feeling defeated or helpless
+
+The scenarios below illustrate the distinctions in the experiences of students who exhibit different type of mindsets.
+
+>***FIXED:*** *Ben recently received a poor grade on his science midterm and was quick to label himself as “bad at science” and “a failure.” Ben decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Ben stopped paying attention in class, felt defeated, and barely studied for the final exam.*
+
+>***GROWTH:*** *Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that she could improve her ability to learn if she put in more effort and studied the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material.* 
+
+**Key thought:** Although a fixed mindset is often a negative thing, it is important to realize that having this type of mindset is NOT fixed!! That is, you can learn how to believe and act so that your intelligence can be enhanced with effort.
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
 Ben recently received a poor grade on his science midterm and was quick to label himself as “bad at science” and “a failure”. Ben decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Ben stopped paying attention in class, felt defeated, and barely studied for the final exam.
@@ -37,6 +52,10 @@ Ben recently received a poor grade on his science midterm and was quick to label
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>GROWTH:</b>
 Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve her ability to learn if she puts in more effort and studies the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material.*
 </div>
+
+## How can I improve my mindset?
+
+All students can benefit from improving their mindset! To learn more about a Growth mindset and different ways to enhance it, click on the **Learn, See,** and/or **Do** buttons. 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe iframe class="embed-responsive-item" src="https://player.vimeo.com/video/207330839" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
