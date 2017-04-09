@@ -49,6 +49,10 @@ The scenario below illustrates some of the potential problems that may arise whe
 ## HOW can I improve my help seeking skills?
 Be an advocate for yourself and seek out the help you need! Click on the **Learn**, **See**, and/or **Do** buttons to help develop your repertoire of help seeking strategies. 
 
+## How can seeking help influence the way you think, feel, and act?
+The following figure will help you understand what it means for learners to FREQUENTLY, PARTIALLY, or INFREQUENTLY ask for help. It also helps to convey the differences in outcomes and feelings people might experience depending on the frequency with which they seek out help. **In what ways do the following descriptions reflect you as a learner?**
+
+<center><img src='images/LSHelpSeeking2.JPG' alt='Help Seeking' /></center>
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/GImZ2erNt7A?autoplay=0"></iframe></div>
 
