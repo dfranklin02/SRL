@@ -17,6 +17,8 @@ toc: false
 
 ## WHAT is time management?
 
+<center><img src='images/LSManagingTime.JPG' alt='Managing Time' /></center>
+
 **Time management** is an important learning strategy linked to academic success. Time management involves planning your time. It could include things like setting aside time based on due dates for an assignment, estimating how long it might take to study or complete a project, and prioritizing schoolwork. It is very common for learners to use calendars or some other scheduling tool to do all of these things. People who frequently manage their time will likely set aside regular times for schoolwork, mark down due dates on a calendar, and keep track of how long assignments take to complete. 
 
 Learners may vary in how frequently they plan and manage their time. If you are interested in learning more about your time management skills, we strongly encourage you to take the SRL survey by going to demo.daacs.net.
@@ -42,3 +44,8 @@ The scenario below illustrates some of these potential problems that may arise w
 
 ## HOW can I improve my time management skills?
 All learners can benefit from improving their time management! Click on the **Learn**, **See**, and/or **Do** buttons to help develop your repertoire of time management strategies. 
+
+## How can time management influence the way you think, feel, and act?
+The following figure will help you understand what it means to manage your time on a FREQUENT, PARTIAL, or INFREQUENT basis.  It will also give you some ideas about the behaviors, outcomes and feelings people might experience depending on how frequently they manage their time. **In what ways do the following descriptions reflect you as a learner?**
+
+<center><img src='images/LSManagingTime2.JPG' alt='Managing Time' /></center>
