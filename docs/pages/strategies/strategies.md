@@ -14,7 +14,8 @@ toc: false
     <li class="active">Strategies</li>
 </ul>
 
-<center><img src='images/LS_Overview.JPG'  
+
+<center><img src='images/LSOverview.JPG'  
 
 
 ## WHAT are learning strategies? 
