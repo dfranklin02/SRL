@@ -14,7 +14,18 @@ toc: false
     <li class="active">Strategies</li>
 </ul>
 
+## WHAT are learning strategies? 
 
+Have you ever felt stuck on an assignment but were unsure how to ask for help? (Help Seeking). Or, maybe you asked for help, but you asked the day before the assignment was due, so you didn’t have enough time to finish the assignment (Managing your Time). Perhaps, the place at which you study is noisy or filled with distractions, such as TVs, social media, or family and friends (Managing your Environment). Finally, it could be that you study in the same way for a math test and a history test because you have a fixed way of studying or learning (Managing your Learning)? Each of these situations are directly linked to a type of learning strategy; that is, a set of procedures for doing something. 
+
+An important thing to remember is that each of these four learning strategies are important, albeit for different reasons. Your use of these learning strategies may be equally developed or, as you can see in the figure above, you may use some strategies more often than others. It is also important to realize that your need to use these strategies can vary from class to class or situation to situation. If you are interested in learning about your use of these four strategies, take the SRL survey at demo.daacs.net.
+
+## WHY are learning strategies important?
+
+Successful learners will use various strategies to help them overcome different challenges that they experience. As a general rule of thumb, if you are having difficulty with managing your time efficiently, learning information in a class, or getting the assistance and help you need, you can probably benefit from using learning strategies more frequently and/or trying new strategies to help you learn.  
+
+## HOW can I improve the use of learning strategies?
+To further develop your knowledge and understanding about the four learning strategies – managing your time, managing your environment, asking for help, and improving your understanding – click on the Learn, See, and/or Do buttons.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/4lWWM2wlXz8?autoplay=0"></iframe></div>
 
