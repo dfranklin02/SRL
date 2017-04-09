@@ -47,6 +47,7 @@ toc: false
 > 2.  Estimate how long the assignment will take you. Consider the goals of the assignment and different approaches you can take.
 > 3.  Set aside regular times to work and set specific goals for each time period. Plan in extra time for certain approaches, such as writing an outline before writing a paper.
 > 4.  Try to identify the types of things you do to procrastinate, and eliminate one type at a time.
+> For more information on how to improve your time management, click here Time Management.
 
 <p class='question'>“How can I organize myself and my materials?”</p>
 
@@ -61,7 +62,7 @@ toc: false
 > - Your teacher
 > - Classmates
 > 
-> When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it.
+> When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. See "Help Seeking" in order to learn more about approaching teachers and classmates.
 
 
 ### While working on an assignment ask yourself...
@@ -69,8 +70,10 @@ toc: false
 <p class='question'>“What strategies am I using that are or are not working well to help me learn?”</p>
 
 > **WHEN** you get stuck, **ASK** yourself “Am I using the best method possible to write this paper? Should I use a different approach?”
->
-> For example, if using an outline did not help, you can organize your thoughts in a flow chart or other graphic organizer.
+
+> For example, if using an outline did not help, you can organize your thoughts in a flow chart or other graphic organizer. 
+
+> To become more effective at using different learning strategies (e.g., making an outline), click on "Learning Strategies".
 
 <p class='question'>“What other resources could I use to complete this task?”</p>
 
@@ -86,6 +89,7 @@ toc: false
 
 > **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. > 
 > **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
+>For more information on asking for help, click here on "Help Seeking".
 
 <p class='question'>“Am I meeting my learning goals?”</p>                                        
 
