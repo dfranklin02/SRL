@@ -43,27 +43,17 @@ There are a variety of different strategies learners can use to lessen their lev
 
 ### Use positive self-talk
 
-
-
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Use positive self talk
-</div>
-
 > You can build your self-confidence and reduce test anxiety by using positive self-talk – saying positive and encouraging statements to yourself. When you become anxious about tests or other evaluation situations, it is important to remind yourself of past successes, motivate yourself to keep trying, to reassure yourself, and to stay calm. Some common things to say to yourself when anxious as you do your work is:
 
 > * “It’s OK…don’t worry. You can do this.”
 > * “Take a few minutes to relax and breathe.”
 > * “I can reach out for some help if I can’t get this.”
 > * “I know this material, I studied.”
-                                              
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Challenge your irrational thinking
-</div>
+### Challenge your irrational thinking
 
 > We all have some negative thoughts from time to time such as:
-> * I’m going to fail this exam, there’s no point in studying”
-> * “I knew that answer! How could I have gotten that wrong”
+> * “I’m going to fail this exam, there’s no point in studying. I knew that answer! How could I have gotten that wrong?”
 > * “I’ll never pass this class.”
 > 
 > These types of thoughts can be very real for students. But these thoughts can also be extreme or irrational. Such thoughts are not going to help you pass the exam, pass the class, or help you feel confident in your actual abilities. To determine if your thoughts are irrational think to yourself:
@@ -71,34 +61,31 @@ Challenge your irrational thinking
 > * “Does this belief seem logical or reasonable?”
 > * “What evidence exists that supports this belief?”
 > 
-> Just because you got a few questions wrong, does not mean you failed the exam. It also does not mean you will fail the class or that you will drop out of school. While it is possible that you did not do well on the test, just make sure that your thinking does not drift to the negative extremes.
+> Just because you got a few questions wrong, it does not mean that you failed the exam. It also does not mean that you will fail the class or that you will drop out of school. While it is possible that you did not do well on the test, just make sure that your thinking does not drift to negative extremes.
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Practice relaxation techniques
-</div>
+### Practice relaxation techniques
 
-> While you are studying and before entering a classroom to take an exam, it is important to use breathing/relaxation techniques. The key thing is trying taking a few deep, slow breaths while consciously relaxing your muscles. Once you’re able to get yourself back in the zone and you release some tension, focusing on studying and the exam may become easier.
+> While you are studying and before entering a classroom to take an exam, it is important to use breathing/relaxation techniques. The key thing is trying taking a few deep, slow breaths while consciously relaxing your muscles. Once you’re able to get yourself back in the zone and you release some tension, focusing on studying and on the exam may become easier.
 > 
 > *Kathy was studying for her exam that was just a few days away. She started feeling overwhelmed with anxiety. Kathy had this feeling before; it usually ended with her avoiding her work because it was simply too uncomfortable. However, this time was different. Kathy put down her study materials, closed her eyes, and began taking long, deep breathes. Her focus shifted from the exam and studying to only focus on her breathing… the air going in and out of her lungs. She would take a long, deep breath, hold it for a few seconds, and then exhale. After about 5 minutes, Kathy felt more relaxed and knew she was in a better place to be able to focus and study.*
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Develop good test taking skills
-</div>
+
+### Develop good test taking skills
 
 > Learners sometimes feel overwhelmed by an exam and find themselves unable to focus and feeling scattered before even beginning the exam. It can be helpful to slow down at the beginning of a test and carefully read directions. It also can be helpful to briefly look over the entire exam before beginning so that you get a sense of the different section. There several other test-taking tips that can help with anxiety:
 > 
-> * Answer easy questions (or question to which you know the answer) first. This can free up time to devote to
-> Use positive self talk if you feel nervous
-> Take a few deep breaths if you get stuck
-> If there is an essay or another type of written response, spend 2-3 minutes creating an outline or pre-write
-                                              
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
-Review and adapt learning techniques
-</div>
+> * Answer easy questions (or question to which you know the answer) first. This can free up time to devote to harder questions.
+> * Use positive self talk if you feel nervous
+> * Take a few deep breaths if you get stuck
+> * If there is an essay or another type of written response, spend 2-3 minutes creating an outline or pre-writing
+ 
+## Review and adapt learning techniques
 
-> After completing an exam, you may have some doubts and feelings of uncertainty; did you perform to the best of your ability? Did you use effective strategies? Could you have done something differently? Take note of the strategies you used for the exam, and determine what worked and what didn’t work. When you begin planning and studying for your next exam, make the appropriate changes so you can be better prepared for the next exam.
->  
+> After completing an exam, you may have some doubts and feelings of uncertainty. You may think: did you perform to the best of your ability? Did you use effective strategies? Could you have done something differently? Take note of the strategies you used for the exam, and determine what worked and what didn’t work. When you begin planning and studying for your next exam, make the appropriate changes so you can be better prepared.
+>  To become more effective at reviewing and adapting your learning techniques, click here ***link to metacognition – evaluation***
+
 > *Tony took an exam a few weeks ago and has another one coming up in a week. He looked at his previous exam and took note of the questions he got wrong. He then went back to his study materials and thought about how he studied for that exam. With this information, he created a study plan for the upcoming exam. This plan involved changing some of his previous ways of studying (i.e. not reading the entire chapter) since it didn’t seem to benefit him. Although he had not yet taken the test, he felt more at ease because he felt better prepared.*
+
   
 
 
