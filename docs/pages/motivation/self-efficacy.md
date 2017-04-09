@@ -20,8 +20,26 @@ Self-efficacy refers to beliefs about one’s own ability or competency to do so
 
 To learn more about your self-efficacy for online learning, we encourage you to take the SRL survey by clicking here ***link to daacs.net***.
 
-## WHY is self efficacy important?
+## WHY is self-efficacy important?
 
+Learners with high self-efficacy for online learning are more likely to:
+- persist through challenges
+- engage more easily in school-related assignments and activities
+- experience greater satisfaction and enjoyment when learning
+
+On the contrary, learners who have low self-efficacy will often:
+- avoid online and/or challenging work
+- give up quickly when facing difficulties
+- be hesitant to take certain classes or to think about dropping out of school 
+
+The scenario below illustrates some of these potential problems that may arise when learners do not have a high self-efficacy for online learning: 
+> *Maria, a first year college student, was hesitant about enrolling in an online biology course. Although she possesses strong self-efficacy for reading, she was afraid that she wouldn’t understand the biology concepts without meeting face to face with an instructor to explain things – science had never been her strongest subject. The first class module was difficult for Maria, and she had a hard time understanding the topic. “I may as well give up now,” she thought, “Maybe coming back to school was a mistake.”*
+
+**Key Thought:** Students like Maria have many self-doubts when learning, which can cause them to give up prematurely and to avoid things. The key things that Maria needs are opportunities to practice working online so that she can experience some success. As students become more confident, they tend to try harder, persist longer, and perform better in school.
+
+## HOW can I improve my self-efficacy?
+
+Having low self-efficacy is not ideal–but it is not something to feel badly about. These beliefs can be changed and are under your control. To learn more about self-efficacy and different ways to enhance it, click on the **Learn, See,** and/or **Do** buttons. 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/zWuyOJd90Ug?autoplay=0"></iframe></div>
 
