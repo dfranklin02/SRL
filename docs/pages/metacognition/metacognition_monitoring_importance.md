@@ -19,7 +19,7 @@ toc: false
 
 To learn about what it means to be a FREQUENT, PARTIAL, or INFREQUENT user of monitoring strategies, please look at the figure below. This figure also delves into common outcomes that students experience depending on the frequency and skill with which they monitor. **In what ways do the following descriptions reflect you as a learner?**
 
-<center><img src='images/Monitor-Learning.png' alt='Monitoring Influence' /></center>
+<center><img src='images/Monitor-learning.png' alt='Monitoring Influence' /></center>
 
 
 
