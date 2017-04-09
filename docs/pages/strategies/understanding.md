@@ -14,6 +14,7 @@ toc: false
     <li class="active">Understanding</li>
 </ul>
 
+**NOTE: ERICA IS PLAYING WITH THE THOUGHT BUBBLES FOR SCENARIOS AND TRYING TO FIGURE OUT THE HTML. THAT IS WHY THIS PAGE LOOKS LIKE THIS (also it was blank at first so thats why)***
 
 <div style> img {float: right; margin: 0px 0px 15px 20px}</style>
 
