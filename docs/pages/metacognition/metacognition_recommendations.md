@@ -22,7 +22,7 @@ toc: false
     <li class="active">Recommendations</li>
 </ul>
 
-Making changes to the way you plan, monitor, and evaluate your thinking during learning activities in college can have a great impact on your academic, emotional, and personal well-being. Click on **Writing**, **Studying**, or **Reading** below to learn how you can improve the way you approach, complete, and reflect on these types of learning activities. 
+Making changes to the way you plan, monitor, and evaluate your thinking during learning activities in college can have a great impact on your academic, emotional, and personal well-being. Click on <i>**Writing**<i>, <em>**Studying**<em>, or **Reading** below to learn how you can improve the way you approach, complete, and reflect on these types of learning activities. 
 
 <div class="row">
          <div class="col-lg-12">
