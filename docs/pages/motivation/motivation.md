@@ -1,8 +1,8 @@
 ---
-title: Motivation
+title: What is motivation?
 tags: 
 keywords: 
-summary: "Motivation is literally the desire to do things. It's the difference between waking up before dawn to exercise and lazing around the house all day. It's the crucial element in setting and attaining goals — and research shows you can influence your own levels of motivation and self-control."
+summary:
 sidebar: mydoc_sidebar
 permalink: motivation.html
 folder: motivation
@@ -13,6 +13,9 @@ toc: false
     <li><a href="index.html">Home</a></li>
     <li class="active">Motivation</li>
 </ul>
+
+##
+
 
 
 <center><img src='images/motivation.png' alt='Motivation' /></center>
