@@ -25,6 +25,9 @@ There are many different things students can do to improve their mindset. Below 
 Lorem ipsum dolor text....
 </div>
 
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
 <div class="container">
