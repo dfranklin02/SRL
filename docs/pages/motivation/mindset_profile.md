@@ -16,7 +16,8 @@ toc: false
 </ul>
 
 The scenario below explores the mindset profile of a fictional college student, Ben. Click on the statements below to read about how Ben’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
-
+ 
+ Hello
 
  **Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
  
@@ -49,7 +50,7 @@ The scenario below explores the mindset profile of a fictional college student, 
          <br>
          <p>Ben continued to attend class, but became less motivated to pay attention and more withdrawn from the course. Because of Ben’s lack of motivation, he did not use effective learning strategies to study for the final. Instead, he only aimed for a passing grade on the exam, and did not care if he retained the information, regardless of whether or not it would benefit him in future classes. By the end of the course, Ben felt frustrated, defeated, and was debating whether he had the ability to do well in school. </p>
       </td>
-      <td>
+       <td>
          <img src='images/mindsetsee3.png' alt='mindset_profile' />
       </td>
    </tr>
