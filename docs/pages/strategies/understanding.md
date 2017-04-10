@@ -19,7 +19,7 @@ toc: false
 <div> 
 <style>
 img {
-    float: right;
+    float: left;
        margin: 0px 0px 15px 0px
 }
 </style>
@@ -40,7 +40,7 @@ Ben recently took his midterm exam in his science class; he thought the exam was
 <div> 
 <style>
 img {
-    float: left;
+    float: right;
        margin: 0px 15px 0px 0px
 }
 </style>
