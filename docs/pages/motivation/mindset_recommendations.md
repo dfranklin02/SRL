@@ -19,6 +19,14 @@ There are many different things students can do to improve their mindset. Below 
 
 <center><img src='images/mindset_recommendations.png' alt='Mindset Recommendations' /></center>
 
+<button data-toggle="collapse" data-target="#demo">Collapsible</button>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
+
+
+
 <div class="container">
   <a href="#demo" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
   <div id="demo" class="collapse">
