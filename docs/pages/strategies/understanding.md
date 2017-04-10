@@ -24,7 +24,7 @@ img {
 }
 </style>
 
-<p><img img src='images/mindsetsee1.png' width="100px" hieght="50px" alt='mindset_profile'/>
+<p><img img src='images/mindsetsee1.png' width="100px" height="50px" alt='mindset_profile'/>
 <br>
 <br>
 <br>
