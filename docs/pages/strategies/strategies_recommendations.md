@@ -1,4 +1,3 @@
-
 ---
 title: How can I improve my learning strategies?
 tags: 
@@ -8,6 +7,7 @@ permalink: strategies_recommendations.html
 folder: strategies
 toc: false
 ---
+
 <style>
 .question {
 	font-size:135%; 

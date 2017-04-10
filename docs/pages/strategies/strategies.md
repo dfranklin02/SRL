@@ -1,4 +1,3 @@
-
 ---
 title: Strategies
 tags: 
