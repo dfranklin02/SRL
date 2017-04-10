@@ -20,14 +20,12 @@ There are many different things students can do to improve their self-efficacy. 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
 ### Break down the task...
-
 > When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable. 
-
+>
 > *Brief Scenario*
 > *Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
 past, which makes her feel more confident about successfully writing this research paper.
 > Examples of questions to ask to help break down different tasks*
->
 > **RESEARCH PAPERS**
 > - Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
 instructions)? 
@@ -38,14 +36,14 @@ instructions)?
 > - What are the course materials and information that I need to use to study well? 
 > - Are there specific strategies that I can use to learn the information most effectively? 
 > - How can I check my comprehension while studying (e.g., quiz yourself after each topic, compare notes with a classmate)?
-
+>
 > To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***
 
 ### Seek help...
 > We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
-
+>
 > To become more effective at seeking help, click here ***link to help seeking recommendations***
-
+>
 > When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
 > 
 > *Brief Scenario* 
