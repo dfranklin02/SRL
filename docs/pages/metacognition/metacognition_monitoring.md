@@ -16,7 +16,7 @@ toc: false
 
 ## WHAT is monitoring?
 
-<center><img src='images/Monitoring-Chart.png' alt='Metacognition Cycle' /></center>
+<center><img src='images/Metacognition-Monitoring FINAL.PNG' alt='Metacognition Cycle' /></center>
 
 Monitoring is one of the three core areas of metacognition. Learners use monitoring strategies to build self-awareness and to take greater control how well they learn. Throughout your life, you will have many opportunities to monitor yourself – that is, to ‘check-in’ during a learning activity and ask yourself if you’re understanding the activity and meeting your learning goals. For example, learners can ask themselves, “Do I understand what I am studying?” or “Am I on the right track for this assignment?” By asking these types of questions, learners are encouraged to think about and reflect on strategies that work and adjust strategy use for the future.
 
@@ -40,6 +40,7 @@ Conversely, if you **do not** self-monitor your performance or the things you do
 
 The scenarios below illustrate the benefits of engaging in self-monitoring (see Sandra) along with the problems that may arise for college students when they do not self-monitor (see Jose).
 
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> 
 > *Jose, a third year college student, is currently enrolled in an online biology course. 
 > There are a lot of assigned readings for the class, and Jose tries to get through them 
 > as quickly as he can-–without stopping to make sure he understands what he is reading. 
@@ -47,6 +48,7 @@ The scenarios below illustrate the benefits of engaging in self-monitoring (see 
 > By the next day, Jose has usually forgotten what he read the night before, but he keeps 
 > doing the readings this way because he has so much to cover.*
 
+<div markdown="span" class="alert alert-warning" role="alert"><i class="fa fa-warning"></i>
 > *Sandra, Jose's classmate, also struggles to complete all the class readings, but she 
 > makes sure to pause and monitor her level of understanding of the reading. As she reads, 
 > Sandra highlights a word on the page that was confusing or marks an entire paragraph 
