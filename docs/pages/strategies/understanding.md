@@ -24,7 +24,7 @@ img {
 }
 </style>
 
-<p><img img src='images/mindsetsee1.png' alt='mindset_profile' width="200" hieght="100"/>
+<p><img img src='images/mindsetsee1.png' alt='mindset_profile' width="100" hieght="50"/>
 Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.” 
 </p>
 </div>
