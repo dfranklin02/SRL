@@ -47,7 +47,8 @@ toc: false
 > 2.  Estimate how long the assignment will take you. Consider the goals of the assignment and different approaches you can take.
 > 3.  Set aside regular times to work and set specific goals for each time period. Plan in extra time for certain approaches, such as writing an outline before writing a paper.
 > 4.  Try to identify the types of things you do to procrastinate, and eliminate one type at a time.
-> For more information on how to improve your time management, click here Time Management.
+
+For more information on how to improve your time management, click on "Time Management."
 
 <p class='question'>“How can I organize myself and my materials?”</p>
 
@@ -78,18 +79,21 @@ toc: false
 <p class='question'>“What other resources could I use to complete this task?”</p>
 
 > Resources:
-> Textbooks
+> - Textbooks
 > - Course lessons
 > - Your teacher
 > - Classmates
 > 
 > **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
 
+See "Help Seeking" in order to learn more about approaching teachers and classmates.
+
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
 > **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. > 
 > **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
->For more information on asking for help, click here on "Help Seeking".
+
+For more information on asking for help, click on "Help Seeking".
 
 <p class='question'>“Am I meeting my learning goals?”</p>                                        
 
@@ -103,6 +107,8 @@ toc: false
 > 1.  **ASK** yourself “Did I accomplish the assignment’s goals? Did I learn what I set out to?”
 > 2.  If your answer is “No” try to meet your goals before submitting the assignment. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.
 
+For more information on asking for help, click on "Help Seeking."
+
 <p class='question'>“What did I do that worked well? What should I change”</p>
 
 > 1.  **ASK** yourself “Did one learning strategy work better than others?”
@@ -114,4 +120,4 @@ toc: false
 > 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
 > 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.
 
-
+To learn strategies for seeking help, click on "Help Seeking."
