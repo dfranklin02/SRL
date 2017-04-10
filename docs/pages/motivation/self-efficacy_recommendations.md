@@ -39,11 +39,10 @@ instructions)?
 
 > To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***
 
+### Seek help...
+> We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
 
-
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
- Break down the task...
-</div>
+> To become more effective at seeking help, click here ***link to help seeking recommendations***
 
 > When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
 > 
