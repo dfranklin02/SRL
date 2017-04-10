@@ -18,11 +18,14 @@ toc: false
 There are many different things students can do to improve their mindset. Below are several different strategies for enhancing your mindset while completing learning tasks (e.g., writing a paper, studying for a test, completing a difficult homework assignment). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
 
 <center><img src='images/mindset_recommendations.png' alt='Mindset Recommendations' /></center>
+<br>
+<br>
+<button data-toggle="collapse" data-target="#aware">Be aware of your Mindset</button>
 
-<button data-toggle="collapse" data-target="#demo">Collapsible</button>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
+<div id="aware" class="collapse">
+Try to pay attention to how you talk to yourself about your schoolwork. It is important that you recognize when you respond to school activities with a Fixed mindset or a Growth mindset. A Fixed mindset will typically prompt you to question your ability to succeed and may convince you not to try, while a Growth mindset is more oriented towards seeing the positive in all situations.
+<br>
+> *When you encounter a difficult task or do not do as well on an assignment as you had hoped, pay attention to whether you exhibit Fixed mindset thoughts like, “I am not smart enough to write this essay” or “I bet everyone else in the class is more capable than me”, or whether you have thoughts that reflect a Growth mindset, “I can write this essay if I use a better strategy or make an outline first” and “I can do better if I just put in more time and effort.”*
 </div>
 
 <button data-toggle="collapse" data-target="#demo1">Collapsible</button>
@@ -32,21 +35,6 @@ Blub blub blu....
 </div>
 
 
-<div class="container">
-  <a href="#demo2" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
-  <div id="demo2" class="collapse">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-</div>
-
-<div data-role="main" class="ui-content">
-    <div data-role="collapsible">
-      <h1>Click me - I'm collapsible!</h1>
-      <p>I'm the expanded content.</p>
-    </div>
-  </div>
 
 
 ### Be aware of your Mindset
