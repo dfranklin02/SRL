@@ -28,6 +28,12 @@ There are many different things students can do to improve their mindset. Below 
     </div>
 </div>
 
+<div data-role="main" class="ui-content">
+    <div data-role="collapsible">
+      <h1>Click me - I'm collapsible!</h1>
+      <p>I'm the expanded content.</p>
+    </div>
+  </div>
 
 
 ### Be aware of your Mindset
