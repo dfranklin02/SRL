@@ -26,6 +26,14 @@ toc: false
          <img img src='images/mindsetsee1.png' width="100px" height="50px" alt='mindset_profile'/>
       </td>
    </tr>
+   <tr>
+      <td>
+         <img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
+      </td>
+      <td>
+         <p>Ben decided he did not have the knowledge or ability to do well on the upcoming final, and thought that no amount of effort and practice could change that. </p>
+      </td>
+   </tr>
 </table> 
  
  
