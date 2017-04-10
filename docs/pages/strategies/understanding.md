@@ -20,6 +20,9 @@ toc: false
 <table>
    <tr>
       <td>
+         <br>
+         <br>
+         <br>
          <p>Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.” </p>
       </td>
       <td>
@@ -31,6 +34,8 @@ toc: false
          <img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
       </td>
       <td>
+         <br>
+         <br>
          <p>Ben decided he did not have the knowledge or ability to do well on the upcoming final, and thought that no amount of effort and practice could change that. </p>
       </td>
    </tr>
