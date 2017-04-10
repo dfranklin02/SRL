@@ -16,7 +16,7 @@ toc: false
 
 ## WHAT is evaluation?
 
-<center><img src='images/Evaluation-Chart.png' alt='Metacognition Cycle' /></center>
+<center><img src='images/Metacognitive-Evaluation FINAL.PNG' alt='Metacognition Cycle' /></center>
 
 Evaluation is a very important aspect of metacognition. As a college student, there will be many opportunities for you to evaluate yourself – that is, to ask how well you performed something. When learners self-evaluate their performance, they may ask themselves, “Am I learning well on this activity?” or “What things did I find challenging?” These types of questions naturally prompt learners to think about the strategies that worked well for them and those that were less effective. 
 
@@ -41,7 +41,7 @@ However, when you **do** **not** self-evaluate on a regular basis, some problems
 
 
 The scenario below illustrates some of these potential challenges that may arise when learners do not use evaluation strategies:
-
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i>
 > *Anthony, a first-year college student, just finished taking his first
 > History exam of the semester. Often after an exam Anthony thinks to
 > himself, “I know how well I did on that exam; I’m content with my
