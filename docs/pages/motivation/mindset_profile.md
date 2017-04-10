@@ -17,8 +17,8 @@ toc: false
 
 The scenario below explores the mindset profile of a fictional college student, Ben. Click on the statements below to read about how Ben’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
 
-##**BEFORE** receiving SRL feedback – Ben used a **FIXED** mindset:
- ## **Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
+
+ **Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
  
 <table>
    <tr>
@@ -55,7 +55,7 @@ The scenario below explores the mindset profile of a fictional college student, 
    </tr>
 </table> 
  
- ## **AFTER** receiving SRL feedback – Ben began to adopt a **GROWTH** mindset:
+ **AFTER** receiving SRL feedback – Ben began to adopt a **GROWTH** mindset:
  
  <table>
    <tr>
