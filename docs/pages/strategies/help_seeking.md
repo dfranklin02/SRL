@@ -22,7 +22,7 @@ toc: false
 
 Some classes and topics in school can be very difficult. When learners take online classes, however, things can be even more challenging. In these learning situations, learners do not have face-to-face contact with teachers and they may not receive monitoring and feedback that is provided in other classroom contexts. Because all learners will encounter bumps in the road or will get stuck or confused at times, regardless of the type of classes they take, it is imperative that they feel confident and skilled to ask for help, when needed.
 
-Learners who frequently ask for help will try to gather information about details of upcoming tests or quizzes, guidance about how to complete an assignment, or explanations about complex concepts.
+-Learners who frequently ask for help will try to gather information about details of upcoming tests or quizzes, guidance about how to complete an assignment, or explanations about complex concepts.
 
 In college, learners may vary in how often they ask for help or use strategies to seek help. To become more skilled in seeking out help from others we strongly encourage you to first take the SRL survey at demo.daacs.net.
 
@@ -51,7 +51,7 @@ The scenario below illustrates some of the potential problems that may arise whe
 Be an advocate for yourself and seek out the help you need! Click on the **Learn**, **See**, and/or **Do** buttons to help develop your repertoire of help seeking strategies. 
 
 
-{% include footers/helpseeking_footer.html %}
+{% include footers/help-seeking_footer.html %}
 
 ## How can seeking help influence the way you think, feel, and act?
 The following figure will help you understand what it means for learners to FREQUENTLY, PARTIALLY, or INFREQUENTLY ask for help. It also helps to convey the differences in outcomes and feelings people might experience depending on the frequency with which they seek out help. **In what ways do the following descriptions reflect you as a learner?**
