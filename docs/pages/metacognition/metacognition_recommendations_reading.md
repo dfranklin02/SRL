@@ -42,12 +42,16 @@ toc: false
 
 > **BRAINSTORM** multiple approaches to accomplish the reading/lesson. If you have seen this type of reading/lesson before, what strategies worked best for you? Consider approaches such as summarizing each chapter or section of a lesson before moving onto the next.
 
+To become more effective at summarizing, or other methods for better understanding what you are reading, click on "Managing Understanding."
+
 *“How much time do I have to complete this? How much time do I need?”</p>
 
 > 1.  Start several days in advanced.
 > 2.  Estimate how long the reading/lesson will take you. Consider the goals of the reading/lesson and different approaches you can take.
 > 3.  Set aside regular times to work and set specific goals for each time period. Plan in extra time for obstacles, such as looking up terms in other resources before you can understand a reading or technological issues that may prevent you from accessing course content.
 > 4.  Try to identify the types of things you do to procrastinate, and eliminate one type at a time.
+
+To become more effective at time management, click on "Time Management."
 
 <p class='question'>“How can I organize myself and my materials?”</p>
 
@@ -64,6 +68,7 @@ toc: false
 >  
 > For instance, if you encounter technological difficulties, are there numbers you can call for help, rather than simply stopping the assignment?
 
+See "Help Seeking" in order to learn more about how to approach teachers and classmates for help.
 
 ### While reading ask yourself...
 
@@ -73,6 +78,7 @@ toc: false
 > 
 > **WHEN** reading, **ASK** yourself “What did I just read?” Summarize the reading or generate questions based on the reading to check your comprehension.
 
+For more information on strategies to help you learn, such as removing distractions from your environment or summarizing a reading, click on "Learning Strategies."
 
 <p class='question'>“What other resources could I use to complete this task?”</p>
 
@@ -84,6 +90,8 @@ toc: false
 > 
 > **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
 
+See "Help Seeking" in order to learn more about approaching teachersand classmates for help.
+
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
 > **ASK** yourself “What am I having trouble with?” **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
@@ -94,6 +102,8 @@ toc: false
 > 
 > **WRITE** or verbally state the information you have learned and check the accuracy of this information with your course materials.
 
+To become more effective at learning information to meet your learning goals, click on "Managing Understanding."
+
 ### After reading ask yourself...
 
 <p class='question'>“How well did I accomplish the goals of the assignment? What did I learn?”</p>
@@ -102,6 +112,7 @@ toc: false
 > 
 > 2.  If your answer is “No”, look back to the reading or lesson to try again. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.
 
+For more guidance on asking for help, click on "Help Seeking."
 
 <p class='question'>“What did I do that worked well? What should I change”</p>
 
@@ -114,4 +125,4 @@ toc: false
 > 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
 > 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another reading or lesson.
 
-
+For more information on asking for help, click on "Help Seeking."
