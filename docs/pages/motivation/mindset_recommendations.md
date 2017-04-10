@@ -25,14 +25,16 @@ There are many different things students can do to improve their mindset. Below 
 Lorem ipsum dolor text....
 </div>
 
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
+<button data-toggle="collapse" data-target="#demo1">Collapsible</button>
+
+<div id="demo1" class="collapse">
+Blub blub blu....
 </div>
 
 
 <div class="container">
-  <a href="#demo" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
-  <div id="demo" class="collapse">
+  <a href="#demo2" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
+  <div id="demo2" class="collapse">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
