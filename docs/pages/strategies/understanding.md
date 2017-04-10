@@ -41,11 +41,11 @@ Ben recently took his midterm exam in his science class; he thought the exam was
 <style>
 img {
     float: right;
-       margin: 0px 15px 0px 0px
+       margin: 0px 0px 0px 0px
 }
 </style>
 
-<p><img img src='images/mindsetsee2.png' alt='mindset_profile' width="100" hieght="50"/>
+<p><img img src='images/mindsetsee2.png' alt='mindset_profile'/>
 <br>
 <br>
 <br>
