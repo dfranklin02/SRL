@@ -40,7 +40,7 @@ When you have a test or assignment due on a specific date, start your work multi
 - Final touch ups – March 9th 
 *See the “Planning” page for more information about planning out your assignments ***link to Planning page***
 
-***Guiding Principle 2: Set aside regular times using a weekly calendar**
+**Guiding Principle 2: Set aside regular times using a weekly calendar**
 
 Many students often ask themselves, “When will find the time to do all of my work this week?” College life is busy and complex. To help make things more manageable, it is important to use calendars or other types of scheduling tools to plan and organize your time. For a general process to follow to organize your time using a calendar:
 - Write down all upcoming assignments and their due dates 
@@ -48,7 +48,7 @@ Many students often ask themselves, “When will find the time to do all of my w
 - Identify open time blocks or “potential” spaces to do your work
 - Make sure to space out work for complex assignments over several days
 
-*The figure below represents an example of what your weekly calendar might look like. Take  note of the multiple days and times set aside to complete an English paper (yellow boxes) and study for a science test (green boxes).
+The figure below represents an example of what your weekly calendar might look like. Take  note of the multiple days and times set aside to complete an English paper (yellow boxes) and study for a science test (green boxes).
 
 **Guiding Principle 3: Prioritize tasks**
 
