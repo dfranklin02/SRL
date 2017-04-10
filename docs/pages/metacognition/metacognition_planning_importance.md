@@ -19,7 +19,7 @@ toc: false
 
 The following figure will help you understand what it means to be a FREQUENT, PARTIAL, or INFREQUENT user of planning strategies. In reviewing this figure, you will also learn about the typical outcomes and feelings people might experience depending on how frequently they effectively plan. **In what ways do the following descriptions reflect you as a learner?**
 
-<center><img src='images/Planning-Learning.png' alt='Planning Influence' /></center>
+<center><img src='images/Planning-LEARN.PNG' alt='Planning Influence' /></center>
 
 {% include footers/planning_footer.html %}
 
