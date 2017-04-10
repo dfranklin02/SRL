@@ -82,7 +82,7 @@ The scenario below explores the mindset profile of a fictional college student, 
  </table> 
  
  
- 
+ {% include footers/mindset_footer.html %}
  
  
  
