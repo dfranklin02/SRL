@@ -34,6 +34,9 @@ Ben recently took his midterm exam in his science class; he thought the exam was
 </p>
 </div>
 
+<br>
+<br>
+
 <div> 
 <style>
 img {
