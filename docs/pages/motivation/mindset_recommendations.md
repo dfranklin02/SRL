@@ -79,6 +79,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 
 <div id="remind" class="collapse">
 1.  Reflect on a time when you successfully faced a challenge that seemed impossible based on your abilities at the time.
+<br>
 2.  Recall what you did to overcome this challenge, and how you managed to obtain the skills or behaviors necessary to do so.
 <br>
 </div>
@@ -91,36 +92,26 @@ Developing a growth mindset means accepting that improvement happens gradually a
 <br>
 <br>
     1. Determine someone you can reach out to; your academic advisor or a professor would be a good start.
+    <br>
     2. Write down questions you have to ask – if you would like help improving your mindset, you can ask about some of the other tactics listed or practice using a Growth mindset to work through some challenges you encounter.
+    <br>
     3. Do not get discouraged if your advisor or professor is not open to meeting at first; be persistent and advocate for yourself.
+    <br>
     4. Ask how you can contact this person in the future, in case more questions arise.
+    <br>
 <br>
 <br>
 To become more effective at help seeking, click here ***link to help seeking***
 </div>
 
 
+<button data-toggle="collapse" data-target="#Adopt">Adopt a Growth mindset in all aspects of your life</button>
 
-
-
-### Ask for help
-> Developing a growth mindset means accepting that improvement happens gradually and through hard work. Asking for help is not a sign of weakness. Rather, it is a sign that you care about your learning and want to put in the necessary effort to learn and improve your skills.
->
-> 1.  Determine someone you can reach out to; your academic advisor or a professor would be a good start.
-> 2.  Write down questions you have to ask – if you would like help improving your mindset, you can ask about some of the other tactics listed or practice using a Growth mindset to work through some challenges you encounter.
-> 3.  Do not get discouraged if your advisor or professor is not open to meeting at first; be persistent and advocate for yourself.
-> 4.  Ask how you can contact this person in the future, in case more questions arise.
->
-> To become more effective at help seeking, click here ***link to help seeking***
-
-<button data-toggle="collapse" data-target="#demo1">Collapsible</button>
-
-<div id="demo1" class="collapse">
-Blub blub blu....
+<div id="Adopt" class="collapse">
+Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
+<br>
 </div>
 
-### Adopt a Growth Mindset in all aspects of your life
 
-> Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
 
 {% include footers/mindset_footer.html %}
