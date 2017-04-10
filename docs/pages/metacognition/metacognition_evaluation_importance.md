@@ -19,7 +19,7 @@ toc: false
 
 The figure below is designed to help you understand what it means to be a FREQUENT, PARTIAL, or INFREQUENT user of evaluation strategies. In examining the figure, you will also learn ideas about the different outcomes and feelings people experience, depending on their use of self-evaluation. **In what ways do the following descriptions reflect you as a learner?**
 
-<center><img src='images/Evaluation-Learning.png' alt='Evaluating Influence' /></center>
+<center><img src='images/Evaluation-LEARN.PNG' alt='Evaluating Influence' /></center>
 
 
 {% include footers/evaluation_footer.html %}
