@@ -19,7 +19,27 @@ There are many different things students can do to improve their self-efficacy. 
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
-# How your self-efficacy can influence the way you think, feel, and act.
+### Break down the task...
+
+> When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable. 
+
+> *Brief Scenario:
+>Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire >paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) >writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
+>past, which makes her feel more confident about successfully writing this research paper.  *
+> *Examples of questions to ask to help break down different tasks *
+> # RESEARCH PAPERS 
+> - Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
+instructions)? 
+> - Are there certain strategies that can help me write the paper? 
+> - What steps can I take to review or check my progress (e.g., proofread each paragraph/section as you write it, ask a classmate to provide feedback)?
+> # STUDYING 
+> - What are the course materials and information that I need to use to study well? 
+> - Are there specific strategies that I can use to learn the information most effectively? 
+> - How can I check my comprehension while studying (e.g., quiz yourself after each topic, compare notes with a classmate)?
+
+> To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***
+
+
 
 <div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
  Break down the task...
