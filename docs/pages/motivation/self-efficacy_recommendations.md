@@ -25,8 +25,8 @@ There are many different things students can do to improve their self-efficacy. 
 
 > *Brief Scenario:*
 > *Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
-past, which makes her feel more confident about successfully writing this research paper.*
-> *Examples of questions to ask to help break down different tasks*
+past, which makes her feel more confident about successfully writing this research paper.
+> Examples of questions to ask to help break down different tasks *
 > **RESEARCH PAPERS**
 > - Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
 instructions)? 
