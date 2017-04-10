@@ -1,3 +1,4 @@
+
 ---
 title: How can I improve my learning strategies?
 tags: 
@@ -24,6 +25,7 @@ toc: false
 Improving how much you learn and the grades you attain in school often depends on how strategic you are about managing your time or environment, asking for help, and trying to learn and remember information from your classes. The key focus of this section is providing recommendations for using four strategies needed for college success: (1) **Managing your time**, (2) **Managing your environment**, (3) **Help seeking**, and (4) **Enhancing understanding and memory**. You may already use many of these strategies, and you may find that they are all not useful to you. But it is also likely that you will find many of these recommendations useful and important. 
 
 Please click on the strategy buttons that you think will be helpful to you. For each strategy section, we provide several examples of how you can use the strategy as you learn in college.
+
 
 ## Strategies to manage your TIME
 **Guiding Principle 1: Start studying/working several days in advance of due dates**
@@ -94,11 +96,12 @@ It may sound counterintuitive, but taking breaks in between completing assignmen
 
 When completing schoolwork or studying for a long time, it also important to consider alternating topics or tasks. For instance, you might focus on reading a book chapter for an hour, then switching to completing math problems before continuing your reading. While it might seem that finishing a reading then answering related questions on that same topic before moving onto another topics an effective way to study, you are less likely to remember the material later on. 
 
-***Guiding Principle 9: Reduce procrastination**
+**Guiding Principle 9: Reduce procrastination**
 
 Procrastination in school, or delaying when you attempt to complete some task or activity, can seem like a good idea in the short-term, since it provides an immediate reward. For instance, going to a party or taking an extra shift at work gives social interaction and monetary rewards that may seem more important than doing your schoolwork in the short-term. The problem is that procrastination becomes the norm, it hinders the likelihood that you will be able to complete tasks on time. 
 
 A first step to minimize a tendency to procrastinate, is to identify the types of things you do to procrastinate (e.g., scanning social media, watching TV, cleaning up/organizing your room). If you think about why you do these activities, it is likely that they provide you with some level of comfort or support. On the flip side, however, just remember that procrastination will often make time management a very difficult strategy to implement. 
+
 
 ## Strategies to manage your ENVIRONMENT
 **Guiding Principle 1: Study in a quiet place with minimal distractions**
@@ -155,7 +158,8 @@ Your classmates can be a great source of information and help throughout a cours
 
 Regardless of from whom you are trying get assistance, be persistent if your first attempt to connect does not get a response! Frequently, teachers and advisors receive so many emails that they cannot respond to all of them right way, or emails may get lost in cyber space. If you do not hear back right away, or are told that a teacher is not open to giving you extra time, do not get discouraged. For instance, if seeking help from your teacher was not successful, reach out to your advisor or another teacher you are familiar with and ask if they can help to facilitate a meeting with your teacher or provide you with other helpful resources. Highly successful students advocate for themselves and will find a way to get the information and assistance that they need.
 
-##Strategies to improve your LEARNING and UNDERSTANDING
+
+## Strategies to improve your LEARNING and UNDERSTANDING
 **Guiding Principle 1: Quiz and test yourself**
 
 Self-testing or completing practice tests is a highly effective strategy for improving learning and performance. Try one of the following methods to check how well you understand material and decide where to focus the remainder of your study efforts (hint: you should spend more time and effort on the areas that you struggle to answer correctly when you test yourself). You should continue to test yourself until items are answered correctly more than once, preferably with a chunk of time in between study sessions. Below are a few ideas about how to self-test.
