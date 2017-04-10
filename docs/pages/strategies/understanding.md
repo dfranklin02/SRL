@@ -18,7 +18,7 @@ toc: false
  
 <style>
 img {
-    float: left;
+    float: right;
        margin: 0px 0px 15px 0px
 }
 </style>
@@ -31,6 +31,7 @@ img {
 <br>
 Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.” 
 </p>
+<br>
 <br>
 <br>
 <p><img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
