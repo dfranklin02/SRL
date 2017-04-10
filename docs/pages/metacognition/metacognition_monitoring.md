@@ -16,7 +16,7 @@ toc: false
 
 ## WHAT is monitoring?
 
-<center><img src='images/Metacognition-Monitoring FINAL.PNG' alt='Metacognition Cycle' /></center>
+<center><img src='images/Metacognition=Monitoring FINAL.PNG' alt='Metacognition Cycle' /></center>
 
 Monitoring is one of the three core areas of metacognition. Learners use monitoring strategies to build self-awareness and to take greater control how well they learn. Throughout your life, you will have many opportunities to monitor yourself – that is, to ‘check-in’ during a learning activity and ask yourself if you’re understanding the activity and meeting your learning goals. For example, learners can ask themselves, “Do I understand what I am studying?” or “Am I on the right track for this assignment?” By asking these types of questions, learners are encouraged to think about and reflect on strategies that work and adjust strategy use for the future.
 
