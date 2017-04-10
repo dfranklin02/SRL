@@ -23,7 +23,7 @@ There are many different things students can do to improve their self-efficacy. 
 
 > When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable. 
 
-> *Brief Scenario:*
+> *Brief Scenario*
 > *Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
 past, which makes her feel more confident about successfully writing this research paper.
 > Examples of questions to ask to help break down different tasks *
@@ -46,87 +46,55 @@ instructions)?
 
 > When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
 > 
-> *Brief Scenario*
-> 
-> *Mary feels she does not have the skill to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the past, which makes her feel more confident about successfully writing this research paper.*
-> 
-> **Examples of questions to ask to help break down different tasks **
-> 
-> **RESEARCH PAPERS**
-> * Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment instructions)?
-> * Are there certain strategies that can help me write the paper?
-> * What are the steps to take help me review or check my progress (e.g., proofread each paragraph/section as you write it, ask a classmate to provide feedback)?
-> 
-> **STUDYING**
-> * What are there course materials and information that I need to use to study well?
-> * Are there specific strategies that I can use to learn the information most effectively?
-> * How can I check my comprehension while studying (e.g., quiz yourself after each topic, compare notes with a classmate)?
+> *Brief Scenario* 
+> *Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant to ask for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. *
 
-
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
- Seek help...
-</div>
-
-> We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
-> 
-> **Brief Scenario**
-> 
-> *Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant in asking for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. *
-
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
- Learn strategies to use...
-</div>
-
+### Learn strategies to use...
 > Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
-                                            
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
- Use positive self-talk...
-</div>
+> To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***   
 
+### Use positive self-talk...
 > It may sound silly but talking in a positive way to yourself is important. Most confident people use positive self-talk, such as telling themselves, “I can learn how to do this” and “I have done this successfully before, I can do it again.” Try to become more aware of the things you naturally say to yourself and remind yourself about your prior successes and accomplishments.
 > 
-> **Brief Scenario**
+> *Brief Scenario*
+> *As Samantha sat down to study for her math test she felt anxious and defeated. Because she was trying to become more aware of the types of things she thought about when studying, she soon realized that most of her thoughts were negative. She actually become motivated to write down the bad thoughts, and with the help of her advisor, rewrote them as positive statements.*
 > 
-> *As Samantha sat down to study for her math test she felt anxious and defeated. Because she was trying to become more aware of the types of things she thought about when studying, she soon realized that most of her thoughts were negative. She actually become motivated to write down the bad thoughts and with the help of her advisor, rewrote them as positive statements.*
-> 
-> **Examples of situations when you can use self-talk.**
-> * **WHEN** I feel overwhelmed while studying, **SAY**, “Breathe, I can do this, one bit at a time”
-> * **WHEN** I doubt my ability to write a paper, **SAY**, “Last paper I put in time and effort and I WAS able to learn the material even though it was hard at first – keep going”
-> * **WHEN** I get stuck in an online lesson, **SAY**, “I can use my skills and resources to get through this”
-> * **WHEN** I feel unmotivated to complete a reading, **SAY**, “This is difficult, but if I can push through I will feel better in the end”
+> *Examples of situations when you can use self-talk.*
+> * **WHEN** I feel overwhelmed while studying, **SAY**, “Breathe, I can do this, one bit at a time.”
+> * **WHEN** I doubt my ability to write a paper, **SAY**, “Last paper I put in time and effort and I WAS able to learn the material, even though it was hard at first – keep going.”
+> * **WHEN** I get stuck in an online lesson, **SAY**, “I can use my skills and resources to get through this.”
+> * **WHEN** I feel unmotivated to complete a reading, **SAY**, “This is difficult, but if I can push through I will feel better in the end.”
 > * **WHEN** I am bored and disinterested in the work, **SAY**, “Sometimes I will not like things in school but it is important to always try my best.”
 
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
- Practice and get feedback...
-</div>
-
+### Practice and get feedback...
 > When completing learning tasks like studying for an exam or writing a paper, set aside time to practice and get feedback after completing part or all of the assignment.
 > 
-> **Brief Scenario**
+> *Brief Scenario*
 > 
 > *Dylan was feeling unsure about his ability to write his final English paper, but knew that he needed to do well. Dylan decided to write a draft of the paper and get feedback from a friend or classmate before turning it in. He had not really done this before and was surprised that his classmate gave him 2-3 really useful things to help him improve. He felt more confident that he was submitting high quality work.*
-> 
-> There are many things you can do to practice and get feedback for different activities
+> There are many things you can do to practice and get feedback for different activities:
 > 
 > **TESTS**
-> * Quiz yourself
-> * Ask others to quiz you
+> * Quiz yourself.
+> * Ask others to quiz you.
 > * Compare your notes to others.
-> * Have a study partner and shared information
+> * Have a study partner and shared information.
 > 
 > **PAPER**
 > * Create an outline or summarize research articles to demonstrate your understanding of the content you are about to write about.
 > * Compare these materials with others in your class
 > * Ask your professor for feedback before you begin writing.
 > * Complete a draft of the paper early and ask others to proofread it.
+>
+>To become more effective in using learning strategies for papers, tests, etc., such as how to quiz yourself and/or create an outline, click here ***link to learning strategies***
 
-
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
- Develop a growth mindset...
-</div>
+### Develop a growth mindset...
 
 > It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or not competent. Success and confidence typically comes from much practice. [Click here to learn more about mindset.](mindset.html)
-                                            
+      
+> It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or incompetent. Success and confidence typically come from much practice. 
+> To learn more about mindset and how to improve it, [click here](mindset.html)
+
 <div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> 
  Review and record outcomes...
 </div>
