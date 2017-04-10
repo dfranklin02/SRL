@@ -40,7 +40,7 @@ Conversely, if you **do not** self-monitor your performance or the things you do
 
 The scenarios below illustrate the benefits of engaging in self-monitoring (see Sandra) along with the problems that may arise for college students when they do not self-monitor (see Jose).
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"
 > *Jose, a third year college student, is currently enrolled in an online biology course. 
 > There are a lot of assigned readings for the class, and Jose tries to get through them 
 > as quickly as he can-–without stopping to make sure he understands what he is reading. 
@@ -48,7 +48,7 @@ The scenarios below illustrate the benefits of engaging in self-monitoring (see 
 > By the next day, Jose has usually forgotten what he read the night before, but he keeps 
 > doing the readings this way because he has so much to cover.*
 
-<div markdown="span" class="alert alert-warning" role="alert"><i class="fa fa-warning">
+<div markdown="span" class="alert alert-warning" role="alert"><i class="fa fa-warning"
 > *Sandra, Jose's classmate, also struggles to complete all the class readings, but she 
 > makes sure to pause and monitor her level of understanding of the reading. As she reads, 
 > Sandra highlights a word on the page that was confusing or marks an entire paragraph 
