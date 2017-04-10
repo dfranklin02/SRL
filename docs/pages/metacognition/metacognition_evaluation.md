@@ -1,5 +1,5 @@
 ---
-title: Evaluatin
+title: Evaluating
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
