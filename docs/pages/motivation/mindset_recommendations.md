@@ -54,12 +54,12 @@ There are many different things students can do to improve their mindset. Below 
 
 ### Ask for help
 > Developing a growth mindset means accepting that improvement happens gradually and through hard work. Asking for help is not a sign of weakness. Rather, it is a sign that you care about your learning and want to put in the necessary effort to learn and improve your skills.
-
+>
 > 1.  Determine someone you can reach out to; your academic advisor or a professor would be a good start.
 > 2.  Write down questions you have to ask – if you would like help improving your mindset, you can ask about some of the other tactics listed or practice using a Growth mindset to work through some challenges you encounter.
 > 3.  Do not get discouraged if your advisor or professor is not open to meeting at first; be persistent and advocate for yourself.
 > 4.  Ask how you can contact this person in the future, in case more questions arise.
-
+>
 > To become more effective at help seeking, click here ***link to help seeking***
 
 ### Adopt a Growth Mindset in all aspects of your life
