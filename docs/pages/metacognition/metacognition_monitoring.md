@@ -14,7 +14,7 @@ toc: false
     <li class="active">Monitoring</li>
 </ul>
 
-## WHAT is monitoring?
+## WHAT is monitoring
 
 <center><img src='images/Monitoring-Chart.png' alt='Metacognition Cycle' /></center>
 
