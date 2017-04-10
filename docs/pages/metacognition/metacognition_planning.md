@@ -37,6 +37,7 @@ However, when you **do not** think or make a plan about completing work, some pr
 * not understand the learning strategies needed to perform well
 
 The scenario below illustrates some of these potential problems that may arise when learners do not use planning strategies:
+
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>GROWTH:</b>
 > *Sophia, a second year college student, was feeling stressed and
 > overwhelmed as her math course entered its second week. Luckily,
