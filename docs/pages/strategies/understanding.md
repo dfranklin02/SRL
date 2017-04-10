@@ -16,6 +16,28 @@ toc: false
 
 **NOTE: ERICA IS PLAYING WITH THE THOUGHT BUBBLES FOR SCENARIOS AND TRYING TO FIGURE OUT THE HTML HERE**
  
+ 
+<table>
+   <tr>
+      <td>
+         <p>Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.” </p>
+      </td>
+      <td>
+         <img img src='images/mindsetsee1.png' width="100px" height="50px" alt='mindset_profile'/>
+      </td>
+   </tr>
+</table> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <style>
 img {
     float: right;
