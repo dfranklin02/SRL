@@ -67,49 +67,48 @@ The figure below represents an example of what your weekly calendar might look l
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#timerec3" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec3" style="background-color:Lime; width:100%"><b><i>Guiding Principle 3:</i> Prioritize tasks</b></button>
 
 <div id="timerec3" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+It is important to note only identify the tasks you have to complete, but the importance of each of these task. 
 <br>
+<i>To prioritize different tasks you have to complete in a given week:</i>
+<ol>
+<li> Create a list of all of your schoolwork and assignments </li>
+<li> Identify the due dates for all assignments (e.g., begin with the paper due tomorrow, rather than the discussion post due 4 days from now) </li>
+<li> Identify the most important tasks that you need to accomplish </li>
+<li> Identify how long you think it will take to complete each assignment (e.g., if a paper will take multiple hours, you may want to start with that paper, shift to a less intensive task, and then go back to the paper) </li>
+<li> Identify the most difficult tasks to complete (e.g., start with harder tasks while you have more energy and motivation) </li>
+</ol>
 <br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
 <br>
 </div>
 
-**Guiding Principle 3: Prioritize tasks**
 
-It is important to note only identify the tasks you have to complete, but the importance of each of these task. 
-*To prioritize different tasks you have to complete in a given week:*
-1. Create a list of all of your schoolwork and assignments
-2. Identify the due dates for all assignments (e.g., begin with the paper due tomorrow, rather than the discussion post due 4 days from now),
-3. Identify the most important tasks that you need to accomplish
-4. Identify how long you think it will take to complete each assignment (e.g., if a paper will take multiple hours, you may want to start with that paper, shift to a less intensive task, and then go back to the paper)
-5. Identify the most difficult tasks to complete (e.g., start with harder tasks while you have more energy and motivation).
-
-<button data-toggle="collapse" data-target="#timerec4" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec4" style="background-color:Lime; width:100%"><b><i>Guiding Principle 4:</i> Practice estimating the amount of time you need</b></button>
 
 <div id="timerec4" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+Becoming accurate in your estimation of the time needed to complete a task (e.g., writing a paper, studying) will help you to budget your time effectively. If you underestimate how long something will take (which is a very common thing to do), you may misjudge what you want need to do and then run out of time --- something that can be very frustrating! To become more accurate at estimation, look below for an example of what to do:
+<ol>
+<li> Make 3 columns on a piece of paper that you can easily and frequently access (e.g., in a planner). In the left-most column, write down a specific goal for your studying/schoolwork. For help setting goals, see the Set specific study goals strategy below. </li>
+<li> In the middle column, write how much time you think you will need to accomplish the goal. </li>
+<li> After you have completed the task, record the actual amount of time you spent working in the right-most column.  </li>
+</ol>
+For example, your estimation log may look like this:
 <br>
 <br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+Compare the difference between the estimated time and actual time spent on each task to help you more accurately estimate required time in the future. If there is a difference between your estimate and the actual time, be sure toask yourself:
+<ul>
+<li> Why was I so off in my estimation? </li>
+<li> Did something get in my way of completing it? </li>
+<li> What can I do differently to make sure things go more smoothly? </li>
+</ul>
+<br>
 <br>
 </div>
 
-**Guiding Principle 4: Practice estimating the amount of time you need**
 
-Becoming accurate in your estimation of the time needed to complete a task (e.g., writing a paper, studying) will help you to budget your time effectively. If you underestimate how long something will take (which is a very common thing to do), you may misjudge what you want need to do and then run out of time --- something that can be very frustrating! To become more accurate at estimation, look below for an example of what to do:
-1. Make 3 columns on a piece of paper that you can easily and frequently access (e.g., in a planner). In the left-most column, write down a specific goal for your studying/schoolwork. For help setting goals, see the Set specific study goals strategy below. 
-2. In the middle column, write how much time you think you will need to accomplish the goal.
-3. After you have completed the task, record the actual amount of time you spent working in the right-most column. 
 
-For example, your estimation log may look like this:
-
-Compare the difference between the estimated time and actual time spent on each task to help you more accurately estimate required time in the future. If there is a difference between your estimate and the actual time, be sure toask yourself:
-- Why was I so off in my estimation?
-- Did something get in my way of completing it?
-- What can I do differently to make sure things go more smoothly?
 
 <button data-toggle="collapse" data-target="#timerec5" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
 
