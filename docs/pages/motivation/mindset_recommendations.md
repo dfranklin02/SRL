@@ -26,7 +26,7 @@ There are many different things students can do to improve their mindset. Below 
 <br>
 <br>
 
-<style> button {background color : red;} </style>
+<style> .button {background color : red;} </style>
 
 <button data-toggle="collapse" data-target="#aware">Be aware of your Mindset</button>
 
