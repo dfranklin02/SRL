@@ -1,5 +1,5 @@
 ---
-title: Studying
+title: What can I do when studying for a quiz or exam?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -23,26 +23,84 @@ toc: false
     <li class="active">Studying</li>
 </ul>
 
-## What can I do when studying for a quiz or exam?
-
 ### Before studying ask yourself...
 
-<p class='question'>“What am I supposed to learn? What does the instructor want me to take away from this?”</p>
+<button data-toggle="collapse" data-target="#studyingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
 
-> **WRITE** a list of the information you will be tested on. **ASK** yourself “Am I forgetting about any topics or course materials that I need to study?”
+<div id="studyingbefore1" class="collapse">
+<b>WRITE</b> a list of the information you will be tested on. <b>ASK</b> yourself “Am I forgetting about any topics or course materials that I need to study?”
+<br>
+<br>
+</div>
 
-<p class='question'>“What do I already know and what would I like to learn?”</p>
+<button data-toggle="collapse" data-target="#studyingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
 
-> 1.  **BRAINSTORM** what you already know about the topic. **WRITE** down or verbally state the information from memory. Check the accuracy of this information with your class materials.
-> 2.  **ASK** yourself “What do I want to learn? How do these topics relate to what I already know?”
-> 3.  **WRITE** down goals for your studying so that you can return to them later.
+<div id="studyingbefore2" class="collapse">
+<ol>
+<li> <b>BRAINSTORM</b> what you already know about the topic. <b>WRITE</b> or verbally state the information from memory. Check the accuracy of this information with your class materials.</li>
+<li> <b>ASK</b> yourself “What do I want to learn? How do these topics relate to what I already know?” </li>
+<li> <b>WRITE</b> down goals for your studying so that you can return to them later.</li>
+</ol>
+<br>
+</div>
 
-<p class='question'>“What are some ways that I can accomplish this task?”</p>
+<button data-toggle="collapse" data-target="#studyingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
 
-> **BRAINSTORM** multiple approaches to studying.
-> If you have studied for a similar topic or test before, what study strategies worked best for you? Consider using flashcards or combining rewriting your class and/or reading notes into a studyguide.
+<div id="studyingbefore3" class="collapse">
+<b>BRAINSTORM</b> multiple approaches to studying. If you have studied for a similar topic or test before, what study strategies worked best for you? Consider using flashcards or combining rewriting your class and/or reading notes into a studyguide.
+<br>
+To help you better learn and understand information (e.g., to improve your study strategies), <a href="http://srl.daacs.net/understanding.html">click here</a>
+<br>
+<br>
+</div>
 
-click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to get assistance for approaching teachers and classmates for help.
+<button data-toggle="collapse" data-target="#studyingbefore4" style="background-color:LightGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
+
+<div id="studyingbefore4" class="collapse">
+<ol>
+<li> Start several days in advanced. </li>
+<li> Estimate how long the assignment will take you. Consider the goals of the assignment and different approaches you can take. </li>
+<li> Set aside regular times to work and set specific goals for each time period. Plan in extra time for certain approaches, such as writing an outline before writing a paper. </li>
+<li> Try to identify the types of things you do to procrastinate, and eliminate one type at a time. </li>
+</ol>
+For more information on how to improve your time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.
+<br>
+<br>
+</div>
+
+<button data-toggle="collapse" data-target="#studyingbefore5" style="background-color:LightGreen; width:100%"><b><i>“How can I organize myself and my materials?”</i></b></button>
+
+<div id="studyingbefore5" class="collapse">
+<ol>
+<li> Collect related course materials before beginning an assignment. Keep course materials in a binder and make sure you have class work from each class. </li>
+<li> If you feel overwhelmed by the material, use a graphic organizer or flow chart to connect your thoughts and course material. Re-writing the material can help you organize content. </li>
+</ol>
+<br>
+</div> 
+
+<button data-toggle="collapse" data-target="#studyingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What resources do I have to complete the task?”</i></b></button>
+
+<div id="studyingbefore6" class="collapse">
+Resources:
+<ul>
+<li> Textbooks </li>
+<li> Course lessons </li>
+<li> Teachers </li>
+<li> Classmates </li>
+</ul>
+When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. Click <a href="http://srl.daacs.net/help_seeking.html">here</a> in order to learn more about approaching teachers and classmates.
+<br>
+<br>
+</div>
+
+
+
+
+
+
+
+
+
 
 ### While studying ask yourself...
   
