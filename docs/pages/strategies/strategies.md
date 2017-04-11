@@ -1,8 +1,7 @@
 ---
-title: Strategies
+title: WHAT are learning strategies?
 tags: 
 keywords: 
-summary: "Strategies refer to the things that people think about and do to enhance their learning, knowledge or performance on an activity. They involve knowledge of procedures and understanding how to go about doing something. The SRL survey examined the frequency with which you reported using four categories of strategies: strategies for for help seeking, strategies for managing learning environments, strategies for managing time, and strategies for understanding."
 sidebar: mydoc_sidebar
 permalink: strategies.html
 folder: strategies
@@ -13,8 +12,6 @@ toc: false
     <li><a href="index.html">Home</a></li>
     <li class="active">Strategies</li>
 </ul>
-
-## WHAT are learning strategies? 
 
 Have you ever felt stuck on an assignment but were unsure how to ask for help? (Help Seeking). Or, maybe you asked for help, but you asked the day before the assignment was due, so you didn’t have enough time to finish the assignment (Managing your Time). Perhaps, the place at which you study is noisy or filled with distractions, such as TVs, social media, or family and friends (Managing your Environment). Finally, it could be that you study in the same way for a math test and a history test because you have a fixed way of studying or learning (Managing your Learning)? Each of these situations are directly linked to a type of learning strategy; that is, a set of procedures for doing something. 
 
