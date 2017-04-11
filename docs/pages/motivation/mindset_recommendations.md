@@ -49,7 +49,7 @@ Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if
 </div>
 
 
-<button data-toggle="collapse" data-target="#Reframe">Reframe how you think about successes and failures</button>
+<button data-toggle="collapse" data-target="#Reframe" style="background-color:MediumSpringGreen">Reframe how you think about successes and failures</button>
 
 <div id="Reframe" class="collapse">
 Think about successes and failures in terms of controllable factors – such as time, effort, and strategy use – rather than uncontrollable factors – such as your innate ability or difficulty of the task.
@@ -60,7 +60,7 @@ Think about successes and failures in terms of controllable factors – such as 
 </div>
 
 
-<button data-toggle="collapse" data-target="#neuroplasticity">Learn about neuroplasticity</button>
+<button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime">Learn about neuroplasticity</button>
 
 <div id="neuroplasticity" class="collapse">
 The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
@@ -71,7 +71,7 @@ The brain is like a muscle: the more you work out your brain through practice, t
 </div>
 
 
-<button data-toggle="collapse" data-target="#embrace">Embrace challenge</button>
+<button data-toggle="collapse" data-target="#embrace" style="background-color:LawnGreen">Embrace challenge</button>
 
 <div id="embrace" class="collapse">
 People with a Fixed Mindset often stay away from challenges for fear of failure. People with a Growth Mindset embrace challenges and view them as an opportunity to learn and grow. <b>When you encounter a challenge, try to think about what you can learn from the opportunity</b>, even if you do not succeed at the task. Challenges, hard work, and mistakes will help you learn and grow more than successfully accomplishing easy tasks.
@@ -82,7 +82,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 
-<button data-toggle="collapse" data-target="#remind">Remind yourself about successful attempts to use a Growth mindset</button>
+<button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow">Remind yourself about successful attempts to use a Growth mindset</button>
 
 <div id="remind" class="collapse">
 1.  Reflect on a time when you successfully faced a challenge that seemed impossible based on your abilities at the time.
@@ -92,7 +92,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 
-<button data-toggle="collapse" data-target="#ask">Ask for help</button>
+<button data-toggle="collapse" data-target="#ask" style="background-color:Yellow">Ask for help</button>
 
 <div id="ask" class="collapse">
 Developing a growth mindset means accepting that improvement happens gradually and through hard work. Asking for help is not a sign of weakness. Rather, it is a sign that you care about your learning and want to put in the necessary effort to learn and improve your skills.
@@ -113,7 +113,7 @@ To become more effective at help seeking, <a href="http://srl.daacs.net/help_see
 </div>
 
 
-<button data-toggle="collapse" data-target="#adopt">Adopt a Growth mindset in all aspects of your life</button>
+<button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange">Adopt a Growth mindset in all aspects of your life</button>
 
 <div id="adopt" class="collapse">
 Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
