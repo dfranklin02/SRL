@@ -1,5 +1,5 @@
 ---
-title: Monitoring
+title: WHAT is monitoring?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -13,8 +13,6 @@ toc: false
     <li><a href="metacognition.html">Metacognition</a></li>
     <li class="active">Monitoring</li>
 </ul>
-
-## WHAT is monitoring?
 
 <center><img src='images/Metacognition=Monitoring FINAL.PNG' alt='Metacognition Cycle' /></center>
 
