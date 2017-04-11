@@ -29,13 +29,13 @@ Please click on the strategy buttons that you think will be helpful to you. For 
 
 ## Strategies to manage your TIME
 
-<button data-toggle="collapse" data-target="#timerec1" style="background-color:Lime; width:100%"><b>Guiding Principle 1: Start STudying/working several days in advance of due dates</b></button>
+<button data-toggle="collapse" data-target="#timerec1" style="background-color:Lime; width:100%"><b><i>Guiding Principle 1:</i> Start Studying/working several days in advance of due dates</b></button>
 
 <div id="timerec1" class="collapse">
 When you have a test or assignment due on a specific date, start your work multiple days ahead of time. The earlier you start your work, the more time you will have to:
 <br>
-- spread out your studying into manageable chunks
-- deal with unexpected conflicts that may arise throughout the week, such as an unexpected doctor’s appointment or time lost to a fun activity
+<ul>spread out your studying into manageable chunks</ul>
+<ul>deal with unexpected conflicts that may arise throughout the week, such as an unexpected doctor’s appointment or time lost to a fun activity</ul>
 <br>
 <br>
 <i>How far in advance should you begin preparations?</i>In order to figure out how far in advance you should begin, create a timeline with a specific plan about what you will do each day. This will allow you to assess how much time everything will take, which will help you to decide on an appropriate start date. For example, if you have an English paper due in one week, you should immediately begin by first breaking up the task into smaller parts. If the paper had three unique components, you one possibility is to devote one day for each component and then having at least one day integrating, editing, and revising. Thus, if the assignment was due on March 10th, you may want to schedule the assignment as follows:
