@@ -11,7 +11,7 @@ toc: false
 <ul class="breadcrumb">
     <li><a href="index.html">Home</a></li>
     <li><a href="metacognition.html">Metacognition</a></li>
-    <li> class="active">Metacognition Profiles</li>
+    <li class="active">Metacognition Profiles</li>
 </ul>
 
 The figure below shows the interaction of the three metacognitive components (i.e., planning, monitoring, and evaluation) of a fictional college student, Ryan. Click on the statements below to read about what Ryan was like before using SRL survey feedback and after he began working with this feedback system over time. 
