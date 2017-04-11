@@ -81,7 +81,6 @@ It is important to note only identify the tasks you have to complete, but the im
 <li> Identify the most difficult tasks to complete (e.g., start with harder tasks while you have more energy and motivation) </li>
 </ol>
 <br>
-<br>
 </div>
 
 
@@ -104,11 +103,7 @@ Compare the difference between the estimated time and actual time spent on each 
 <li> What can I do differently to make sure things go more smoothly? </li>
 </ul>
 <br>
-<br>
 </div>
-
-
-
 
 <button data-toggle="collapse" data-target="#timerec5" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
 
