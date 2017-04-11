@@ -42,9 +42,9 @@ When you experience **high levels of anxiety,** you are likely to:
 
 The scenario below illustrates how your level of anxiety has the potential to influence how you think and what you do during learning. 
 
-
-
-> *Sal, a second year college student, was feeling extremely nervous about failing his math exam. At the mention of any exam, Sal immediately began to have negative thoughts -- he believed he was going to fail, and often questioned his ability to pass the exam and class. Sal worried so much that he often found it difficult to not only concentrate on the exam, but to complete homework and classwork. As his next math test approached, he thought, “It doesn’t matter how much I study, I don’t know anything. There’s no way I’m going to pass this exam, or this class.”*
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i>
+Sal, a second year college student, was feeling extremely nervous about failing his math exam. At the mention of any exam, Sal immediately began to have negative thoughts -- he believed he was going to fail, and often questioned his ability to pass the exam and class. Sal worried so much that he often found it difficult to not only concentrate on the exam, but to complete homework and classwork. As his next math test approached, he thought, “It doesn’t matter how much I study, I don’t know anything. There’s no way I’m going to pass this exam, or this class.”
+</div>
 
 **Key thought:** Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower anxiety about tests and other assignments and to improve performance.
 
