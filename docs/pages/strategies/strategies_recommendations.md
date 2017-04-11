@@ -388,8 +388,12 @@ The following scenario illustrates how the different types of Learning Strategie
 As you read the scenario, take note of how Stephen’s experiences changed based on his strategy use for managing his distractions in the environment
 
 Stephen is a 38-year-old male who has been enrolled at Excelsior for one semester. He typically takes two classes per semester, as he also has a full-time job and a family to care for. Stephen’s wife runs a business out of their home, which typically means that the office and living room are filled with many products and constant conversation. After Stephen completed his first semester, he felt overwhelmed with the amount of activity happening at home, which lead to him feeling distracted and unsure of his assignments for class. Stephen wanted to address these concerns early on during his second semester.  
+<br>
+<br>
 **BEFORE** Stephen began using SRL resources and recommendations:
+<br>
 *Infrequent use of strategies:*
+<br>
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 The second semester was entering its third week and Stephen already had multiple assignments to complete, including an upcoming exam in mathematics. In thinking about the prior semester, Stephen recalled that every time he tried to study or write a paper, he could not find a quiet place to work. Additionally, he often found himself stuck and unsure of the material. The problem was that he didn’t know who to turn to for help. Stephen’s feelings of frustration and anxiety overwhelmed him, so he put off beginning most tasks until two days before the assignment was due. Unfortunately, Stephen’s procrastination created even more stress because not only was he under a time crunch, he still had to deal with distractions and uncertainty about the assignment.
 </div><div class="col-md-6"><blockquote class="oval-thought">
