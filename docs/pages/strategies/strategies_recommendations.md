@@ -51,7 +51,6 @@ When you have a test or assignment due on a specific date, start your work multi
 <br>
 <br>
 </div>
-<br>
 
 <button data-toggle="collapse" data-target="#timerec2" style="background-color:Lime; width:100%"><b><i>Guiding Principle 2:</i> Set aside regular times using a weekly calendar</b></button>
 
