@@ -49,10 +49,9 @@ When you have a test or assignment due on a specific date, start your work multi
 <br>
 <i>See the <a href="http://srl.daacs.net/metacognition_planning.html">Planning page</a> for more information about planning out your assignments</i>
 <br>
+<br>
 </div>
-
-
-
+<br>
 
 <button data-toggle="collapse" data-target="#timerec2" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
 
