@@ -40,7 +40,7 @@ However, when you **do not** think or make a plan about completing work, some pr
 The scenario below illustrates some of these potential problems that may arise when learners do not use planning strategies:
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i>
-> Sophia, a second year college student, was feeling stressed and
+>*Sophia, a second year college student, was feeling stressed and
 > overwhelmed as her math course entered its second week. Luckily,
 > Sophia possesses strong time management skills. She printed her
 > syllabus, took out her student planner, and highlighted due dates for
@@ -51,7 +51,8 @@ The scenario below illustrates some of these potential problems that may arise w
 > enough time to complete the assignment a few days before its actual
 > due date. “Wow! I have a lot of assignments for this class,” she
 > thought, “It’s a good thing I’m planning the semester now. I wouldn’t
-> want to fall behind.”
+> want to fall behind.”*
+</div>
 
 **Key Thought**: Sophia's initial conversation with her advisor changed her outlook and perspective about school. He helped her realize that there was value in pausing and reflecting about an assignment for a few minutes before attempting to complete it. Having this realization naturally led Sophia to seek out additional assistance about how to become a more effective planner.
 
