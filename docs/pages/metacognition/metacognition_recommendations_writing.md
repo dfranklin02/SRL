@@ -64,7 +64,7 @@ For more information on how to improve your time management, click <a href="http
 > - Your teacher
 > - Classmates
 
-> When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. Click <a href="http://srl.daacs.net/help_seeking.html">here</a><br> in order to learn more about approaching teachers and classmates.
+When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. Click <a href="http://srl.daacs.net/help_seeking.html">here</a><br> in order to learn more about approaching teachers and classmates.
 
 
 ### While working on an assignment ask yourself...
@@ -87,7 +87,7 @@ For more information on how to improve your time management, click <a href="http
 > 
 > **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
 
-See "Help Seeking" in order to learn more about approaching teachers and classmates.
+CLick <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to learn more about approaching teachers and classmates.
 
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
