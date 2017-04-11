@@ -42,7 +42,7 @@ toc: false
 > **BRAINSTORM** multiple approaches to studying.
 > If you have studied for a similar topic or test before, what study strategies worked best for you? Consider using flashcards or combining rewriting your class and/or reading notes into a studyguide.
 
-click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>in order to get assistance for approaching teachers and classmates for help.
+click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to get assistance for approaching teachers and classmates for help.
 
 ### While studying ask yourself...
   
