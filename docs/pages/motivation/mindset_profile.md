@@ -17,12 +17,18 @@ toc: false
 
 The scenario below explores the mindset profile of a fictional college student, Ben. Click on the statements below to read about how Ben’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
  
- Hello
 
- **Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
- 
+**Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
+
+<div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
+Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.”
+</div><div class="col-md-6"><blockquote class="oval-thought">
+Ben responds to his poor grade with a Fixed mindset. Think about how things might change for Ben if he adjusted his internal monologue to reflect a growth mindset.
+</blockquote></div>
+
+
 <table>
-   <tr>
+   <!-- tr>
       <td>
          <br>
          <br>
@@ -32,7 +38,7 @@ The scenario below explores the mindset profile of a fictional college student, 
       <td>
          <img img src='images/mindsetsee1.png' width="100px" height="50px" alt='mindset_profile'/>
       </td>
-   </tr>
+   </tr -->
    <tr>
       <td>
          <img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
