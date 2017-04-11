@@ -15,23 +15,6 @@ toc: false
     <li class="active">Profiles</li>
 </ul>
 
-.oval-thought1 {
-  position:relative;
-  width:270px;
-  padding:50px 40px;
-  margin:1em auto 80px;
-  text-align:center;
-  color:#666;
-  background:#075698;
-  /* css3 */
-  background:-webkit-gradient(linear, 0 0, 0 100%, from(#2e88c4), to(#075698));
-  background:-moz-linear-gradient(#2e88c4, #075698);
-  background:-o-linear-gradient(#2e88c4, #075698);
-  background:linear-gradient(#2e88c4, #075698);
-  /*
-
-
-
 
 
 
@@ -55,7 +38,7 @@ Ben responds to his poor grade with a Fixed mindset. Think about how things migh
 
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.”
-</div><div class="col-md-6"><blockquote class="oval-thought1">
+</div><div class="col-md-6"><blockquote class="oval-thought2">
 Ben responds to his poor grade with a Fixed mindset. Think about how things might change for Ben if he adjusted his internal monologue to reflect a growth mindset.
 </blockquote></div>
 
