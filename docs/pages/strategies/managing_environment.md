@@ -1,5 +1,5 @@
 ---
-title: Strategies for Managing Learning Environments
+title: WHAT is managing your environment?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -14,7 +14,6 @@ toc: false
     <li class="active">Managing Environment</li>
 </ul>
 
-## WHAT is managing your environment?
 
 <center><img src='images/LSManagingEnvironment.JPG' alt='Managing Environment' /></center>
 
