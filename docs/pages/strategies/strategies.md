@@ -17,7 +17,7 @@ Have you ever felt stuck on an assignment but were unsure how to ask for help? (
 
 <center><img src='images/LSOverview.jpg' alt='Learning Strategies Overview Figure' /></center>
 
-An important thing to remember is that each of these four learning strategies are important, albeit for different reasons. Your use of these learning strategies may be equally developed or, as you can see in the figure above, you may use some strategies more often than others. It is also important to realize that your need to use these strategies can vary from class to class or situation to situation. If you are interested in learning about your use of these four strategies, take the SRL survey at demo.daacs.net.
+An important thing to remember is that each of these four learning strategies are important, albeit for different reasons. Your use of these learning strategies may be equally developed or, as you can see in the figure above, you may use some strategies more often than others. It is also important to realize that your need to use these strategies can vary from class to class or situation to situation. If you are interested in learning about your use of these four strategies, take the SRL survey by clicking <a href="https://demo.daacs.net/">here</a>.
 
 ## WHY are learning strategies important?
 
