@@ -153,6 +153,7 @@ When completing schoolwork or studying for a long time, it also important to con
 <div id="timerec9" class="collapse">
 Procrastination in school, or delaying when you attempt to complete some task or activity, can seem like a good idea in the short-term, since it provides an immediate reward. For instance, going to a party or taking an extra shift at work gives social interaction and monetary rewards that may seem more important than doing your schoolwork in the short-term. The problem is that procrastination becomes the norm, it hinders the likelihood that you will be able to complete tasks on time. 
 <br>
+<br>
 A first step to minimize a tendency to procrastinate, is to identify the types of things you do to procrastinate (e.g., scanning social media, watching TV, cleaning up/organizing your room). If you think about why you do these activities, it is likely that they provide you with some level of comfort or support. On the flip side, however, just remember that procrastination will often make time management a very difficult strategy to implement. 
 <br>
 <br>
