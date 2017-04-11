@@ -21,6 +21,7 @@ toc: false
     <li class="active">Recommendations</li>
 </ul>
 
+<center><img src='images/LSRecommendations.JPG' alt='Recommendations' /></center>
 
 Improving how much you learn and the grades you attain in school often depends on how strategic you are about managing your time or environment, asking for help, and trying to learn and remember information from your classes. The key focus of this section is providing recommendations for using four strategies needed for college success: (1) **Managing your time**, (2) **Managing your environment**, (3) **Help seeking**, and (4) **Enhancing understanding and memory**. You may already use many of these strategies, and you may find that they are all not useful to you. But it is also likely that you will find many of these recommendations useful and important. 
 
