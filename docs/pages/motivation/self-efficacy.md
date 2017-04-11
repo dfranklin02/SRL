@@ -34,7 +34,7 @@ On the contrary, learners who have low self-efficacy will often:
 
 The scenario below illustrates some of these potential problems that may arise when learners do not have a high self-efficacy for online learning: 
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i>
 Maria, a first year college student, was hesitant about enrolling in an online biology course. Although she possesses strong self-efficacy for reading, she was afraid that she wouldn’t understand the biology concepts without meeting face to face with an instructor to explain things – science had never been her strongest subject. The first class module was difficult for Maria, and she had a hard time understanding the topic. “I may as well give up now,” she thought, “Maybe coming back to school was a mistake.”
 </div>
 
