@@ -105,9 +105,9 @@ To become more effective at help seeking, click here ***link to help seeking***
 </div>
 
 
-<button data-toggle="collapse" data-target="#Adopt">Adopt a Growth mindset in all aspects of your life</button>
+<button data-toggle="collapse" data-target="#adopt">Adopt a Growth mindset in all aspects of your life</button>
 
-<div id="Adopt" class="collapse">
+<div id="adopt" class="collapse">
 Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
 <br>
 </div>
