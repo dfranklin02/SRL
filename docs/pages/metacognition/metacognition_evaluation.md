@@ -1,5 +1,5 @@
 ---
-title: Evaluating
+title: WHAT is evaluation?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -13,8 +13,6 @@ toc: false
     <li><a href="metacognition.html">Metacognition</a></li>
     <li class="active">Evaluating</li>
 </ul>
-
-## WHAT is evaluation?
 
 <center><img src='images/Metacognitive-Evaluation FINAL.PNG' alt='Metacognition Cycle' /></center>
 
