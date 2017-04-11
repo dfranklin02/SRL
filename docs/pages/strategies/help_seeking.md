@@ -21,7 +21,8 @@ Some classes and topics in school can be very difficult. When learners take onli
 
 Learners who frequently ask for help will try to gather information about details of upcoming tests or quizzes, guidance about how to complete an assignment, or explanations about complex concepts.
 
-In college, learners may vary in how often they ask for help or use strategies to seek help. To become more skilled in seeking out help from others we strongly encourage you to first take the SRL survey at demo.daacs.net.
+In college, learners may vary in how often they ask for help or use strategies to seek help. To become more skilled in seeking out help from others we strongly encourage you to first take the SRL survey by clicking <a href="https://demo.daacs.net/">here</a>.
+
 ## WHY is help seeking important?
 Consistently asking for help will increase the likelihood that you:
 
