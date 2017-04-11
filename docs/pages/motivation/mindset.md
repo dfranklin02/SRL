@@ -39,12 +39,6 @@ Alternatively, a Fixed mindset can adversely affect you in school. This type of 
 
 The scenarios below illustrate the distinctions in the experiences of students who exhibit different type of mindsets.
 
->***FIXED:*** *Ben recently received a poor grade on his science midterm and was quick to label himself as “bad at science” and “a failure.” Ben decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Ben stopped paying attention in class, felt defeated, and barely studied for the final exam.*
-
->***GROWTH:*** *Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that she could improve her ability to learn if she put in more effort and studied the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material.* 
-
-**Key thought:** Although a fixed mindset is often a negative thing, it is important to realize that having this type of mindset is NOT fixed!! That is, you can learn how to believe and act so that your intelligence can be enhanced with effort.
-
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
 Ben recently received a poor grade on his science midterm and was quick to label himself as “bad at science” and “a failure”. Ben decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Ben stopped paying attention in class, felt defeated, and barely studied for the final exam.
 </div>
@@ -52,6 +46,8 @@ Ben recently received a poor grade on his science midterm and was quick to label
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>GROWTH:</b>
 Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve her ability to learn if she puts in more effort and studies the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material.*
 </div>
+
+**Key thought:** Although a fixed mindset is often a negative thing, it is important to realize that having this type of mindset is NOT fixed!! That is, you can learn how to believe and act so that your intelligence can be enhanced with effort.
 
 ## How can I improve my mindset?
 
