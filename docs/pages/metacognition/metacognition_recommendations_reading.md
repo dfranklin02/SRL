@@ -42,16 +42,16 @@ toc: false
 
 > **BRAINSTORM** multiple approaches to accomplish the reading/lesson. If you have seen this type of reading/lesson before, what strategies worked best for you? Consider approaches such as summarizing each chapter or section of a lesson before moving onto the next.
 
-To become more effective at summarizing, or other methods for better understanding what you are reading, click on "Managing Understanding."
+To become more effective at summarizing, or other methods for better understanding what you are reading, click <a href="http://srl.daacs.net/managing_time.html">here</a>.<br>
 
-*“How much time do I have to complete this? How much time do I need?”</p>
+<p class='question'>“How much time do I have to complete this? How much time do I need?”</p>
 
 > 1.  Start several days in advanced.
 > 2.  Estimate how long the reading/lesson will take you. Consider the goals of the reading/lesson and different approaches you can take.
 > 3.  Set aside regular times to work and set specific goals for each time period. Plan in extra time for obstacles, such as looking up terms in other resources before you can understand a reading or technological issues that may prevent you from accessing course content.
 > 4.  Try to identify the types of things you do to procrastinate, and eliminate one type at a time.
 
-To become more effective at time management, click on "Time Management."
+To become more effective at time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.<br>
 
 <p class='question'>“How can I organize myself and my materials?”</p>
 
