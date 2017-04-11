@@ -272,55 +272,102 @@ Regardless of from whom you are trying get assistance, be persistent if your fir
 
 
 ## Strategies to improve your LEARNING and UNDERSTANDING
-**Guiding Principle 1: Quiz and test yourself**
 
+<button data-toggle="collapse" data-target="#understandingrec1" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 1:</i> Quiz and test yourself</b></button>
+
+<div id="understandingrec1" class="collapse">
 Self-testing or completing practice tests is a highly effective strategy for improving learning and performance. Try one of the following methods to check how well you understand material and decide where to focus the remainder of your study efforts (hint: you should spend more time and effort on the areas that you struggle to answer correctly when you test yourself). You should continue to test yourself until items are answered correctly more than once, preferably with a chunk of time in between study sessions. Below are a few ideas about how to self-test.
-- Complete sample questions at the end of book chapters and/or online resources that accompany textbooks 
-- Search for sample questions related to your topic online
-- Predict test questions and then practice answering them
-- Ask your teacher for practice questions/tests
-- Try to reproduce your notes without looking, then check to see how well you did
-- Take turns creating and responding to sample questions with a classmate; answer the question on your own before looking at your partner’s response
-- Create flashcards with the question or term on one side and the answer on the other (*link to effective flashcards on Excelsior or below in this section)
+<ul>
+<li> Complete sample questions at the end of book chapters and/or online resources that accompany textbooks </li>
+<li> Search for sample questions related to your topic online </li>
+<li> Predict test questions and then practice answering them </li>
+<li> Ask your teacher for practice questions/tests </li>
+<li> Try to reproduce your notes without looking, then check to see how well you did </li>
+<li> Take turns creating and responding to sample questions with a classmate; answer the question on your own before looking at your partner’s response </li>
+<li> Create flashcards with the question or term on one side and the answer on the other (*link to effective flashcards on Excelsior or below in this section) </li>
+</ul>
+<br>
+</div>
 
-**Guiding Principle 2: Spread out your studying over time**
+<button data-toggle="collapse" data-target="#understandingrec2" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 2:</i> Spread out your studying over time</b></button>
 
-This principle was also discussed as part of **Strategies for managing time**. Studying material across multiple days (i.e., reviewing some of the same material each day) is a highly effective way to maximize how much information you store in your memory. Sometimes you brain needs to hear the information in different ways and at different times before it truly can place it in long-term memory. This principles applies to other learning activities besides studying for tests. Thus, spreading out the time you devote to a writing assignment may also help you revise and tweak the essay more effectively than if you attempted to write in one sitting.
+<div id="understandingrec2" class="collapse">
+This principle was also discussed as part of <b>Strategies for managing time.</b> Studying material across multiple days (i.e., reviewing some of the same material each day) is a highly effective way to maximize how much information you store in your memory. Sometimes you brain needs to hear the information in different ways and at different times before it truly can place it in long-term memory. This principles applies to other learning activities besides studying for tests. Thus, spreading out the time you devote to a writing assignment may also help you revise and tweak the essay more effectively than if you attempted to write in one sitting.
+<br>
+<br>
+</div>
 
+<button data-toggle="collapse" data-target="#understandingrec3" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 3:</i> ELABORATE on material: Explain why something is true</b></button>
 
-**Guiding Principle 3: ELABORATE on material: Explain why something is true**
-
+<div id="understandingrec3" class="collapse">
 Instead of simply memorizing facts, push yourself to explain why an idea or concept is true. For instance, instead of simply accepting that the sun rises in the East and sets in the West ask yourself why this is true and explain to yourself the mechanisms behind why the sun moves in a certain direction. It is only when people go beyond memorizing facts and begin to examine questions of HOW and WHY that they truly come to understand a concept. 
+<br>
+<br>
+</div>
 
-**Guiding Principle 4: ELABORATE on material: Relate new information to other ideas**
+<button data-toggle="collapse" data-target="#understandingrec4" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 4:</i> ELABORATE on material: Relate new information to other ideas</b></button>
 
-For information to get into your long-term memory, it is often helpful to connect new information to things that you have already mastered and learned. It is essential that you relate class information to things you already know in order to improve your level of understanding. 
+<div id="understandingrec4" class="collapse">
+For information to get into your long-term memory, it is often helpful to connect new information to things that you have already mastered and learned. It is essential that you relate class information to things you already know in order to improve your level of understanding.  
+<br>
+<br>
+</div>
 
-**Guiding Principle 5: ELABORATE on material: Identify connection and relations**
+<button data-toggle="collapse" data-target="#understandingrec5" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 5:</i> ELABORATE on material: Identify connection and relations</b></button>
 
-It is essential that you understand the relationships between topics that you are learning. It is helpful to use graphic organizers, conceptual/thematic webs, and concept maps to integrate material and to understand the relationships between what you are learning. You may also want to use outlines to integrate all of your information so that it is easier to link large amounts of related information. Use graphic organizers and conceptual maps is helpful for when you study, reading information, or even write essays. 
+<div id="understandingrec5" class="collapse">
+It is essential that you understand the relationships between topics that you are learning. It is helpful to use graphic organizers, conceptual/thematic webs, and concept maps to integrate material and to understand the relationships between what you are learning. You may also want to use outlines to integrate all of your information so that it is easier to link large amounts of related information. Use graphic organizers and conceptual maps is helpful for when you study, reading information, or even write essays.
+<br>
+<br>
+</div>
 
-**Guiding Principle 6: Form mental images from text**
+<button data-toggle="collapse" data-target="#understandingrec6" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 6:</i> Form mental images from text</b></button>
 
+<div id="understandingrec6" class="collapse">
 When studying, it may help you to imagine what you are reading. Instead of just focusing on the act of reading, you should generate images in your mind that represent the content of what you are reading. This can also apply while you are in class or listening to material. For example, if you are learning about different types of habitats, it will help if you picture in your mind each habitat as you read about it. This way, you will be associating mental images with the content of the textbook and you can pull on these mental images when trying to remember what makes up different types of habitats.
+<br>
+<br>
+</div>
 
-**Guiding Principle 7: Talk aloud while you are reading**
+<button data-toggle="collapse" data-target="#understandingrec7" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 7:</i> Talk aloud while you are reading</b></button>
 
+<div id="understandingrec7" class="collapse">
 Instead of reading in your head, it helps to say what you are reading out loud. This strategy applies regardless of whether you are trying to read a textbook or class notes. By reading out loud, you will be learning the information through visual and auditory modalities, which will allow you to better remember what you are learning.
+<br>
+<br>
+</div>
 
-**Guiding Principle 8: Take and rewrite notes**
+<button data-toggle="collapse" data-target="#understandingrec8" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 8:</i> Take and rewrite notes</b></button>
 
+<div id="understandingrec8" class="collapse">
 Taking notes is an important step in learning material. When you are reading out of a textbook, for example, you should be sure to take notes on main ideas. This will allow you to conceptualize what you are reading and it also provides you with an outline to review instead of going back to the textbook to learn the material. Rewriting notes can also help to enhance clarity and the repetition will allow you to become more familiar with the topics.
+<br>
+<br>
+</div>
 
-**Guiding Principle 9: Make flash cards**
+<button data-toggle="collapse" data-target="#understandingrec9" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 9:</i> Make flash cards</b></button>
 
+<div id="understandingrec9" class="collapse">
 Use index cards in order to remember things such as facts, details, definitions, and formulas. You should write a question or key term on one side of the note card and then write an explanation on the back side of the card. In order to get the most from your flash cards, vary which side you look at first. For example, sometimes you want to be sure to look at the word and verbally say the definition that you expect to be on the other side. Other times, you should look at the definition and try to identify what vocabulary word or concept it is describing. It is essential that you use notecards repeatedly. Don’t just make them and assume that your studying is complete!
+<br>
+<br>
+</div>
 
-**Guiding Principle 10: Summarization**
+<button data-toggle="collapse" data-target="#understandingrec10" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 10:</i> Summarization</b></button>
 
-Writing summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text. 
+<div id="understandingrec10" class="collapse">
+Writing summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text.
+<br>
+<br>
+</div>
 
-**Guiding Principle 11: Gather detailed information about the assignment, project, or test**
+<button data-toggle="collapse" data-target="#understandingrec11" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 11:</i> Gather detailed information about the assignment, project, or test</b></button>
 
+<div id="understandingrec11" class="collapse">
 To perform well on any activity, students need to have a clear idea about the demands and requirements of those activities. This might involve identifying the content, format, and length of the test. When writing essay, you may want to identify the type of essay to be completed as well as it length or other requirements. Thus, regardless of the things you are asked to do in school, make sure you have a clear sense of what is actually being asked of you.
+<br>
+<br>
+</div>
+
+
 
