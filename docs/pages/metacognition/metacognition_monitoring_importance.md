@@ -1,5 +1,5 @@
 ---
-title: Why is Monitoring Important?
+title: How can self-monitoring influence the way you think, feel, and act?
 keywords: 
 tags: 
 sidebar: mydoc_sidebar
@@ -14,8 +14,6 @@ toc: false
     <li><a href="metacognition_monitoring.html">Monitoring</a></li>
     <li class="active">Why is Monitoring Important?</li>
 </ul>
-
-## How can self-monitoring influence the way you think, feel, and act?
 
 To learn about what it means to be a FREQUENT, PARTIAL, or INFREQUENT user of monitoring strategies, please look at the figure below. This figure also delves into common outcomes that students experience depending on the frequency and skill with which they monitor. **In what ways do the following descriptions reflect you as a learner?**
 
