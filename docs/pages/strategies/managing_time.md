@@ -1,5 +1,5 @@
 ---
-title: Strategies for Managing Time
+title: WHAT is time management?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -14,8 +14,6 @@ toc: false
     <li class="active">Managing Time</li>
 </ul>
 
-
-## WHAT is time management?
 
 <center><img src='images/LSManagingTime.JPG' alt='Managing Time' /></center>
 
