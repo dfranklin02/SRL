@@ -56,8 +56,6 @@ When you have a test or assignment due on a specific date, start your work multi
 
 <div id="timerec2" class="collapse">
 Many students often ask themselves, “When will find the time to do all of my work this week?” College life is busy and complex. To help make things more manageable, it is important to use calendars or other types of scheduling tools to plan and organize your time. For a general process to follow to organize your time using a calendar:
-
-<center><img src='images/LSTime2.JPG' alt='Calendar' /></center>
 <ul>
 <li>Write down all upcoming assignments and their due dates</li>
 <li> Write down all of the classes and non-school activities that you will be involved in during the week </li>
@@ -65,6 +63,9 @@ Many students often ask themselves, “When will find the time to do all of my w
 <li> Make sure to space out work for complex assignments over several days </li>
 </ul>
 The figure below represents an example of what your weekly calendar might look like. Take  note of the multiple days and times set aside to complete an English paper (yellow boxes) and study for a science test (green boxes).
+
+<center><img src='images/LSTime2.JPG' alt='Calendar' /></center>
+
 <br>
 <br>
 </div>
