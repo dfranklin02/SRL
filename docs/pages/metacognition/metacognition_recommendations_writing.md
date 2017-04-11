@@ -25,7 +25,7 @@ toc: false
 
 ### Before beginning the assignment ask yourself...
 
-<button data-toggle="collapse" data-target="#writingbefore1" style="background-color:SpringGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
 
 <div id="writingbefore1" class="collapse">
 Do you understand what the assignment is asking you to do? For example, is your paper supposed to be a narrative of your experiences or is it a research paper using peer-reviewed articles?
@@ -33,7 +33,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore2" style="background-color:SpringGreen; width:100%"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
 
 <div id="writingbefore2" class="collapse">
 <ol>
@@ -44,7 +44,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore3" style="background-color:SpringGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
 
 <div id="writingbefore3" class="collapse">
 <b>BRAINSTORM</b> multiple approaches to the assignment. If you have seen this type of assignment before, what strategies worked best for you? Consider approaches such as making an outline to organize your thoughts.
@@ -52,7 +52,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore4" style="background-color:SpringGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore4" style="background-color:LightGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
 
 <div id="writingbefore4" class="collapse">
 <ol>
@@ -66,7 +66,7 @@ For more information on how to improve your time management, click <a href="http
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore5" style="background-color:SpringGreen; width:100%"><b><i>“How can I organize myself and my materials?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore5" style="background-color:LightGreen; width:100%"><b><i>“How can I organize myself and my materials?”</i></b></button>
 
 <div id="writingbefore5" class="collapse">
 <ol>
@@ -76,7 +76,7 @@ For more information on how to improve your time management, click <a href="http
 <br>
 </div> 
 
-<button data-toggle="collapse" data-target="#writingbefore6" style="background-color:SpringGreen; width:100%"><b><i>“What resources do I have to complete the task?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What resources do I have to complete the task?”</i></b></button>
 
 <div id="writingbefore6" class="collapse">
 Resources:
