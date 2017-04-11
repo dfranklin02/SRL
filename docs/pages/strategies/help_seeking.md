@@ -56,6 +56,3 @@ The following figure will help you understand what it means for learners to FREQ
 
 <center><img src='images/LSHelpSeeking2.JPG' alt='Help Seeking' /></center>
 
-
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/GImZ2erNt7A?autoplay=0"></iframe></div>
-
