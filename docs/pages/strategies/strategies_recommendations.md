@@ -46,8 +46,7 @@ When you have a test or assignment due on a specific date, start your work multi
 <li>Component 3 – March 6th</li>
 <li>Integration and Revision - March 8th</li>
 <li>Final touch ups - March 9th</li>
-</ul>
-<br>
+</ul><br>
 <i>See the <a href="http://srl.daacs.net/metacognition_planning.html">Planning page</a> for more information about planning out your assignments</i>
 <br>
 <br>
@@ -57,6 +56,8 @@ When you have a test or assignment due on a specific date, start your work multi
 
 <div id="timerec2" class="collapse">
 Many students often ask themselves, “When will find the time to do all of my work this week?” College life is busy and complex. To help make things more manageable, it is important to use calendars or other types of scheduling tools to plan and organize your time. For a general process to follow to organize your time using a calendar:
+
+<center><img src='images/LSTime2.JPG' alt='Calendar' /></center>
 <ul>
 <li>Write down all upcoming assignments and their due dates</li>
 <li> Write down all of the classes and non-school activities that you will be involved in during the week </li>
@@ -80,6 +81,7 @@ It is important to note only identify the tasks you have to complete, but the im
 <li> Identify the most important tasks that you need to accomplish </li>
 <li> Identify how long you think it will take to complete each assignment (e.g., if a paper will take multiple hours, you may want to start with that paper, shift to a less intensive task, and then go back to the paper) </li>
 <li> Identify the most difficult tasks to complete (e.g., start with harder tasks while you have more energy and motivation) </li>
+
 </ol>
 <br>
 </div>
@@ -95,6 +97,7 @@ Becoming accurate in your estimation of the time needed to complete a task (e.g.
 <li> After you have completed the task, record the actual amount of time you spent working in the right-most column.  </li>
 </ol>
 For example, your estimation log may look like this:
+<center><img src='images/LSTime4.JPG' alt='Estimation Log' /></center>
 <br>
 <br>
 Compare the difference between the estimated time and actual time spent on each task to help you more accurately estimate required time in the future. If there is a difference between your estimate and the actual time, be sure toask yourself:
