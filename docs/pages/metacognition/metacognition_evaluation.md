@@ -20,7 +20,8 @@ toc: false
 
 Evaluation is a very important aspect of metacognition. As a college student, there will be many opportunities for you to evaluate yourself – that is, to ask how well you performed something. When learners self-evaluate their performance, they may ask themselves, “Am I learning well on this activity?” or “What things did I find challenging?” These types of questions naturally prompt learners to think about the strategies that worked well for them and those that were less effective. 
 
-As you can see in the figure above, learners can vary in how often they evaluate themselves in school (i.e., mastering, emerging, developing). If you have an interest in learning more about your current evaluation skills, please click on the following link to take the SRL survey https://demo.daacs.net/.
+As you can see in the figure above, learners can vary in how often they evaluate themselves in school (i.e., mastering, emerging, developing). If you have an interest in learning more about your current evaluation skills, please click on the following link to take the <a href="https://demo.daacs.net/">SRL survey</a>.
+<br>
 
 ## WHY is evaluation important?
 
