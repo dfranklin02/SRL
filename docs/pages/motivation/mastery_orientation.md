@@ -20,20 +20,20 @@ Goal orientation refers to the reasons individuals engage in a learning task. Th
 
 The extent to which you exhibit a Mastery Orientation is important because it can influence how you feel about school and is connected to other forms of motivation. If you are interested in learning more about whether you possess Mastery Orientation, we strongly encourage you to take the SRL survey by clicking here ***link to daacs.net***.
 
-## WHY is mindset important?
+## WHY is Mastery Orientation important?
 Adopting a high level of Mastery Orientation across different topics and situations will help you: 
 
-•	connect skills and knowledge to other classes 
-•	experience excitement and satisfaction in learning
-•	worry less about grades 
-•	be more motivated to learn, just for the sake of learning
+- connect skills and knowledge to other classes 
+- experience excitement and satisfaction in learning
+- worry less about grades 
+- be more motivated to learn, just for the sake of learning
 
 Alternatively, exhibiting a low level of Mastery Orientation can lead you to:
 
-•	feel anxious in school
-•	develop a Performance Orientation
-•	compare yourself to others, resulting in diminished confidence
-•	learn material on a superficial level, not for deep understanding
+- feel anxious in school
+- develop a Performance Orientation
+- compare yourself to others, resulting in diminished confidence
+- learn material on a superficial level, not for deep understanding
 
 The scenarios below illustrate some potential obstacles that may arise when learners have beliefs performance orientation beliefs, as well as how mastery orientation beliefs can help you overcome these obstacles. 
 
