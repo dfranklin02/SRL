@@ -219,13 +219,38 @@ Scented candles, classical music, or white noise may help keep you relaxed and f
 
 
 ## Strategies to help you get the HELP you need to learn
+
+<button data-toggle="collapse" data-target="#helpseekingrec1" style="background-color:Salmon; width:100%"><b><i>Guiding Principle 1:</i> Study in a quiet place with minimal distractions</b></button>
+
+<div id="helpseekingrec1" class="collapse">
+Completing schoolwork in a loud environment that includes people having conversations, the TV blaring in the background, or other distractors can make it difficult for students to focus, stay on topic, and study in an efficient manner. Find a quiet location, such as a library or quiet room in your house that is free from noise and other people. This will help reduce distractions in your environment, which will allow you to fully concentrate on the task at hand. You may believe that the TV in the background or family members talking on the side are not distracting, but you may be surprised how much more efficiently and carefully you work when you are in an environment with fewer distractions. Your mind can only process a certain amount of information before it gets distracted or overworked. 
+<br>
+<br>
+</div>
+
 **Guiding Principle 1: Identify the sources needed to answer your questions**
 
 All students get confused from time to time. When you do experience a challenge, ask yourself whether the answer can be found using non-social strategies (e.g., looking up things in notes/textbooks) or if another person is needed (e.g., your teacher, classmate, advisor) for help? Be sure to try both options in order to determine which strategy typically works better for you.
 
+<button data-toggle="collapse" data-target="#helpseekingrec2" style="background-color:Salmon; width:100%"><b><i>Guiding Principle 2:</i> Study in a quiet place with minimal distractions</b></button>
+
+<div id="helpseekingrec2" class="collapse">
+Completing schoolwork in a loud environment that includes people having conversations, the TV blaring in the background, or other distractors can make it difficult for students to focus, stay on topic, and study in an efficient manner. Find a quiet location, such as a library or quiet room in your house that is free from noise and other people. This will help reduce distractions in your environment, which will allow you to fully concentrate on the task at hand. You may believe that the TV in the background or family members talking on the side are not distracting, but you may be surprised how much more efficiently and carefully you work when you are in an environment with fewer distractions. Your mind can only process a certain amount of information before it gets distracted or overworked. 
+<br>
+<br>
+</div>
+
 **Guiding Principle 2: Identify and write down the specific things that give you trouble**
 
 One of the challenges in getting help from your teachers, advisors, or friends is that you may not know what to ask them. One of the first steps in getting help from others is to identify the specific assignments or topics that are challenging. But make sure to be specific in recording the things that are challenging for you and list them out so that you can ask the person at one time. The more prepared you are for a help-seeking session, the more productive it will likely be.
+
+<button data-toggle="collapse" data-target="#helpseekingrec3" style="background-color:Salmon; width:100%"><b><i>Guiding Principle 3:</i> Study in a quiet place with minimal distractions</b></button>
+
+<div id="helpseekingrec3" class="collapse">
+Completing schoolwork in a loud environment that includes people having conversations, the TV blaring in the background, or other distractors can make it difficult for students to focus, stay on topic, and study in an efficient manner. Find a quiet location, such as a library or quiet room in your house that is free from noise and other people. This will help reduce distractions in your environment, which will allow you to fully concentrate on the task at hand. You may believe that the TV in the background or family members talking on the side are not distracting, but you may be surprised how much more efficiently and carefully you work when you are in an environment with fewer distractions. Your mind can only process a certain amount of information before it gets distracted or overworked. 
+<br>
+<br>
+</div>
 
 **Guiding Principle 3: Identify how you should approach and contact your teacher/advisor**
 
@@ -235,9 +260,25 @@ At the start of a course, if possible, ask your teacher/advisor about the best w
 - how they provide feedback about assignments or projects 
 Establishing this level of contact early on in a semester can naturally open the door for future conversations.
 
+<button data-toggle="collapse" data-target="#helpseekingrec4" style="background-color:Salmon; width:100%"><b><i>Guiding Principle 4:</i> Study in a quiet place with minimal distractions</b></button>
+
+<div id="helpseekingrec4" class="collapse">
+Completing schoolwork in a loud environment that includes people having conversations, the TV blaring in the background, or other distractors can make it difficult for students to focus, stay on topic, and study in an efficient manner. Find a quiet location, such as a library or quiet room in your house that is free from noise and other people. This will help reduce distractions in your environment, which will allow you to fully concentrate on the task at hand. You may believe that the TV in the background or family members talking on the side are not distracting, but you may be surprised how much more efficiently and carefully you work when you are in an environment with fewer distractions. Your mind can only process a certain amount of information before it gets distracted or overworked. 
+<br>
+<br>
+</div>
+
 **Guiding Principle 4: Look to classmates as another source of help**
 
 Your classmates can be a great source of information and help throughout a course, even when you have not spoken to them in person. Try to identify two to three students in class with whom you would may want to seek out assistance. In an online learning environment, you can look for classmates who respond to discussion boards with thoughtful, comprehensive answers. You can also ask your teacher for advice about how to approach other students or if they can organize some group activities in class. After you determine who to ask for help, you can figure out appropriate ways to reach them, such as through their email, the class website, or in person during class. 
+
+<button data-toggle="collapse" data-target="#helpseekingrec5" style="background-color:Salmon; width:100%"><b><i>Guiding Principle 5:</i> Study in a quiet place with minimal distractions</b></button>
+
+<div id="helpseekingrec5" class="collapse">
+Completing schoolwork in a loud environment that includes people having conversations, the TV blaring in the background, or other distractors can make it difficult for students to focus, stay on topic, and study in an efficient manner. Find a quiet location, such as a library or quiet room in your house that is free from noise and other people. This will help reduce distractions in your environment, which will allow you to fully concentrate on the task at hand. You may believe that the TV in the background or family members talking on the side are not distracting, but you may be surprised how much more efficiently and carefully you work when you are in an environment with fewer distractions. Your mind can only process a certain amount of information before it gets distracted or overworked. 
+<br>
+<br>
+</div>
 
 **Guiding Principle 5: Advocate for yourself**
 
