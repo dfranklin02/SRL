@@ -72,12 +72,12 @@ The figure below shows the interaction of the three metacognitive components (i.
          <p>Upon completing the SRL survey and reviewing the different partsof the feedback, Ryan thought it would be bestto check-in with his advisor to find out more information regarding strategieshe could use. He realized that the frequency with which he engaged inmetacognition could be improved and therefore he needed to learn and usevarious strategies. Ryan gained insight into the fact that the frequency withwhich he plans, monitors, and evaluates his assignments are all related and canaffect his performance on an assignment. Therefore, he began to re-think hisapproach to school. Rather than waiting until the day before the exam to studyhe began to devote small segments of time each night. He also looked thesyllabus and study guide well in advance oftests so that he can figure out what might be the best way to study. He gotsome of these ideas about how to plan from the SRL survey feedback system and reached out tohis advisor to ask some questions about how he might become a better planner.He never realized that by preparing and thinking ahead he would actually becomemore relaxed and confident as a student <b>(Frequent Planning)</b>. </p>
       </td>
       <td>
-         <img img src='images/mindsetsee1.png' width="100px" height="50px">
+         <img img src='images/Frequent Planning=E2.PNG'>
       </td>
    </tr>
    <tr style="background-color:white">
       <td>
-         <img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
+         <img src='images/Frequent Monitoring=E (2).PNG'/>
       </td>
       <td>
          <br>
@@ -94,7 +94,7 @@ The figure below shows the interaction of the three metacognitive components (i.
 summaries of each topic after learning. This helps him to more thoroughly check his understanding. Ryan also writes down the strategies he uses to study (note cards, videos, outlining chapters, reading class notes, etc.). Using these evaluation tactics are important because it not only increases his awareness of the things he did to prepare for this tests, he will also have a better sense of what he might need change or adapt do when preparing for the next test <b>(Partial Evaluating).</b> </p>
       </td>
        <td>
-         <img src='images/Frequent Monitoring=E (2)' />
+         <img src='images/Partial Evaluation=E.PNG' />
       </td>
    </tr>
 </table> 
