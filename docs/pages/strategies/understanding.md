@@ -37,7 +37,7 @@ However, many learners do not use these types of strategies. If you do not use t
 
 The scenario below illustrates some of the difficulties that learners can experience when they do use strategies to enhance their learning and recall of course information:
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i>
+<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-exclamation-circle"></i>
 Steven, a second year college student, was feeling overwhelmed and defeated while studying for his math test. Steven decided to study by only reading all of the chapters that were going to be on the test. While studying, he realized that he was confused and did not understand what he was reading. Instead of going back and trying to understand the section, or using a different source to learn the information, he continued to read the entire chapter. Steven thought to himself, “I don’t get this stuff, but I don’t know what else I can do!” He got frustrated and thought to himself that there had to be a better way to study. “I have to figure out a good plan for studying. Maybe I should do practice problems and use visuals instead of just reading all of the chapters.” After seeking out help from his advisor, Steven began to look through his notes for the main concepts and practice problems that might appear on exams. By expanding his repertoire of strategies to study, Steven was setting himself up to better focus and learn the material. 
 </div>
 
