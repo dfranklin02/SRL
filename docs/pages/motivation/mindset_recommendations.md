@@ -20,7 +20,7 @@ toc: false
 
 
 
-There are many different things students can do to improve their mindset. Below are several different strategies for enhancing your mindset while completing learning tasks (e.g., writing a paper, studying for a test, completing a difficult homework assignment). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
+There are many different things students can do to improve their mindset. Below are several different strategies for enhancing your mindset while completing learning tasks (e.g., writing a paper, studying for a test, completing a difficult homework assignment). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. <b>Click on the strategies that you think will be helpful to you.</b> 
 
 <center><img src='images/mindset_recommendations.png' alt='Mindset Recommendations' /></center>
 <br>
