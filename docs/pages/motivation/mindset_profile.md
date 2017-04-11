@@ -54,6 +54,7 @@ Ben continued to attend class, but occasionally found himself thinking he was â€
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Ben became aware of when he was using a Fixed mindset and adjusted his internal monologue. This allowed him to think more about using learning strategies. 
 </blockquote></div>
-
+<br>
+<br>
  {% include footers/mindset_footer.html %}
 
