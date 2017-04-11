@@ -123,7 +123,9 @@ Instead of deciding that you need to “study for the math test”, it may be he
 <div id="timerec6" class="collapse">
 It is helpful to your learning if you spread out your studying and assignment completion over different days and/or to take breaks when studying on a given day. Engaging in “marathon” study sessions or cramming your work into one large block of time often hinders learning. 
 <br>
+<br>
 For example, it may be helpful to schedule tasks and create goals that will take you approximately 30 to 60 minutes to complete. For instance, it is more conducive to your motivation and learning if you set the goal of reading one book chapter in 60 minutes rather than saying that you will read 2 book chapters and answer questions in a 3 hour time block. To help you with this activity, you can use calendar to track what activities you have that day, what time you have available to study, and how you will break up your study time by task.
+<br>
 <br>
 For more help with creating a schedule, see the strategy <b>Set aside regular times using a weekly calendar</b>
 <br>
