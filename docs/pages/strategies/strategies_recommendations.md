@@ -399,30 +399,17 @@ The second semester was entering its third week and Stephen already had multiple
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen’s feeling of stress is linked with poor time management, use of an ineffective study location, and feeling “stuck” when needing help.
 </blockquote></div>
-<br>
-<br>
-<br>
-<br>
-
 <div class="col-md-6" style="margin-top: 150px"> <!-- Adjust the margin-top until the text displays where you want -->
 Stephen started to study two days before the math test because he forgot when the test was scheduled. With this limited time, he began scrambling to find a place to study at home. He followed his routine of studying by re-reading his notes and looking at sample problems. He decided to study in the home office, but his wife was constantly walking in and out, talking on the phone with her clients. Additionally, Stephen kept checking his phone for emails and text messages.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 The distractions in the office and the time crunch affected Stephen’s ability to focus.
 </blockquote></div>
-<br>
-<br>
-<br>
-<br>
-
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 As he re-read his notes, he began to get nervous because he did not remember how to complete several of the problems. He did not know whom he should ask for help. He decided that the best thing to do was to finish reading all of his notes and to makes sure he knows as much of the material as possible.  By the end of the night, Stephen felt overwhelmed, stressed, and unprepared for the test. The day of the test, Stephen couldn’t remember much of what he studied the night before. He thought to himself, “This is not good. I am going to fail!”
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen’s uncertainty on how to ask for help added on to his feelings of stress. He felt unfocused and underprepared for the test.
 </blockquote></div>
-<br>
-<br>
-<br>
-<br>
+
 
  **AFTER** Stephen began using SRL resources and recommendations:
 *Partial/Emerging use of strategies:*
@@ -431,13 +418,11 @@ Luckily, Stephen took the SRL survey. With the advice of his advisor, Stephen be
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen became aware of effective Learning Strategies.
 </blockquote></div>
-
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 As the semester continued, Stephen encountered other tests. With the support of his advisor, he began to approach his studying as opportunities to try his newly learned strategies. Stephen started with managing his time. He knew that his next test was a week away, and scheduled study days and times throughout that week. Stephen found it difficult to follow this schedule, as something seemed to always come up last minute. Stephen decided to tell his wife that he needed some time at home that was free of distractions. He shared his study schedule with her. This helped to initiate a conversation that led to an agreement that she would not come into the office during certain times of the day or night. Stephen also decided to leave his phone in a different room, so he would not be tempted to check it.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen learned how to manage his time and manage his distractions. While Stephen is showing progress, there are still some areas for improvement.  
 </blockquote></div>
-
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 Stephen also learned that there are many different ways to study; he didn’t have to simply re-read his notes. He needed to be more active. For example, he decided to use practice problems from relevant quizzes and homework and created flash cards for vocabulary terms and key points. When Stephen reached material that he was unsure of, he emailed his professor with specific questions. Stephen also used other resources (i.e. books, the internet, classmates), to try and work through the problem. While trying these new strategies, Stephen felt empowered and thought to himself, “Wow! I can see a difference already! I definitely feel more focused and I feel like I’m actually learning this material!”
 </div><div class="col-md-6"><blockquote class="oval-thought">
