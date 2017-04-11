@@ -52,12 +52,4 @@ The scenario below illustrates how your level of anxiety has the potential to in
 
 All learners can benefit from lessening and thereby improving their test anxiety! To learn more about test anxiety and different ways to decrease your level of test anxiety, click on the **Learn, See,** and/or **Do** buttons. 
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>High Test Anxiety</b> means having excessive worry about test performance while demonstrating little confidence in your ability to successfully complete exams.
-</div>
-
-<div markdown="span" class="alert alert-warning" role="alert"><i class="fa fa-warning"></i> <b>Medium Test Anxiety</b> means that you may worry about the exam and how it affects your test performance. You intermittently demonstrate some confidence in your ability to successfully complete exams.
-</div>
-
-<div markdown="span" class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Low Test Anxiety</b> means that while you may worry or feel nervous about an exam, you don’t let it affect your performance. You demonstrate confidence regarding your test performance.
-</div>
 {% include footers/anxiety_footer.html %}
