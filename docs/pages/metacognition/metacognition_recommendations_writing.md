@@ -7,7 +7,7 @@ permalink: metacognition_recommendations_writing.html
 folder: metacognition
 toc: false
 ---
-
+http://srl.daacs.net/managing_time.html
 <style>
 .question {
 	font-size:135%; 
@@ -48,7 +48,8 @@ toc: false
 > 3.  Set aside regular times to work and set specific goals for each time period. Plan in extra time for certain approaches, such as writing an outline before writing a paper.
 > 4.  Try to identify the types of things you do to procrastinate, and eliminate one type at a time.
 
-For more information on how to improve your time management, click on "Time Management."
+For more information on how to improve your time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.
+<br>
 
 <p class='question'>“How can I organize myself and my materials?”</p>
 
@@ -62,8 +63,8 @@ For more information on how to improve your time management, click on "Time Mana
 > - Course lessons
 > - Your teacher
 > - Classmates
-> 
-> When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. See "Help Seeking" in order to learn more about approaching teachers and classmates.
+
+> When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. Click <a href="http://srl.daacs.net/help_seeking.html">here</a><br> in order to learn more about approaching teachers and classmates.
 
 
 ### While working on an assignment ask yourself...
@@ -93,7 +94,7 @@ See "Help Seeking" in order to learn more about approaching teachers and classma
 > **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. > 
 > **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
 
-For more information on asking for help, click on "Help Seeking".
+For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
 <p class='question'>“Am I meeting my learning goals?”</p>                                        
 
@@ -107,7 +108,7 @@ For more information on asking for help, click on "Help Seeking".
 > 1.  **ASK** yourself “Did I accomplish the assignment’s goals? Did I learn what I set out to?”
 > 2.  If your answer is “No” try to meet your goals before submitting the assignment. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.
 
-For more information on asking for help, click on "Help Seeking."
+For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
 <p class='question'>“What did I do that worked well? What should I change”</p>
 
@@ -120,4 +121,4 @@ For more information on asking for help, click on "Help Seeking."
 > 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
 > 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.
 
-To learn strategies for seeking help, click on "Help Seeking."
+To learn strategies for seeking help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
