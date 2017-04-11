@@ -354,7 +354,7 @@ Taking notes is an important step in learning material. When you are reading out
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#understandingrec9" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 9:</i> Make flash cards</b></button>
+r<button data-toggle="collapse" data-target="#understandingrec9" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 9:</i> Make flash cards</b></button>
 
 <div id="understandingrec9" class="collapse">
 Use index cards in order to remember things such as facts, details, definitions, and formulas. You should write a question or key term on one side of the note card and then write an explanation on the back side of the card. In order to get the most from your flash cards, vary which side you look at first. For example, sometimes you want to be sure to look at the word and verbally say the definition that you expect to be on the other side. Other times, you should look at the definition and try to identify what vocabulary word or concept it is describing. It is essential that you use notecards repeatedly. Don’t just make them and assume that your studying is complete!
@@ -364,8 +364,8 @@ Use index cards in order to remember things such as facts, details, definitions,
 
 <button data-toggle="collapse" data-target="#understandingrec10" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 10:</i> Summarization</b></button>
 
-<div id="understandingrec10" class="collapse">
-Writing summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text.
+b<div id="understandingrec10" class="collapse">
+rWriting summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text.
 <br>
 <br>
 </div>
@@ -386,21 +386,26 @@ The following scenario illustrates how the different types of Learning Strategie
 •	Before he took the SRL survey and reviewed the feedback recommendations
 •	After he began using the recommended tips and strategies 
 
-As you read the scenario, take note of how Stephen’s experiences changed based on his strategy use for managing his distractions in the environment
+As you read the scenario, take note of how Stephen’s experiences changed based on his strategy use for managing his distractions in the environment.
 
 Stephen is a 38-year-old male who has been enrolled at Excelsior for one semester. He typically takes two classes per semester, as he also has a full-time job and a family to care for. Stephen’s wife runs a business out of their home, which typically means that the office and living room are filled with many products and constant conversation. After Stephen completed his first semester, he felt overwhelmed with the amount of activity happening at home, which lead to him feeling distracted and unsure of his assignments for class. Stephen wanted to address these concerns early on during his second semester.  
+
 **BEFORE** Stephen began using SRL resources and recommendations:
+
 *Infrequent use of strategies:*
+
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 The second semester was entering its third week and Stephen already had multiple assignments to complete, including an upcoming exam in mathematics. In thinking about the prior semester, Stephen recalled that every time he tried to study or write a paper, he **could not find a quiet place to work**. Additionally, he often found himself **stuck and unsure** of the material. The problem was that he didn’t know who to turn to for help. Stephen’s feelings of frustration and anxiety overwhelmed him, so he **put off beginning most tasks until two days before** the assignment was due. Unfortunately, Stephen’s procrastination created even more stress because not only was he under a time crunch, he still had to deal with distractions and uncertainty about the assignment.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen’s feeling of *stress* is linked with **poor time management**, use of an **ineffective study location**, and **feeling “stuck” when needing help**.
 </blockquote></div>
+<br>
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 Stephen started to study two days before the math test because he **forgot when the test was scheduled**. With this limited time, he began scrambling to find a place to study at home. He followed his routine of studying by **re-reading his notes** and looking at sample problems. He decided to study in the home office, but his **wife was constantly walking in and out**, talking on the phone with her clients. Additionally, Stephen kept **checking his phone for emails and text messages**.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 The **distractions** in the office and the **time crunch** affected Stephen’s ability to *focus*.
 </blockquote></div>
+<br>
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 As he re-read his notes, he began to get nervous because he did not remember how to complete several of the problems. He **did not know whom he should ask for help**. He decided that the best thing to do was to finish reading all of his notes and to makes sure he knows as much of the material as possible.  By the end of the night, Stephen felt *overwhelmed, stressed, and unprepared* for the test. The day of the test, Stephen *couldn’t remember much of what he studied the night before*. He thought to himself, “This is not good. I am going to fail!”
 </div><div class="col-md-6"><blockquote class="oval-thought">
@@ -410,7 +415,9 @@ Stephen’s **uncertainty on how to ask for help** added on to his feelings of s
 
  
  **AFTER** Stephen began using SRL resources and recommendations:
+ 
 *Partial/Emerging use of strategies:*
+
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 Luckily, Stephen took the SRL survey. With the advice of his advisor, Stephen began to look through the feedback section on **Learning strategies**. Gradually, Stephen began to realize that his stress and lower grades were due to his use of ineffective strategies. Whether it involved managing his environment or time, asking for help, and practicing math problems, Peter began to learned many strategies that could help him to perform better. While this seemed like a lot at first, Stephen realized that these are all related and can all be addressed! He began to look through the Learning Strategies recommendations.
 </div><div class="col-md-6"><blockquote class="oval-thought">
