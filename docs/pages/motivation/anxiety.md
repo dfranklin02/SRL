@@ -1,5 +1,5 @@
 ---
-title: Test Anxiety
+title: WHAT is test anxiety?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -13,9 +13,6 @@ toc: false
     <li><a href="motivation.html">Motivation</a></li>
     <li class="active">Test Anxiety</li>
 </ul>
-
-
-## **WHAT is Test Anxiety?**
 
 <center><img src='images/testanxiety1.png' alt='test anxiety' /></center>
 
