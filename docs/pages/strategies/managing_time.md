@@ -19,7 +19,7 @@ toc: false
 
 **Time management** is an important learning strategy linked to academic success. Time management involves planning your time. It could include things like setting aside time based on due dates for an assignment, estimating how long it might take to study or complete a project, and prioritizing schoolwork. It is very common for learners to use calendars or some other scheduling tool to do all of these things. People who frequently manage their time will likely set aside regular times for schoolwork, mark down due dates on a calendar, and keep track of how long assignments take to complete. 
 
-Learners may vary in how frequently they plan and manage their time. If you are interested in learning more about your time management skills, we strongly encourage you to take the SRL survey by going to demo.daacs.net.
+Learners may vary in how frequently they plan and manage their time. If you are interested in learning more about your time management skills, we strongly encourage you to take the SRL survey by clicking <a href="https://demo.daacs.net/">here</a>.
 
 ## WHY is time management important?
 By staying on top of managing your time for your schoolwork, you are much more likely to:
