@@ -60,7 +60,7 @@ Think about successes and failures in terms of controllable factors – such as 
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
 
 <div id="neuroplasticity" class="collapse">
 The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
