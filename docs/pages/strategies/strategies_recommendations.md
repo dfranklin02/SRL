@@ -292,7 +292,7 @@ Self-testing or completing practice tests is a highly effective strategy for imp
 <li> Ask your teacher for practice questions/tests </li>
 <li> Try to reproduce your notes without looking, then check to see how well you did </li>
 <li> Take turns creating and responding to sample questions with a classmate; answer the question on your own before looking at your partner’s response </li>
-<li> Create flashcards with the question or term on one side and the answer on the other (*link to effective flashcards on Excelsior or below in this section) </li>
+<li> Create flashcards with the question or term on one side and the answer on the other</li>
 </ul>
 <br>
 </div>
