@@ -1,5 +1,5 @@
 ---
-title: Planning
+title: WHAT is planning?
 keywords: 
 tags: 
 sidebar: mydoc_sidebar
@@ -13,9 +13,6 @@ toc: false
     <li><a href="metacognition.html">Metacognition</a></li>
     <li class="active">Planning</li>
 </ul>
-
-
-## WHAT is planning?
 
 <center><img src='images/Metacognition=Planning FINAL.PNG' alt='Metacognition Cycle' /></center>
 
