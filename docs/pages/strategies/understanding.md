@@ -1,5 +1,5 @@
 ---
-title: Strategies for Understanding
+title: WHAT is managing understanding?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -14,8 +14,6 @@ toc: false
     <li class="active">Understanding</li>
 </ul>
 
-
-## WHAT is managing understanding?
 
 <center><img src='images/LSManagingUnderstanding.JPG' alt='Managing Understanding' /></center>
 
