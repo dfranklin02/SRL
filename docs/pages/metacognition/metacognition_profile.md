@@ -24,8 +24,8 @@ The figure below shows the interaction of the three metacognitive components (i.
 
 ### Ryan’s metacognitive strategy use *BEFORE* using SRL Survey recommendations:
 
-<table style="background-color:white">
-   <tr>
+<table>
+   <tr style="background-color:white">
       <td>
          <br>
          <br>
