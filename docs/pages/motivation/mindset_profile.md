@@ -28,7 +28,7 @@ Ben responds to his poor grade with a Fixed mindset. Think about how things migh
 
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 Ben recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Ben received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.”
-</div><div class="col-md-6"><blockquote class="triangle-isosceles.left">
+</div><div class="col-md-6"><blockquote class="triangle-obtuse">
 Ben responds to his poor grade with a Fixed mindset. Think about how things might change for Ben if he adjusted his internal monologue to reflect a growth mindset.
 </blockquote></div>
 
