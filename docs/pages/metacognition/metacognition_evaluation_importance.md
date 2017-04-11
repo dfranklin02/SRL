@@ -1,5 +1,5 @@
 ---
-title: Why is Evaluation Important?
+title: How can evaluation influence the way you think, feel, and act?
 keywords: 
 tags: 
 sidebar: mydoc_sidebar
@@ -14,8 +14,6 @@ toc: false
     <li><a href="metacognition_evaluation.html">Evaluating</a></li>
     <li class="active">Why is Evaluation Important?</li>
 </ul>
-
-## How can evaluation influence the way you think, feel, and act?
 
 The figure below is designed to help you understand what it means to be a FREQUENT, PARTIAL, or INFREQUENT user of evaluation strategies. In examining the figure, you will also learn ideas about the different outcomes and feelings people experience, depending on their use of self-evaluation. **In what ways do the following descriptions reflect you as a learner?**
 
