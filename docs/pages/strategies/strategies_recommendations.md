@@ -395,18 +395,30 @@ The second semester was entering its third week and Stephen already had multiple
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen’s feeling of stress is linked with poor time management, use of an ineffective study location, and feeling “stuck” when needing help.
 </blockquote></div>
+<br>
+<br>
+<br>
+<br>
 
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 Stephen started to study two days before the math test because he forgot when the test was scheduled. With this limited time, he began scrambling to find a place to study at home. He followed his routine of studying by re-reading his notes and looking at sample problems. He decided to study in the home office, but his wife was constantly walking in and out, talking on the phone with her clients. Additionally, Stephen kept checking his phone for emails and text messages.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 The distractions in the office and the time crunch affected Stephen’s ability to focus.
 </blockquote></div>
+<br>
+<br>
+<br>
+<br>
 
 <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
 As he re-read his notes, he began to get nervous because he did not remember how to complete several of the problems. He did not know whom he should ask for help. He decided that the best thing to do was to finish reading all of his notes and to makes sure he knows as much of the material as possible.  By the end of the night, Stephen felt overwhelmed, stressed, and unprepared for the test. The day of the test, Stephen couldn’t remember much of what he studied the night before. He thought to himself, “This is not good. I am going to fail!”
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen’s uncertainty on how to ask for help added on to his feelings of stress. He felt unfocused and underprepared for the test.
 </blockquote></div>
+<br>
+<br>
+<br>
+<br>
 
  **AFTER** Stephen began using SRL resources and recommendations:
 *Partial/Emerging use of strategies:*
