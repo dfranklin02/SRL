@@ -1,9 +1,9 @@
 ---
-title: Performance Orientation
+title: WHAT is Mastery Orientation?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
-permalink: mastery_orientation.html
+permalink: masteryorientation.html
 folder: motivation
 toc: false
 ---
@@ -11,46 +11,44 @@ toc: false
 <ul class="breadcrumb">
     <li><a href="index.html">Home</a></li>
     <li><a href="motivation.html">Motivation</a></li>
-    <li class="active">Performance Orientation</li>
+    <li class="active">Mastery Orientation</li>
 </ul>
 
+<center><img src='images/Mindset1.png' alt='mindset' /></center>
 
+Goal orientation refers to the reasons individuals engage in a learning task. There are two types of goal orientation -- mastery and performance. Individuals with a Performance Orientation, want to perform well so they appear intelligent or capable to others, while those with a Mastery Orientation are much more interesting in learning for the sake of learning. They are interested in learning and want to develop skill and to increase knowledge. The SRL survey targeted the extent to which you display mastery orientation.
 
-## What is Performance Orientation?
+The extent to which you exhibit a Mastery Orientation is important because it can influence how you feel about school and is connected to other forms of motivation. If you are interested in learning more about whether you possess Mastery Orientation, we strongly encourage you to take the SRL survey by clicking here ***link to daacs.net***.
 
-Have you ever wondered certain things like, “Why am I working hard in this course?” or “What is it that pushes me to do try to perform well on something?” Learners can have many different reasons why they choose to engage in or work hard at a learning task – something educational psychologists call **goal orientation.** One type of goal orientation is a **performance orientation.** Learners with this type of orientation often want to perform well because they want to demonstrate that they are intelligent or capable. Whether they consciously think about it or not, these types of learners believe things like, “I am working hard in this course so that the professor thinks I’m intelligent” or “My primary focus is to do well on this project so that I get a high grade.” These learners tend to focus on the ***outcome*** (grades, recognition) of the learning task, and they often measure success by comparing themselves to others.
+## WHY is mindset important?
+Adopting a high level of Mastery Orientation across different topics and situations will help you: 
 
-> Janet was studying very hard for the midterm exam in her Introductory Psychology course. “I’d better do the optional recommended readings before the test,” she thought, “I want to be really prepared so that I get one of the highest grades in my class.” Janet is very concerned about getting a high grade because she does not want her professor or family to think that she is dumb. After receiving her grade, the first thing she does is check the class average to compare her performance to others.
+•	connect skills and knowledge to other classes 
+•	experience excitement and satisfaction in learning
+•	worry less about grades 
+•	be more motivated to learn, just for the sake of learning
 
-<center><img src='images/motivation.png' alt='Motivation' /></center>
+Alternatively, exhibiting a low level of Mastery Orientation can lead you to:
 
-## How was performance orientation measured on the SRL survey?
+•	feel anxious in school
+•	develop a Performance Orientation
+•	compare yourself to others, resulting in diminished confidence
+•	learn material on a superficial level, not for deep understanding
 
-The SRL survey assessed the level of your performance orientation. You were asked to respond to the following five statements:
+The scenarios below illustrate some potential obstacles that may arise when learners have beliefs performance orientation beliefs, as well as how mastery orientation beliefs can help you overcome these obstacles. 
 
-1. It's important that others see me as intelligent.
-2. I often try to show others how capable I am.
-3. I want to show I am more able than others in my class.
-4. I want to know more than other students.
-5. It's important for me not to appear “stupid” to others.
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
+Janet and Rick are classmates in an Introductory Psychology course. With the midterm exam just a week away, both learners are spending a lot of time studying, but for very different reasons. Both want to get good grades because of their desire to do well in school. However, Rick indicates, “This material is fascinating, and I really want to master the basics so that I can take a more advanced course next semester.” [Mastery Orientation] Janet, on the other hand, says to herself, “I better do well on this exam so that I don't come across as dumb or stupid.” [Performance orientation]
+</div>
 
-Based on your responses to these items, you were categorized into one of three categories: **High, Medium,** and **Low**.
+**Key thought:** The distinction between Mastery and Performance Orientation may seem like a minor thing, but it is actually quite important. For Rick, learning is often fun and interesting, whereas for Janet, it can be anxiety-provoking and overwhelming. When challenged, Rick will likely persist but Janet will avoid and give up.
 
-* **High Performance Orientation** means that you focus a lot on appearing intelligent to others, and you often want to perform well so that others know you are capable.
+## How can I improve my Mastery Orientation?
 
-* **Medium Performance Orientation** means that you sometimes focus on appearing intelligent or capable to others. However, this may not be the strongest reason why you work hard at school.
+All students can benefit from developing a Mastery Orientation! To learn more about a Mastery Orienation and different ways to develop it, click on the **Learn, See,** and/or **Do** buttons. 
 
-* **Low Performance Orientation** means that you don’t think too much about appearing intelligent or capable to others. This is not your main reason for wanting to perform well in school.
+<div class="embed-responsive embed-responsive-16by9"><iframe iframe class="embed-responsive-item" src="https://player.vimeo.com/video/207330839" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-## Now that I know more about my performance orientation, what can I do?
-
-If you had a High or Medium Performance Goal orientation you strongly encourage you to click on both *How Can I Learn More?* tab as well as the *What Can I Do?* tab below. Although a performance goal orientation can help to motivate you at times, there is an alternative and perhaps more adaptive way of thinking about why you should be learning – something that is called a **Mastery Goal** orientation.
-
-If you received a Low Performance orientation, you may still find some value in perusing these sections, particularly the *What Can I Do section*?
-
-* Click on the links under **How Can I Learn More?** to learn more about the importance and relevance of performance and other types of goal orientations.
-
-* Click on the links under **What Can I Do?** to learn about some strategies or suggestions about other types of goal orientations that may help you think about school in a different way
 
 {% include footers/performance_orientation_footer.html %}
 
