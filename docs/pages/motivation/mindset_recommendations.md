@@ -38,8 +38,6 @@ Try to pay attention to how you talk to yourself about your schoolwork. It is im
 </div>
 
 <br>
-<br>
-<br>
 <button data-toggle="collapse" data-target="#adjust" style="background-color:Turquoise">Adjust your internal monologue</button>
 
 <div id="adjust" class="collapse">
@@ -50,8 +48,6 @@ Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if
 <br>
 </div>
 
-<br>
-<br>
 <br>
 <button data-toggle="collapse" data-target="#Reframe" style="background-color:MediumSpringGreen">Reframe how you think about successes and failures</button>
 
@@ -64,8 +60,6 @@ Think about successes and failures in terms of controllable factors – such as 
 </div>
 
 <br>
-<br>
-<br>
 <button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime">Learn about neuroplasticity</button>
 
 <div id="neuroplasticity" class="collapse">
@@ -76,8 +70,6 @@ The brain is like a muscle: the more you work out your brain through practice, t
 <br>
 </div>
 
-<br>
-<br>
 <br>
 <button data-toggle="collapse" data-target="#embrace" style="background-color:LawnGreen">Embrace challenge</button>
 
@@ -90,8 +82,6 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 <br>
-<br>
-<br>
 <button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow">Remind yourself about successful attempts to use a Growth mindset</button>
 
 <div id="remind" class="collapse">
@@ -101,8 +91,6 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 <br>
 </div>
 
-<br>
-<br>
 <br>
 <button data-toggle="collapse" data-target="#ask" style="background-color:Yellow">Ask for help</button>
 
@@ -124,8 +112,6 @@ To become more effective at help seeking, <a href="http://srl.daacs.net/help_see
 <br>
 </div>
 
-<br>
-<br>
 <br>
 <button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange">Adopt a Growth mindset in all aspects of your life</button>
 
