@@ -33,7 +33,10 @@ On the contrary, learners who have low self-efficacy will often:
 - be hesitant to take certain classes or to think about dropping out of school 
 
 The scenario below illustrates some of these potential problems that may arise when learners do not have a high self-efficacy for online learning: 
-> *Maria, a first year college student, was hesitant about enrolling in an online biology course. Although she possesses strong self-efficacy for reading, she was afraid that she wouldn’t understand the biology concepts without meeting face to face with an instructor to explain things – science had never been her strongest subject. The first class module was difficult for Maria, and she had a hard time understanding the topic. “I may as well give up now,” she thought, “Maybe coming back to school was a mistake.”*
+
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
+Maria, a first year college student, was hesitant about enrolling in an online biology course. Although she possesses strong self-efficacy for reading, she was afraid that she wouldn’t understand the biology concepts without meeting face to face with an instructor to explain things – science had never been her strongest subject. The first class module was difficult for Maria, and she had a hard time understanding the topic. “I may as well give up now,” she thought, “Maybe coming back to school was a mistake.”
+</div>
 
 **Key Thought:** Students like Maria have many self-doubts when learning, which can cause them to give up prematurely and to avoid things. The key things that Maria needs are opportunities to practice working online so that she can experience some success. As students become more confident, they tend to try harder, persist longer, and perform better in school.
 
