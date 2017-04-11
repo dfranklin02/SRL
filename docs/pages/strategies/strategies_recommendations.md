@@ -105,81 +105,57 @@ Compare the difference between the estimated time and actual time spent on each 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#timerec5" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec5" style="background-color:Lime; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
 
 <div id="timerec5" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
 <br>
-<br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
 <br>
 </div>
 
-**Guiding Principle 5: Set specific study goals**
-
-Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
-
-<button data-toggle="collapse" data-target="#timerec6" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec6" style="background-color:Lime; width:100%"><b><i>Guiding Principle 6:</i> Break up your study/work times into small chunks</b></button>
 
 <div id="timerec6" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+It is helpful to your learning if you spread out your studying and assignment completion over different days and/or to take breaks when studying on a given day. Engaging in “marathon” study sessions or cramming your work into one large block of time often hinders learning. 
 <br>
+For example, it may be helpful to schedule tasks and create goals that will take you approximately 30 to 60 minutes to complete. For instance, it is more conducive to your motivation and learning if you set the goal of reading one book chapter in 60 minutes rather than saying that you will read 2 book chapters and answer questions in a 3 hour time block. To help you with this activity, you can use calendar to track what activities you have that day, what time you have available to study, and how you will break up your study time by task.
 <br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+For more help with creating a schedule, see the strategy <b>Set aside regular times using a weekly calendar</b>
+<br>
 <br>
 </div>
 
-**Guiding Principle 6: Break up your study/work times into small chunks**
-
-It is helpful to your learning if you spread out your studying and assignment completion over different days and/or to take breaks when studying on a given day. Engaging in “marathon” study sessions or cramming your work into one large block of time often hinders learning. 
-
-For example, it may be helpful to schedule tasks and create goals that will take you approximately 30 to 60 minutes to complete. For instance, it is more conducive to your motivation and learning if you set the goal of reading one book chapter in 60 minutes rather than saying that you will read 2 book chapters and answer questions in a 3 hour time block. To help you with this activity, you can use calendar to track what activities you have that day, what time you have available to study, and how you will break up your study time by task.
-
-For more help with creating a schedule, see the strategy **Set aside regular times using a weekly calendar.**
-
-<button data-toggle="collapse" data-target="#timerec7" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec7" style="background-color:Lime; width:100%"><b><i>Guiding Principle 7:</i> Take breaks while completing your school work</b></button>
 
 <div id="timerec7" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+It may sound counterintuitive, but taking breaks in between completing assignments or studying can also enhance your time management. As students get tired and fatigue from doing too much work, it is more likely that they will make mistakes and work less efficiently. Of course there may be times when you need to push through your schoolwork or to study at a slower pace, remember that taking several short breaks is a way to reenergize and refresh your mind.
 <br>
-<br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
 <br>
 </div>
 
-**Guiding Principle 7: Take breaks while completing your school work**
-
-It may sound counterintuitive, but taking breaks in between completing assignments or studying can also enhance your time management. As students get tired and fatigue from doing too much work, it is more likely that they will make mistakes and work less efficiently. Of course there may be times when you need to push through your schoolwork or to study at a slower pace, remember that taking several short breaks is a way to reenergize and refresh your mind.
-
-<button data-toggle="collapse" data-target="#timerec8" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec8" style="background-color:Lime; width:100%"><b><i>Guiding Principle 8: Alternate study topics/tasks</i></b></button>
 
 <div id="timerec8" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+When completing schoolwork or studying for a long time, it also important to consider alternating topics or tasks. For instance, you might focus on reading a book chapter for an hour, then switching to completing math problems before continuing your reading. While it might seem that finishing a reading then answering related questions on that same topic before moving onto another topics an effective way to study, you are less likely to remember the material later on. 
 <br>
-<br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
 <br>
 </div>
 
-**Guiding Principle 8: Alternate study topics/tasks**
-
-When completing schoolwork or studying for a long time, it also important to consider alternating topics or tasks. For instance, you might focus on reading a book chapter for an hour, then switching to completing math problems before continuing your reading. While it might seem that finishing a reading then answering related questions on that same topic before moving onto another topics an effective way to study, you are less likely to remember the material later on. 
-
-<button data-toggle="collapse" data-target="#timerec9" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec9" style="background-color:Lime; width:100%"><b><i>Guiding Principle 9:</i> Reduce procrastination</b></button>
 
 <div id="timerec9" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+Procrastination in school, or delaying when you attempt to complete some task or activity, can seem like a good idea in the short-term, since it provides an immediate reward. For instance, going to a party or taking an extra shift at work gives social interaction and monetary rewards that may seem more important than doing your schoolwork in the short-term. The problem is that procrastination becomes the norm, it hinders the likelihood that you will be able to complete tasks on time. 
 <br>
+A first step to minimize a tendency to procrastinate, is to identify the types of things you do to procrastinate (e.g., scanning social media, watching TV, cleaning up/organizing your room). If you think about why you do these activities, it is likely that they provide you with some level of comfort or support. On the flip side, however, just remember that procrastination will often make time management a very difficult strategy to implement. 
 <br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
 <br>
 </div>
 
-**Guiding Principle 9: Reduce procrastination**
 
-Procrastination in school, or delaying when you attempt to complete some task or activity, can seem like a good idea in the short-term, since it provides an immediate reward. For instance, going to a party or taking an extra shift at work gives social interaction and monetary rewards that may seem more important than doing your schoolwork in the short-term. The problem is that procrastination becomes the norm, it hinders the likelihood that you will be able to complete tasks on time. 
 
-A first step to minimize a tendency to procrastinate, is to identify the types of things you do to procrastinate (e.g., scanning social media, watching TV, cleaning up/organizing your room). If you think about why you do these activities, it is likely that they provide you with some level of comfort or support. On the flip side, however, just remember that procrastination will often make time management a very difficult strategy to implement. 
+
+
+
 
 
 ## Strategies to manage your ENVIRONMENT
