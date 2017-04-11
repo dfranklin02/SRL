@@ -40,7 +40,7 @@ Seeking out help from others can be difficult. You may feel anxious or intimidat
 
 The scenario below illustrates some of the potential problems that may arise when learners **do not seek** help:
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle" {color: green}></i>
 Erica, a 29 year old who works as an elementary school aide, recently enrolled in an online college English course. Erica considers herself to be a smart, hardworking professional and believes she will succeed in the course without much difficulty. During the second lesson, Erica began having trouble comprehending some course material. Instead of asking for clarification, Erica tried to figure out the confusing content on her own. She thought, “I am smart enough to have made it this far, I should be able to do this. Plus, talking to teachers makes me nervous!” Erica continued to push her way through each lesson, ignoring content she did not understand. As the course continued, Erica felt overwhelmed and frustrated, and she was no longer confident in her ability to do well in the course. Of greatest concern was that, because Erica had avoided certain topics, she had difficulty understanding more advanced concepts in class, which then caused her to fall further behind in her classwork. 
 </div>
 
