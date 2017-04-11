@@ -159,9 +159,26 @@ A first step to minimize a tendency to procrastinate, is to identify the types o
 
 
 ## Strategies to manage your ENVIRONMENT
+
+<button data-toggle="collapse" data-target="#environmentrec1" style="background-color:DarkOrange; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
+
+<div id="environmentrec1" class="collapse">
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+<br>
+<br>
+</div>
+
 **Guiding Principle 1: Study in a quiet place with minimal distractions**
 
 Completing schoolwork in a loud environment that includes people having conversations, the TV blaring in the background, or other distractors can make it difficult for students to focus, stay on topic, and study in an efficient manner. Find a quiet location, such as a library or quiet room in your house that is free from noise and other people. This will help reduce distractions in your environment, which will allow you to fully concentrate on the task at hand. You may believe that the TV in the background or family members talking on the side are not distracting, but you may be surprised how much more efficiently and carefully you work when you are in an environment with fewer distractions. Your mind can only process a certain amount of information before it gets distracted or overworked.
+
+<button data-toggle="collapse" data-target="#environmentrec2" style="background-color:DarkOrange; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
+
+<div id="environmentrec2" class="collapse">
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+<br>
+<br>
+</div>
 
 **Guiding Principle 2: Inform others around you of “do not disturb” rules**
 
@@ -171,17 +188,49 @@ If you live with or work around others, you may find yourself frequently being i
 - when they see a “do not disturb” sign on your door. 
 It might also be helpful to let others know that you need a certain amount of time to study with no distractions to clarify expectations for when you will be available versus when you need quiet time. 
 
+<button data-toggle="collapse" data-target="#environmentrec3" style="background-color:DarkOrange; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
+
+<div id="environmentrec3" class="collapse">
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+<br>
+<br>
+</div>
+
 **Guiding Principle 3: Minimize excess technology use**
 
 These days, everyone has easy access to their friends, family, and world at large via cell phones, social media, internet, and/or the news on the TV. Walk into almost any situation and you will see people sending text messages, engaging in phone calls, sending emails, using social media, watching TV, and playing games on their phone/computer/console, etc. We may think that our technology is not distracting, since we are so used to having it around 24/7, but turning off all forms of technology – even the WiFi on your computer when you do not need it – can put up a “privacy wall” behind which you can focus on your schoolwork. Try to get into the habit of turning off the technology that is not needed for a given assignment.
+
+<button data-toggle="collapse" data-target="#environmentrec4" style="background-color:DarkOrange; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
+
+<div id="environmentrec4" class="collapse">
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+<br>
+<br>
+</div>
 
 **Guiding Principle 4: Vary the places where you study**
 
 If you get bored or tired while studying/completing schoolwork, move from one location to another to stay focused and alert. Identify 2 or 3 comfortable and quiet places where you can work, such as multiple rooms in your house, a library, an office, or a quiet coffee shop. Sometimes a change of scenery is what you mind needs to feel refreshed and rejuvenated.
 
+<button data-toggle="collapse" data-target="#environmentrec5" style="background-color:DarkOrange; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
+
+<div id="environmentrec5" class="collapse">
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+<br>
+<br>
+</div>
+
 **Guiding Principle 5: Find the right balance of comfort in your environment**
 
 While studying, you shouldn’t feel uncomfortable in your environment, but you also shouldn’t be too comfortable whereby you want to take a nap; find a balance. This may involve working in a location that is neither too hot or cold, where the lighting is bright enough (but not too bright) so that you will not strain your eyes, and that involves seating that is comfortable (e.g., sitting in a cushioned chair) but not excessively so (e.g., lying on one’s bed). Find the right balance of proper lighting, comfort, and temperature for an ideal study environment. 
+
+<button data-toggle="collapse" data-target="#environmentrec6" style="background-color:DarkOrange; width:100%"><b><i>Guiding Principle 5:</i> Set specific study goals</b></button>
+
+<div id="environmentrec6" class="collapse">
+Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+<br>
+<br>
+</div>
 
 **Guiding Principle 6: Use various forms of sensory enhancements**
 
