@@ -20,6 +20,7 @@ The figure below shows the interaction of the three metacognitive components (i.
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
 > *Ryan is a 40 year old male who recently enrolled in an online college. He is taking classes part-time while he continues his job as a business consultant for a technology company.  After returning home from work at 5:30pm, Ryan typically spends time with his two children (ages 4 and 7), eats dinner with his family, and helps his wife with baths and bedtime. He is only able to start his schoolwork after 8:30pm, when the children are asleep.*
+</div>
 
 <center><img src='images/Metacognition-See.PNG' alt='Metacognition Profile for Ryan' /></center>
 
