@@ -90,7 +90,7 @@ For more information on strategies to help you learn, such as removing distracti
 > 
 > **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
 
-See "Help Seeking" in order to learn more about approaching teachersand classmates for help.
+Click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to learn more about approaching teachersand classmates for help.
 
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
@@ -102,7 +102,7 @@ See "Help Seeking" in order to learn more about approaching teachersand classmat
 > 
 > **WRITE** or verbally state the information you have learned and check the accuracy of this information with your course materials.
 
-To become more effective at learning information to meet your learning goals, click on "Managing Understanding."
+To become more effective at learning information to meet your learning goals, click <a href="http://srl.daacs.net/understanding.html">here</a>. <br>
 
 ### After reading ask yourself...
 
@@ -112,7 +112,7 @@ To become more effective at learning information to meet your learning goals, cl
 > 
 > 2.  If your answer is “No”, look back to the reading or lesson to try again. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.
 
-For more guidance on asking for help, click on "Help Seeking."
+CLick <a href="http://srl.daacs.net/help_seeking.html">here</a><br> for guidance on asking for help.
 
 <p class='question'>“What did I do that worked well? What should I change”</p>
 
@@ -125,4 +125,4 @@ For more guidance on asking for help, click on "Help Seeking."
 > 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
 > 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another reading or lesson.
 
-For more information on asking for help, click on "Help Seeking."
+Click <a href="http://srl.daacs.net/help_seeking.html">here</a><br> for more information on asking for help.
