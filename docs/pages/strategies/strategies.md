@@ -26,9 +26,6 @@ Successful learners will use various strategies to help them overcome different 
 ## HOW can I improve the use of learning strategies?
 To further develop your knowledge and understanding about the four learning strategies – managing your time, managing your environment, asking for help, and improving your understanding – click on the **Learn**, **See**, and/or **Do** buttons.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/4lWWM2wlXz8?autoplay=0"></iframe></div>
-
-
 <div class="row">
          <div class="col-lg-12">
              <h2 class="page-header">Learn more about four types of learning strategies</h2>
