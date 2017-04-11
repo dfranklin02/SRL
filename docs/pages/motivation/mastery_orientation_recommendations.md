@@ -11,7 +11,7 @@ toc: true
 <ul class="breadcrumb">
     <li><a href="index.html">Home</a></li>
     <li><a href="motivation.html">Motivation</a></li>
-    <li><a href="performance_orientation.html">Mastery Orientation</a></li>
+    <li><a href="mastery_orientation.html">Mastery Orientation</a></li>
     <li class="active">Recommendations</li>
 </ul>
 
@@ -54,7 +54,9 @@ Some tips for seeking help:
 
 <i>1.  Identify who can help you: your professor, classmates, or academic advisor. Decide whether to approach them in person or through another method, like email.</i>
 <br>
+<br>
 <i>2.  Write down specific questions to ask so that you will feel prepared when approaching someone for help.</i>
+<br>
 <br>
 <i>3.  Find out if there are additional ways to get help. Does your college have a learning center? Are there online forums where you can post questions?</i>
 <br>
@@ -87,7 +89,9 @@ Learners with a Performance Goal Orientation often choose easy, non-challenging 
 You can do this by:
 <i>Setting goals and timelines for your own progress</i>
 <br>
+<br>
 <i>Looking at improvement from your previous work</i>
+<br>
 <br>
 <i>Rewarding yourself for your own progress</i>
 
@@ -105,6 +109,7 @@ There are different ways you can evaluate a grade that you receive on a test, pr
 
 For example:
 <i>*You scored a 78 on an exam. Reflect on your grade by asking yourself: Which material on the exam did I know well? Which questions did I get wrong? Did I misunderstand a concept or topic that I should review again?*</i>
+<br>
 <br>
 <i>*You received a B+ grade on an essay. Think: What did I do well on this essay? Did I include the right content? Was my word usage/grammar/sentence structure correct? What can I improve for the next essay I write?*</i>
 
