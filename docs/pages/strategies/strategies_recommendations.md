@@ -362,14 +362,14 @@ Use index cards in order to remember things such as facts, details, definitions,
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#understandingrec10" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 10:</i> Summarization</b></button>
+r<button data-toggle="collapse" data-target="#understandingrec10" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 10:</i> Summarization</b></button>
 
-b<div id="understandingrec10" class="collapse">
-rWriting summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text.
+<div id="understandingrec10" class="collapse">
+Writing summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text.
 <br><br>
 </div>
 
-<button data-toggle="collapse" data-target="#understandingrec11" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 11:</i> Gather detailed information about the assignment, project, or test</b></button>
+r<button data-toggle="collapse" data-target="#understandingrec11" style="background-color:DodgerBlue; width:100%"><b><i>Guiding Principle 11:</i> Gather detailed information about the assignment, project, or test</b></button>
 
 <div id="understandingrec11" class="collapse">
 To perform well on any activity, students need to have a clear idea about the demands and requirements of those activities. This might involve identifying the content, format, and length of the test. When writing essay, you may want to identify the type of essay to be completed as well as it length or other requirements. Thus, regardless of the things you are asked to do in school, make sure you have a clear sense of what is actually being asked of you.
