@@ -17,7 +17,7 @@ toc: false
 
 Students will often differ in the reasons why they engage in learning. The figure below illustrates the impact that different levels of Mastery Orientation (High, Medium, Low) might have on how individuals think, feel, and react to learning situations. **As you read, think about which level of Mastery Orientation seems to fit most with you.** 
 
-<center><img src='images/Mastery Orientation Outcomes.png' alt='Mindset' /></center> 
+<center><img src='images/Mastery Orientation Outcomes.png' alt='Mastery Orientation' /></center> 
 
 {% include footers/masteryorientation_footer.html %}
 
