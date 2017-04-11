@@ -404,7 +404,7 @@ Stephen’s feeling of stress is linked with poor time management, use of an ine
 <br>
 <br>
 
-<div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
+<div class="col-md-6" style="margin-top: 150px"> <!-- Adjust the margin-top until the text displays where you want -->
 Stephen started to study two days before the math test because he forgot when the test was scheduled. With this limited time, he began scrambling to find a place to study at home. He followed his routine of studying by re-reading his notes and looking at sample problems. He decided to study in the home office, but his wife was constantly walking in and out, talking on the phone with her clients. Additionally, Stephen kept checking his phone for emails and text messages.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 The distractions in the office and the time crunch affected Stephen’s ability to focus.
