@@ -40,7 +40,7 @@ Try to pay attention to how you talk to yourself about your schoolwork. It is im
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#adjust" style="background-color:Turquoise"><b>Adjust your internal monologue</b></button>
+<button data-toggle="collapse" data-target="#adjust" style="background-color:Turquoise; width:50%"><b>Adjust your internal monologue</b></button>
 
 <div id="adjust" class="collapse">
 Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if you have Fixed Mindset thoughts, YOU CAN CHANGE THEM. In addition to trying to replace Fixed Mindset thoughts with a Growth Mindset, make sure that you remember to DO SOMETHING. That is, don’t just try to think differently – change what you do to match your new way of thinking.
