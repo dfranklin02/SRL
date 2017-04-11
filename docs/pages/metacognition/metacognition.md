@@ -2,6 +2,7 @@
 title: Metacognition
 tags: 
 keywords:
+sidebar: mydoc_sidebar
 permalink: metacognition.html
 folder: metacognition
 toc: false
