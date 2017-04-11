@@ -108,7 +108,8 @@ Developing a growth mindset means accepting that improvement happens gradually a
     <br>
 <br>
 <br>
-To become more effective at help seeking, click here ***link to help seeking***
+To become more effective at help seeking, <a href="http://srl.daacs.net/help_seeking.html">click here</a>
+<br>
 </div>
 
 
