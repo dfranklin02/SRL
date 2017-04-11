@@ -14,7 +14,7 @@ toc: false
     <li class="active">Mastery Orientation</li>
 </ul>
 
-<center><img src='images/Mindset1.png' alt='mindset' /></center>
+<center><img src='images/Mastery Orientation Identification.png' alt='mastery orientation' /></center>
 
 Goal orientation refers to the reasons individuals engage in a learning task. There are two types of goal orientation -- mastery and performance. Individuals with a Performance Orientation, want to perform well so they appear intelligent or capable to others, while those with a Mastery Orientation are much more interesting in learning for the sake of learning. They are interested in learning and want to develop skill and to increase knowledge. The SRL survey targeted the extent to which you display mastery orientation.
 
@@ -38,7 +38,7 @@ Alternatively, exhibiting a low level of Mastery Orientation can lead you to:
 The scenarios below illustrate some potential obstacles that may arise when learners have beliefs performance orientation beliefs, as well as how mastery orientation beliefs can help you overcome these obstacles. 
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
-Janet and Rick are classmates in an Introductory Psychology course. With the midterm exam just a week away, both learners are spending a lot of time studying, but for very different reasons. Both want to get good grades because of their desire to do well in school. However, Rick indicates, “This material is fascinating, and I really want to master the basics so that I can take a more advanced course next semester.” **[Mastery Orientation]** Janet, on the other hand, says to herself, “I better do well on this exam so that I don't come across as dumb or stupid.” **[Performance orientation]**
+Janet and Rick are classmates in an Introductory Psychology course. With the midterm exam just a week away, both learners are spending a lot of time studying, but for very different reasons. Both want to get good grades because of their desire to do well in school. However, Rick indicates, “This material is fascinating, and I really want to master the basics so that I can take a more advanced course next semester.” [Mastery Orientation] Janet, on the other hand, says to herself, “I better do well on this exam so that I don't come across as dumb or stupid.” [Performance Orientation]
 </div>
 
 **Key thought:** The distinction between Mastery and Performance Orientation may seem like a minor thing, but it is actually quite important. For Rick, learning is often fun and interesting, whereas for Janet, it can be anxiety-provoking and overwhelming. When challenged, Rick will likely persist but Janet will avoid and give up.
