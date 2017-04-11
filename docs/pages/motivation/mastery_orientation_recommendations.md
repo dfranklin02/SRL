@@ -1,5 +1,5 @@
 ---
-title: Recommendations for Improving Goal Orientation
+title: How can I improve my Mastery Orientation?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -11,11 +11,11 @@ toc: true
 <ul class="breadcrumb">
     <li><a href="index.html">Home</a></li>
     <li><a href="motivation.html">Motivation</a></li>
-    <li><a href="performance_orientation.html">Performance Orientation</a></li>
+    <li><a href="performance_orientation.html">Mastery Orientation</a></li>
     <li class="active">Recommendations</li>
 </ul>
 
-While a high Performance Goal orientation can help you to achieve, it can also have negative consequences. You do not need to get rid of your performance orientation completely, but you can boost your motivation by realizing that many other reasons that a person can have to learn. In these series of tips and recommendation, the focus is on ways to promote a **Mastery Goal orientation** – that is, focusing on the process of learning and mastering skills. In the figure below, you can click on one or more strategies to help you develop a Mastery Goal perspective.
+There are various ways in which students can do to improve their level of Mastery Orientation. The following figure allows you to click on several different strategies for ways in which you can increase your level of Mastery Orientation. Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
 
 
 <center><img src='images/performance_orientation_recommendations.png' alt='Performance Orientation Recommendations' /></center>
