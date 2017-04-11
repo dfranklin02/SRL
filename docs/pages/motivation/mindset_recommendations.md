@@ -71,7 +71,7 @@ The brain is like a muscle: the more you work out your brain through practice, t
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#embrace" style="background-color:LawnGreen width:100%"><b>Embrace challenge</b></button>
+<button data-toggle="collapse" data-target="#embrace" style="background-color:LawnGreen; width:100%"><b>Embrace challenge</b></button>
 
 <div id="embrace" class="collapse">
 People with a Fixed Mindset often stay away from challenges for fear of failure. People with a Growth Mindset embrace challenges and view them as an opportunity to learn and grow. <b>When you encounter a challenge, try to think about what you can learn from the opportunity</b>, even if you do not succeed at the task. Challenges, hard work, and mistakes will help you learn and grow more than successfully accomplishing easy tasks.
@@ -82,7 +82,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow width:75%"><b>Remind yourself about successful attempts to use a Growth mindset</b></button>
+<button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow; width:75%"><b>Remind yourself about successful attempts to use a Growth mindset</b></button>
 
 <div id="remind" class="collapse">
 1.  Reflect on a time when you successfully faced a challenge that seemed impossible based on your abilities at the time.
@@ -92,7 +92,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#ask" style="background-color:Yellow width:75%"><b>Ask for help</b></button>
+<button data-toggle="collapse" data-target="#ask" style="background-color:Yellow; width:75%"><b>Ask for help</b></button>
 
 <div id="ask" class="collapse">
 Developing a growth mindset means accepting that improvement happens gradually and through hard work. Asking for help is not a sign of weakness. Rather, it is a sign that you care about your learning and want to put in the necessary effort to learn and improve your skills.
@@ -113,7 +113,7 @@ To become more effective at help seeking, <a href="http://srl.daacs.net/help_see
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange border-radius:8px"><b>Adopt a Growth mindset in all aspects of your life</b></button>
+<button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange; border-radius:8px"><b>Adopt a Growth mindset in all aspects of your life</b></button>
 
 <div id="adopt" class="collapse">
 Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
