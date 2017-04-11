@@ -26,7 +26,9 @@ There are many different things students can do to improve their mindset. Below 
 <br>
 <br>
 
+<b><i>NOTE: Tim, Jason - pick the box style that you think is most visually appealing - bold text? length of button? curved edges? </i></b>
 
+<br>
 <button data-toggle="collapse" data-target="#aware" style="background-color:DodgerBlue">Be aware of your Mindset</button>
 
 <div id="aware" class="collapse">
