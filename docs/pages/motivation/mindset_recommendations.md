@@ -119,6 +119,7 @@ To become more effective at help seeking, <a href="http://srl.daacs.net/help_see
 Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
 <br>
 </div>
+<br>
 
 
 
