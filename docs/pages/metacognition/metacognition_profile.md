@@ -54,7 +54,7 @@ The figure below shows the interaction of the three metacognitive components (i.
          <p>Although Ryan does a good job of trying to keep track of his learning during studying, he rarely reflects on how effectively he learns. As soon as Ryan finished studying the day before the test, he felt good because of how hard he was trying. He believed that he would do fine on the test because of how much he studied, and he seemed to be learning things as well. He did not stop to evaluate if he had actually committed the material to memory, or could just recall it in the short term. When Ryan received feedback about his test a week later, he was shocked and upset. He received a 74. He couldn’t believe it and began to question whether staying in school was even worth it. <b>(Infrequent Evaluation).</b> </p>
       </td>
        <td>
-         <img src='images/Infrequent Evaluation=E.PNG'/>
+         <img src='images/Infrequent Evaluation=E2.PNG'/>
       </td>
    </tr>
 </table> 
@@ -94,7 +94,7 @@ The figure below shows the interaction of the three metacognitive components (i.
 summaries of each topic after learning. This helps him to more thoroughly check his understanding. Ryan also writes down the strategies he uses to study (note cards, videos, outlining chapters, reading class notes, etc.). Using these evaluation tactics are important because it not only increases his awareness of the things he did to prepare for this tests, he will also have a better sense of what he might need change or adapt do when preparing for the next test <b>(Partial Evaluating).</b> </p>
       </td>
        <td>
-         <img src='images/Partial Evaluation=E.PNG' />
+         <img src='images/Partial Evaluation=E2.PNG' />
       </td>
    </tr>
 </table> 
