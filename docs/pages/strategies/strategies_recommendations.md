@@ -394,7 +394,7 @@ Stephen is a 38-year-old male who has been enrolled at Excelsior for one semeste
 <br>
 *Infrequent use of strategies:*
 <br>
-<div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
+<div class="col-md-6" style="margin-top: 10px"> <!-- Adjust the margin-top until the text displays where you want -->
 The second semester was entering its third week and Stephen already had multiple assignments to complete, including an upcoming exam in mathematics. In thinking about the prior semester, Stephen recalled that every time he tried to study or write a paper, he could not find a quiet place to work. Additionally, he often found himself stuck and unsure of the material. The problem was that he didn’t know who to turn to for help. Stephen’s feelings of frustration and anxiety overwhelmed him, so he put off beginning most tasks until two days before the assignment was due. Unfortunately, Stephen’s procrastination created even more stress because not only was he under a time crunch, he still had to deal with distractions and uncertainty about the assignment.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Stephen’s feeling of stress is linked with poor time management, use of an ineffective study location, and feeling “stuck” when needing help.
