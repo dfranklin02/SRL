@@ -27,7 +27,7 @@ There are many different things students can do to improve their mindset. Below 
 <br>
 
 
-<button data-toggle="collapse" data-target="#aware" style="background-color:red">Be aware of your Mindset</button>
+<button data-toggle="collapse" data-target="#aware" style="background-color:DodgerBlue">Be aware of your Mindset</button>
 
 <div id="aware" class="collapse">
 Try to pay attention to how you talk to yourself about your schoolwork. It is important that you recognize when you respond to school activities with a Fixed mindset or a Growth mindset. A Fixed mindset will typically prompt you to question your ability to succeed and may convince you not to try, while a Growth mindset is more oriented towards seeing the positive in all situations.
@@ -38,7 +38,7 @@ Try to pay attention to how you talk to yourself about your schoolwork. It is im
 </div>
 
 
-<button data-toggle="collapse" data-target="#adjust">Adjust your internal monologue</button>
+<button data-toggle="collapse" data-target="#adjust" style="background-color:Turquoise">Adjust your internal monologue</button>
 
 <div id="adjust" class="collapse">
 Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if you have Fixed Mindset thoughts, YOU CAN CHANGE THEM. In addition to trying to replace Fixed Mindset thoughts with a Growth Mindset, make sure that you remember to DO SOMETHING. That is, don’t just try to think differently – change what you do to match your new way of thinking.
