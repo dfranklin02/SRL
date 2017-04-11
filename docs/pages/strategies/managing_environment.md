@@ -18,7 +18,7 @@ toc: false
 <center><img src='images/LSManagingEnvironment.JPG' alt='Managing Environment' /></center>
 
 Often we find ourselves distracted by someone or something while completing school work. Someone who uses effective strategies to manage their environment and reduce distractions will be very in tune to the things going on around them -- noise levels, lighting quality and temperature of a room, and access to games or friends. These individuals might say to themselves, “The TV is too distracting, I’m going to turn it off” or “It’s too warm in here…I feel like I’m going to fall asleep” By continually monitoring their activities and using strategies to manage the place in which they do work, learners have a much greater chance of completing their work. 
-Learners may vary in how frequently they manage their environment. If you are interested in learning more about your environment management skills, we encourage you to take the SRL survey by going to demo.daacs.net.
+Learners may vary in how frequently they manage their environment. If you are interested in learning more about your environment management skills, we encourage you to take the SRL survey by clicking <a href="https://demo.daacs.net/">here</a>.
 
 ## WHY is managing your environment important?
 
