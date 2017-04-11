@@ -1,5 +1,5 @@
 ---
-title: Metacognition Profiles
+title: What does a Metacognitive profile look like as it pertains to college life?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -11,15 +11,13 @@ toc: false
 <ul class="breadcrumb">
     <li><a href="index.html">Home</a></li>
     <li><a href="metacognition.html">Metacognition</a></li>
-    <li class="active">Metacognition Profiles</li>
+    <li> class="active">Metacognition Profiles</li>
 </ul>
-
-**What does a Metacognitive profile look like as it pertains to college life?What does a Metacognitive profile look like as it pertains to college life?**
 
 The figure below shows the interaction of the three metacognitive components (i.e., planning, monitoring, and evaluation) of a fictional college student, Ryan. Click on the statements below to read about what Ryan was like before using SRL survey feedback and after he began working with this feedback system over time. 
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
-*Ryan is a 40 year old male who recently enrolled in an online college. He is taking classes part-time while he continues his job as a business consultant for a technology company.  After returning home from work at 5:30pm, Ryan typically spends time with his two children (ages 4 and 7), eats dinner with his family, and helps his wife with baths and bedtime. He is only able to start his schoolwork after 8:30pm, when the children are asleep.*
+Ryan is a 40 year old male who recently enrolled in an online college. He is taking classes part-time while he continues his job as a business consultant for a technology company.  After returning home from work at 5:30pm, Ryan typically spends time with his two children (ages 4 and 7), eats dinner with his family, and helps his wife with baths and bedtime. He is only able to start his schoolwork after 8:30pm, when the children are asleep.</i>
 </div>
 
 <center><img src='images/Metacognition-See.PNG' alt='Metacognition Profile for Ryan' /></center>
