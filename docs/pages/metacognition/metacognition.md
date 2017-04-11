@@ -19,7 +19,7 @@ Have you ever procrastinated on an “easy” assignment only to find out you di
 <center><img src='images/Metacognition-Overview FINAL.png' alt='Metacognition Cycle' /></center>
 
 Metacognition is a loop; it repeats over and over again. You plan before a task, monitor during a task, and evaluate after a task. You can use these skills together when solving an individual math problem, and then again after completing the entire math worksheet.
-Your metacognitive skills may all be equally developed, or you may use one strategy (e.g., planning) more frequently than the other two (e.g., monitoring and evaluation), as you can see in the figure above. How frequently you use your metacognitive skills can also vary from task to task. For example, you may frequently create a plan to study for a test, but not develop a plan for writing a paper. To find out more about your metacognitive skills, you can take the <ahref="https://demo.daacs.net/">survey</a>.
+Your metacognitive skills may all be equally developed, or you may use one strategy (e.g., planning) more frequently than the other two (e.g., monitoring and evaluation), as you can see in the figure above. How frequently you use your metacognitive skills can also vary from task to task. For example, you may frequently create a plan to study for a test, but not develop a plan for writing a paper. To find out more about your metacognitive skills, you can take the <a href="https://demo.daacs.net/">survey</a>.
 <br>
 
 <hr />
