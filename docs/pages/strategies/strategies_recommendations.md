@@ -53,26 +53,20 @@ When you have a test or assignment due on a specific date, start your work multi
 </div>
 <br>
 
-<button data-toggle="collapse" data-target="#timerec2" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#timerec2" style="background-color:Lime; width:100%"><b><i>Guiding Principle 2:</i> Set aside regular times using a weekly calendar</b></button>
 
 <div id="timerec2" class="collapse">
-The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+Many students often ask themselves, “When will find the time to do all of my work this week?” College life is busy and complex. To help make things more manageable, it is important to use calendars or other types of scheduling tools to plan and organize your time. For a general process to follow to organize your time using a calendar:
+<ul>
+<li>Write down all upcoming assignments and their due dates</li>
+<li> Write down all of the classes and non-school activities that you will be involved in during the week </li>
+<li> Identify open time blocks or “potential” spaces to do your work </li>
+<li> Make sure to space out work for complex assignments over several days </li>
+</ul>
+The figure below represents an example of what your weekly calendar might look like. Take  note of the multiple days and times set aside to complete an English paper (yellow boxes) and study for a science test (green boxes).
 <br>
-<br>
-<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
 <br>
 </div>
-
-
-**Guiding Principle 2: Set aside regular times using a weekly calendar**
-
-Many students often ask themselves, “When will find the time to do all of my work this week?” College life is busy and complex. To help make things more manageable, it is important to use calendars or other types of scheduling tools to plan and organize your time. For a general process to follow to organize your time using a calendar:
-- Write down all upcoming assignments and their due dates 
-- Write down all of the classes and non-school activities that you will be involved in during the week. 
-- Identify open time blocks or “potential” spaces to do your work
-- Make sure to space out work for complex assignments over several days
-
-The figure below represents an example of what your weekly calendar might look like. Take  note of the multiple days and times set aside to complete an English paper (yellow boxes) and study for a science test (green boxes).
 
 <button data-toggle="collapse" data-target="#timerec3" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
 
