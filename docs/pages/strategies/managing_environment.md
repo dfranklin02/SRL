@@ -37,7 +37,10 @@ However, if you struggle to manage distractions in your environment, you may:
 * give up more easily on difficult tasks
 
 The scenario below illustrates some of the challenges that may arise when learners do not manage their environment:
-> Gloria, a first year college student, was feeling stressed and overwhelmed with writing a research paper that is due in about a week. While writing the paper, Gloria had her cell phone on her desk and would continually check out the texts that here friends were sending back and forth. She also would attempt to do her work when her children or other family members were around. At one point, she stated to herself, “I am so stressed out. I just can’t seem to concentrate. I have so much to do, but I can’t seem to get anything done." Because her life was so hectic and busy, Gloria did not even have time to reflect on ways of making the situation better. Gloria was inching closer to making a decision about not continuing in college. 
+
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i>
+Gloria, a first year college student, was feeling stressed and overwhelmed with writing a research paper that is due in about a week. While writing the paper, Gloria had her cell phone on her desk and would continually check out the texts that here friends were sending back and forth. She also would attempt to do her work when her children or other family members were around. At one point, she stated to herself, “I am so stressed out. I just can’t seem to concentrate. I have so much to do, but I can’t seem to get anything done." Because her life was so hectic and busy, Gloria did not even have time to reflect on ways of making the situation better. Gloria was inching closer to making a decision about not continuing in college. 
+</div>
 
 **Key Thought**: Gloria did not realize that she actually had some control over this situation. The key thing for her to realize was that she could learn strategies to minimize the distractions and interruptions as she completed her work. By doing these things, she would probably have more time to study and would be able to concentrate more fully when doing her work.
 
