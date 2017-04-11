@@ -28,19 +28,40 @@ Please click on the strategy buttons that you think will be helpful to you. For 
 
 
 ## Strategies to manage your TIME
-**Guiding Principle 1: Start studying/working several days in advance of due dates**
 
+<button data-toggle="collapse" data-target="#timerec1" style="background-color:Lime; width:100%"><b>Guiding Principle 1: Start STudying/working several days in advance of due dates</b></button>
+
+<div id="timerec1" class="collapse">
 When you have a test or assignment due on a specific date, start your work multiple days ahead of time. The earlier you start your work, the more time you will have to:
+<br>
 - spread out your studying into manageable chunks
-- deal with unexpected conflicts that may arise throughout the week, such as an unexpected doctor’s appointment or time lost to a fun activity. 
-
-*How far in advance should you begin preparations?* In order to figure out how far in advance you should begin, create a timeline with a specific plan about what you will do each day. This will allow you to assess how much time everything will take, which will help you to decide on an appropriate start date. For example, if you have an English paper due in one week, you should immediately begin by first breaking up the task into smaller parts. If the paper had three unique components, you one possibility is to devote one day for each component and then having at least one day integrating, editing, and revising. Thus, if the assignment was due on March 10th, you may want to schedule the assignment as follows:
+- deal with unexpected conflicts that may arise throughout the week, such as an unexpected doctor’s appointment or time lost to a fun activity
+<br>
+<br>
+<i>How far in advance should you begin preparations?</i>In order to figure out how far in advance you should begin, create a timeline with a specific plan about what you will do each day. This will allow you to assess how much time everything will take, which will help you to decide on an appropriate start date. For example, if you have an English paper due in one week, you should immediately begin by first breaking up the task into smaller parts. If the paper had three unique components, you one possibility is to devote one day for each component and then having at least one day integrating, editing, and revising. Thus, if the assignment was due on March 10th, you may want to schedule the assignment as follows:
 - Component 1 – March 4th
 - Component 2 – March 5th 
 - Component 3 – March 6th 
 - Integration and Revision – March 8th
 - Final touch ups – March 9th 
-*See the “Planning” page for more information about planning out your assignments ***link to Planning page***
+<br>
+<i>See the <a href="http://srl.daacs.net/metacognition_planning.html">Planning page</a> for more information about planning out your assignments</i>
+<br>
+</div>
+
+
+
+
+<button data-toggle="collapse" data-target="#timerec2" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec2" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
+
 
 **Guiding Principle 2: Set aside regular times using a weekly calendar**
 
@@ -52,6 +73,16 @@ Many students often ask themselves, “When will find the time to do all of my w
 
 The figure below represents an example of what your weekly calendar might look like. Take  note of the multiple days and times set aside to complete an English paper (yellow boxes) and study for a science test (green boxes).
 
+<button data-toggle="collapse" data-target="#timerec3" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec3" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
+
 **Guiding Principle 3: Prioritize tasks**
 
 It is important to note only identify the tasks you have to complete, but the importance of each of these task. 
@@ -61,6 +92,16 @@ It is important to note only identify the tasks you have to complete, but the im
 3. Identify the most important tasks that you need to accomplish
 4. Identify how long you think it will take to complete each assignment (e.g., if a paper will take multiple hours, you may want to start with that paper, shift to a less intensive task, and then go back to the paper)
 5. Identify the most difficult tasks to complete (e.g., start with harder tasks while you have more energy and motivation).
+
+<button data-toggle="collapse" data-target="#timerec4" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec4" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
 
 **Guiding Principle 4: Practice estimating the amount of time you need**
 
@@ -76,9 +117,29 @@ Compare the difference between the estimated time and actual time spent on each 
 - Did something get in my way of completing it?
 - What can I do differently to make sure things go more smoothly?
 
+<button data-toggle="collapse" data-target="#timerec5" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec5" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
+
 **Guiding Principle 5: Set specific study goals**
 
 Instead of deciding that you need to “study for the math test”, it may be helpful to develop smaller, and more specific goals. This can focus your study time and better estimate how long it will take you to complete each goal. Try to make your goals specific, such as “(1) read math chapter six on probability, and (2) study probability terms until I can recall 90% of the terms from memory.” You can then estimate how long each goal will take (e.g., “I need one hour to read chapter six and 30 minutes to study probability terms”) and decide when you will set aside time to accomplish the tasks (e.g., “I only have an hour to work on homework tonight, so I will read chapter six tonight and set aside 30 minutes to study tomorrow night”). 
+
+<button data-toggle="collapse" data-target="#timerec6" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec6" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
 
 **Guiding Principle 6: Break up your study/work times into small chunks**
 
@@ -88,13 +149,43 @@ For example, it may be helpful to schedule tasks and create goals that will take
 
 For more help with creating a schedule, see the strategy **Set aside regular times using a weekly calendar.**
 
+<button data-toggle="collapse" data-target="#timerec7" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec7" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
+
 **Guiding Principle 7: Take breaks while completing your school work**
 
 It may sound counterintuitive, but taking breaks in between completing assignments or studying can also enhance your time management. As students get tired and fatigue from doing too much work, it is more likely that they will make mistakes and work less efficiently. Of course there may be times when you need to push through your schoolwork or to study at a slower pace, remember that taking several short breaks is a way to reenergize and refresh your mind.
 
+<button data-toggle="collapse" data-target="#timerec8" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec8" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
+
 **Guiding Principle 8: Alternate study topics/tasks**
 
 When completing schoolwork or studying for a long time, it also important to consider alternating topics or tasks. For instance, you might focus on reading a book chapter for an hour, then switching to completing math problems before continuing your reading. While it might seem that finishing a reading then answering related questions on that same topic before moving onto another topics an effective way to study, you are less likely to remember the material later on. 
+
+<button data-toggle="collapse" data-target="#timerec9" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="timerec9" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
 
 **Guiding Principle 9: Reduce procrastination**
 
