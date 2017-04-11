@@ -36,7 +36,7 @@ The figure below shows the interaction of the three metacognitive components (i.
          <img img src='images/mindsetsee1.png' width="100px" height="50px" alt='mindset_profile'/>
       </td>
    </tr>
-   <tr>
+   <tr style="background-color:white">
       <td>
          <img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
       </td>
@@ -46,7 +46,7 @@ The figure below shows the interaction of the three metacognitive components (i.
          <p>BAs he prepares for his next test, Ryan is fairly adept at noticing when his thoughts wander and when he is getting confused. To keep himself aware of his learning, he tries to stops at the end of each section of the study guide to ask, “Do I understand what I just studied?” Further, in order to check his comprehension during studying, Ryan typically wants to quiz himself. Unfortunately, because he does not really plan out his study sessions he tends to not be able to do all of the things that he thinks he can do. <b>(Frequent Monitoring)</b>. </p>
       </td>
    </tr>
-   <tr>
+   <tr style="background-color:white">
       <td>
          <br>
          <br>
@@ -64,7 +64,7 @@ The figure below shows the interaction of the three metacognitive components (i.
 ### Ryan’s metacognitive strategy use *AFTER* using SRL SURVEY recommendations:
 
 <table>
-   <tr>
+   <tr style="background-color:white">
       <td>
          <br>
          <br>
@@ -75,7 +75,7 @@ The figure below shows the interaction of the three metacognitive components (i.
          <img img src='images/mindsetsee1.png' width="100px" height="50px" alt='mindset_profile'/>
       </td>
    </tr>
-   <tr>
+   <tr style="background-color:white">
       <td>
          <img src='images/mindsetsee2.png' width="100" height="50" alt='mindset_profile' />
       </td>
@@ -85,7 +85,7 @@ The figure below shows the interaction of the three metacognitive components (i.
          <p>Although Ryan was a frequent monitor before the SRL survey experience, he has continued to increase the frequency of monitoring by using new strategies he learned from the SRL survey. He not only tries to monitor how well he is learning during studying, he also tries to identify various resources that he can use when completing a task (i.e. internet, textbooks, notes, worksheets). In general, Ryan is becoming more aware of the things that are most challenging for him and developing strategies to keep him on track and from getting stuck while studying. He often keeps track of various strategies used to overcome obstacles while studying, so he does not make the same mistakes and feel ‘stuck’ while studying <b>(Frequent Monitoring).</b> </p>
       </td>
    </tr>
-   <tr>
+   <tr style="background-color:white">
       <td>
          <br>
          <br>
