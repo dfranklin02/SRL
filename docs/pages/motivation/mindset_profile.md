@@ -49,7 +49,7 @@ Rewind to the moment after Ben received his poor midterm grade, when he started 
 In reading the feedback, Ben became aware of his Fixed mindset. He then reframed the failure in terms of factors that he can control, which helped him to see how he can improve. 
 </blockquote></div>
  
- <div class="col-md-6" style="margin-top: 20px"> <!-- Adjust the margin-top until the text displays where you want -->
+ <div class="col-md-6" style="margin-top: 30px"> <!-- Adjust the margin-top until the text displays where you want -->
 Ben continued to attend class, but occasionally found himself thinking he was “just not capable of doing well in science” and that “no matter how hard I try, I just can’t learn this material.” Ben told himself he needed to use a Growth mindset, and thought, “with some effort and practice I can learn this material and do well in science. I must be intelligent to get to where I am today.” He also used more positive learning strategies when studying for the final, and felt a newfound sense of confidence in his ability to succeed in future science classes.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 Ben became aware of when he was using a Fixed mindset and adjusted his internal monologue. This allowed him to think more about using learning strategies. 
