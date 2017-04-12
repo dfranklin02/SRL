@@ -113,53 +113,42 @@ To become more effective in using learning strategies for papers, tests, etc., s
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:Lime; width:100%"><b>Develop a growth mindset</b></button>
 
 <div id="efficacyrec6" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or incompetent. Success and confidence typically come from much practice. 
+<br>
+To learn more about your mindset and how to improve it, [click here](mindset.html)
 <br>
 <br>
 </div>
 
-### Develop a growth mindset...
-> It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or incompetent. Success and confidence typically come from much practice. 
-> To learn more about mindset and how to improve it, [click here](mindset.html)
-
-<button data-toggle="collapse" data-target="#efficacyrec7" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec7" style="background-color:Lime; width:100%"><b>Review and record outcomes</b></button>
 
 <div id="efficacyrec7" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+Many students who do not feel confident in themselves will not remember the many times in which they were successful. For each of your classes, keep track of your grades and feedback on tests, quizzes, homework assignments etc. By monitoring your performance, you will often notice that you do well in some areas and perhaps need to improve in others. Don’t minimize the successes that you are having.
 <br>
+<i> Alicia began using the SRL Survey recommendations two months ago, yet she did not feel as though she was improving. But she remembered that it was a good idea to keep track of her test and quiz grades as well as the comments she had been receiving from her professor and advisor. When she listed out all of her grades, she was a little surprised. She saw that the feedback had become more positive over the past two months and her test grades had started to slightly increase. Although Alicia felt that she still needed to improve, seeing her personal growth reinforced that she was taking the right steps and increased her confidence in her ability to reach her goals.</i>
+<br>
+To record your outcomes:
+<ol>
+<li> Decide what outcomes you want to track – grades are an easy way to track progress, but they often do not tell the entire story of your progress. Considering looking at written feedback from professors and try to identify trends in types of correct and incorrect answers you receive. </li>
+<li> Trying graphing your grades on tests, quizzes or projects. Creating a visual is very powerful in improving your understanding of how well you perform. </li>
+<li> If you notice that your outcomes are not improving or are becoming less positive, seek help from your professor or reach out to your academic advisor to determine steps you can take to make improvements. </li>
+</ol>
 <br>
 </div>
 
-### Review and record outcomes...
-> Many students who do not feel confident in themselves will not remember the many times in which they were successful. For each of your classes, keep track of your grades and feedback on tests, quizzes, homework assignments etc. By monitoring your performance, you will often notice that you do well in some areas and perhaps need to improve in others. Don’t minimize the successes that you are having.
-> 
-> *Brief Scenario*
-> 
-> *Alicia began using the SRL Survey recommendations two months ago, yet she did not feel as though she was improving. But she remembered that it was a good idea to keep track of her test and quiz grades as well as the comments she had been receiving from her professor and advisor. When she listed out all of her grades, she was a little surprised. She saw that the feedback had become more positive over the past two months and her test grades had started to slightly increase. Although Alicia felt that she still needed to improve, seeing her personal growth reinforced that she was taking the right steps and increased her confidence in her ability to reach her goals.*
-> 
-> *To record your outcomes:*
-> 
-> 1. Decide what outcomes you want to track – grades are an easy way to track progress, but they often do not tell the entire story of your progress. Considering looking at written feedback from professors and try to identify trends in types of correct and incorrect answers you receive.
-> 2. Trying graphing your grades on tests, quizzes or projects. Creating a visual is very powerful in improving your understanding of how well you perform.
-> 3. If you notice that your outcomes are not improving or are becoming less positive, seek help from your professor or reach out to your academic advisor to determine steps you can take to make improvements.
-
-<button data-toggle="collapse" data-target="#efficacyrec8" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec8" style="background-color:Lime; width:100%"><b>Separate feedback into components</b></button>
 
 <div id="efficacyrec8" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+When you receive feedback on a test, paper, or other assignment, try to avoid focusing on the overall grade. When you receive a grade, think of yourself as a mini-detective who wants to identify areas where you performed well and areas that you did not. By seeing areas that you have mastered, you will be reminded that you have developed some skills – you just need to keep improving. 
+<br>
+<i> Tommy received a C- on a research paper, which made him instantly feel incompetent. As he further explored his professor’s feedback, he realized that the paper was well-written and organized appropriately, but that he lacked a comprehensive review of the research. Additionally, his introduction and conclusion were strengths, but his critique of the research needed improvement. Tommy thought to himself, “Although I did not get the grade I wanted, there were some things I did really well. Now I just have to remember to work on the other areas. </i>
 <br>
 <br>
 </div>
 
-### Separate feedback into components...
-> When you receive feedback on a test, paper, or other assignment, try to avoid focusing on the overall grade. When you receive a grade, think of yourself as a mini-detective who wants to identify areas where you performed well and areas that you did not. By seeing areas that you have mastered, you will be reminded that you have developed some skills – you just need to keep improving. 
-> 
-> *Brief Scenario*
-> 
-> *Tommy received a C- on a research paper, which made him instantly feel incompetent. As he further explored his professor’s feedback, he realized that the paper was well-written and organized appropriately, but that he lacked a comprehensive review of the research. Additionally, his introduction and conclusion were strengths, but his critique of the research needed improvement. Tommy thought to himself, “Although I did not get the grade I wanted, there were some things I did really well. Now I just have to remember to work on the other areas.*
 
 {% include footers/self-efficacy_footer.html %}
 
