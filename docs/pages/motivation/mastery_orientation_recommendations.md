@@ -77,7 +77,7 @@ When facing difficulties or failure, think about how that challenge is actually 
 
 <div id="choose" class="collapse">
 Learners with a Performance Goal Orientation often choose easy, non-challenging tasks because they don’t want to risk failing or appearing incompetent. However, choosing challenging tasks is important because it allows you to learn more and boost your self-efficacy when you succeed. Remember, you can only become high skilled if you take on challenging things. So the next time a challenge comes your way, embrace it and remind yourself that it is through striving to overcome challenges that you will become a stronger student.
-
+<br>
 <i>Sue’s philosophy professor requires students to choose one article a week from a list of recommended readings to read and summarize. Sue used to scroll through a few articles and pick the shortest one, because she knew it would be easier to write a good summary of a short article. Sue realizes that she’s not learning more about topics that are relevant to her interests because she is only worried about writing a “good” summary. This week, she tried something new: she chose an article on a topic that she liked even thought it was length and very detailed. After reading the article, she felt proud and satisfied because she actually learned a couple of key points that related to her career.</i>
 <br>
 </div>
@@ -95,7 +95,7 @@ You can do this by:
 <br>
 <br>
 <i>Rewarding yourself for your own progress</i>
-
+<br>
 These strategies will help you focus on the process of *your* learning, instead of comparing yourself to others.
 <br>
 <i>If you are struggling to get good grades on online quizzes, set a personal goal (“I want to get B’s by the end of the semester.”) Focus on your individual improvement; for example, you can graph your quiz grades to create a visual representation of your progress. Reward yourself when you reach your goal. Remember, this is about you, not about how anyone else in the class is performing.</i>
@@ -109,6 +109,7 @@ These strategies will help you focus on the process of *your* learning, instead 
 There are different ways you can evaluate a grade that you receive on a test, project, or assignment. Learners with a Performance Orientation tend to compare themselves to others. For example, they might want to know if their grade or score was higher than the class average. Instead of using class average as the your “benchmark of success”, use other things such as how well you performed the different skills for that task. It is most important to focus on making progress and mastering skills than simply outperforming others.
 
 For example:
+<br>
 <i>*You scored a 78 on an exam. Reflect on your grade by asking yourself: Which material on the exam did I know well? Which questions did I get wrong? Did I misunderstand a concept or topic that I should review again?*</i>
 <br>
 <br>
