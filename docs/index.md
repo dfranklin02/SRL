@@ -68,6 +68,6 @@ Self-regulated learners set goals, plan their learning, monitor their progress, 
 
 <hr />
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/U2Yt0fOLyuw?list=PLz6X7eB9XUp3fUcvexy8n9mAok2LWKtpl" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/207329335" frameborder="0" allowfullscreen></iframe></div>
 
 
