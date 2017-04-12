@@ -28,7 +28,7 @@ toc: false
 <button data-toggle="collapse" data-target="#studyingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
 
 <div id="studyingbefore1" class="collapse">
-<b>WRITE</b> a list of the information you will be tested on. <b>ASK</b> yourself “Am I forgetting about any topics or course materials that I need to study?”
+<b>WRITE</b> a list of the information you will be tested on. <b>ASK</b> yourself “Am I forgetting about any topics or course materials that I need to study?” TEST
 <br>
 <br>
 </div>
