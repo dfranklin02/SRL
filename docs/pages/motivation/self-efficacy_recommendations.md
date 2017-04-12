@@ -28,7 +28,9 @@ When a task seems complex or overwhelming it is important to: 1) break it down i
 <i>Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
 past, which makes her feel more confident about successfully writing this research paper.</i>
 <br>
+<br>
 Examples of questions to ask to help break down different tasks:
+<br>
 <b> RESEARCH PAPERS</b>
 <ul>
 <li> Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
@@ -44,6 +46,7 @@ instructions)?  </li>
 </ul>
 To become more effective in using learning strategies for papers, studying, etc., <a href="http://srl.daacs.net/strategies.html">click here.</a>
 <br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:Lime; width:100%"><b>Seek help</b></button>
@@ -52,6 +55,7 @@ To become more effective in using learning strategies for papers, studying, etc.
 We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
 <br>
 To become more effective at seeking help, <a href="http://srl.daacs.net/help_seeking.html">click here.</a>
+<br>
 <br>
 <i> Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant to ask for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. </i>
 <br>
@@ -63,6 +67,7 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 <div id="efficacyrec3" class="collapse">
 Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
 <br>
+<br>
 To become more effective in using learning strategies for papers, studying, etc., <a href="http://srl.daacs.net/strategies.html">click here.</a>
 <br>
 <br>
@@ -73,15 +78,17 @@ To become more effective in using learning strategies for papers, studying, etc.
 <div id="efficacyrec4" class="collapse">
 It may sound silly but talking in a positive way to yourself is important. Most confident people use positive self-talk, such as telling themselves, “I can learn how to do this” and “I have done this successfully before, I can do it again.” Try to become more aware of the things you naturally say to yourself and remind yourself about your prior successes and accomplishments.
 <br>
+<br>
 <i> As Samantha sat down to study for her math test she felt anxious and defeated. Because she was trying to become more aware of the types of things she thought about when studying, she soon realized that most of her thoughts were negative. She actually become motivated to write down the bad thoughts, and with the help of her advisor, rewrote them as positive statements. </i>
+<br>
 <br>
 <b> Examples of situations when you can use self-talk:</b>
 <ul>
-<li><b>WHEN</b> I feel overwhelmed while studying, ><b>SAY</b>, "Breathe, I can do this, one bit at a time." </li>
-<li>><b>WHEN</b> I doubt my ability to write a paper, ><b>SAY</b>, "Last paper I put in time and effort and I WAS able to learn the material, even though it was hard at first - keep going."  </li>
-<li>><b>WHEN</b> I get stuck in an online lesson, ><b>SAY</b>, "I can use my skills and resources to get through this." </li>
-<li>><b>WHEN</b> I feel unmotivated to complete a reading, ><b>SAY</b>, "This is difficult, but if I can push through I will feel better in the end."  </li>
-<li>><b>WHEN</b> I am bored and disinterested in the work, ><b>SAY</b>, "Sometimes I will not like things in school but it is important to always try my best."  </li>
+<li><b>WHEN</b> I feel overwhelmed while studying, <b>SAY</b>, "Breathe, I can do this, one bit at a time." </li>
+<li><b>WHEN</b> I doubt my ability to write a paper, <b>SAY</b>, "Last paper I put in time and effort and I WAS able to learn the material, even though it was hard at first - keep going."  </li>
+<li><b>WHEN</b> I get stuck in an online lesson, <b>SAY</b>, "I can use my skills and resources to get through this." </li>
+<li><b>WHEN</b> I feel unmotivated to complete a reading, <b>SAY</b>, "This is difficult, but if I can push through I will feel better in the end."  </li>
+<li><b>WHEN</b> I am bored and disinterested in the work, <b>SAY</b>, "Sometimes I will not like things in school but it is important to always try my best."  </li>
 </ul>
 <br>
 </div>
@@ -91,9 +98,12 @@ It may sound silly but talking in a positive way to yourself is important. Most 
 <div id="efficacyrec5" class="collapse">
 When completing learning tasks like studying for an exam or writing a paper, set aside time to practice and get feedback after completing part or all of the assignment.
 <br>
+<br>
 <i> Dylan was feeling unsure about his ability to write his final English paper, but knew that he needed to do well. Dylan decided to write a draft of the paper and get feedback from a friend or classmate before turning it in. He had not really done this before and was surprised that his classmate gave him 2-3 really useful things to help him improve. He felt more confident that he was submitting high quality work. </i>
 <br>
+<br>
 There are many things you can do to practice and get feedback for different activities:
+<br>
 <br>
 <b> TESTS </b>
 <ul>
@@ -111,6 +121,7 @@ There are many things you can do to practice and get feedback for different acti
 </ul>
 To become more effective in using learning strategies for papers, tests, etc., such as how to quiz yourself and/or create an outline, <a href="http://srl.daacs.net/strategies.html">click here.</a>
 <br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:Lime; width:100%"><b>Develop a growth mindset</b></button>
@@ -118,7 +129,8 @@ To become more effective in using learning strategies for papers, tests, etc., s
 <div id="efficacyrec6" class="collapse">
 It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or incompetent. Success and confidence typically come from much practice. 
 <br>
-To learn more about your mindset and how to improve it, [click here](mindset.html)
+<br>
+To learn more about your mindset and how to improve it, <a href="http://srl.daacs.net/mindset.html">click here.</a>
 <br>
 <br>
 </div>
@@ -128,7 +140,9 @@ To learn more about your mindset and how to improve it, [click here](mindset.htm
 <div id="efficacyrec7" class="collapse">
 Many students who do not feel confident in themselves will not remember the many times in which they were successful. For each of your classes, keep track of your grades and feedback on tests, quizzes, homework assignments etc. By monitoring your performance, you will often notice that you do well in some areas and perhaps need to improve in others. Don’t minimize the successes that you are having.
 <br>
+<br>
 <i> Alicia began using the SRL Survey recommendations two months ago, yet she did not feel as though she was improving. But she remembered that it was a good idea to keep track of her test and quiz grades as well as the comments she had been receiving from her professor and advisor. When she listed out all of her grades, she was a little surprised. She saw that the feedback had become more positive over the past two months and her test grades had started to slightly increase. Although Alicia felt that she still needed to improve, seeing her personal growth reinforced that she was taking the right steps and increased her confidence in her ability to reach her goals.</i>
+<br>
 <br>
 To record your outcomes:
 <ol>
@@ -144,11 +158,13 @@ To record your outcomes:
 <div id="efficacyrec8" class="collapse">
 When you receive feedback on a test, paper, or other assignment, try to avoid focusing on the overall grade. When you receive a grade, think of yourself as a mini-detective who wants to identify areas where you performed well and areas that you did not. By seeing areas that you have mastered, you will be reminded that you have developed some skills – you just need to keep improving. 
 <br>
+<br>
 <i> Tommy received a C- on a research paper, which made him instantly feel incompetent. As he further explored his professor’s feedback, he realized that the paper was well-written and organized appropriately, but that he lacked a comprehensive review of the research. Additionally, his introduction and conclusion were strengths, but his critique of the research needed improvement. Tommy thought to himself, “Although I did not get the grade I wanted, there were some things I did really well. Now I just have to remember to work on the other areas. </i>
 <br>
 <br>
 </div>
-
+<br>
+<br>
 
 {% include footers/self-efficacy_footer.html %}
 
