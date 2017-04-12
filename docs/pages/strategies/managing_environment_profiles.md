@@ -11,7 +11,7 @@ toc: false
 <ul class="breadcrumb">
     <li><a href="index.html">Home</a></li>
     <li><a href="strategies.html">Strategies</a></li>
-    <li><a href="strategies_managing_environment.html>Managing Environment</a></li>
+    <li><a href="strategies_managing_environment.html">Managing Environment</a></li>
     <li class="active">Profiles</li>
 </ul>
 
