@@ -87,6 +87,7 @@ Learners with a Performance Goal Orientation often choose easy, non-challenging 
 
 <div id="focus" class="collapse">
 You can do this by:
+<br>
 <i>Setting goals and timelines for your own progress</i>
 <br>
 <br>
@@ -96,7 +97,7 @@ You can do this by:
 <i>Rewarding yourself for your own progress</i>
 
 These strategies will help you focus on the process of *your* learning, instead of comparing yourself to others.
-
+<br>
 <i>If you are struggling to get good grades on online quizzes, set a personal goal (“I want to get B’s by the end of the semester.”) Focus on your individual improvement; for example, you can graph your quiz grades to create a visual representation of your progress. Reward yourself when you reach your goal. Remember, this is about you, not about how anyone else in the class is performing.</i>
 <br>
 </div>
@@ -105,7 +106,6 @@ These strategies will help you focus on the process of *your* learning, instead 
 <button data-toggle="collapse" data-target="#evaluate" style="background-color:Yellow; width:50%"><b>Evaluate your performance based on task criteria</b></button>
 
 <div id="evaluate" class="collapse">
-<br>
 There are different ways you can evaluate a grade that you receive on a test, project, or assignment. Learners with a Performance Orientation tend to compare themselves to others. For example, they might want to know if their grade or score was higher than the class average. Instead of using class average as the your “benchmark of success”, use other things such as how well you performed the different skills for that task. It is most important to focus on making progress and mastering skills than simply outperforming others.
 
 For example:
