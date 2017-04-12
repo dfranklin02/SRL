@@ -19,7 +19,7 @@ There are many different things students can do to improve their self-efficacy. 
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
-<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:Lime; width:100%"><b>Break down the task</b></button>
 
 <div id="efficacyrec1" class="collapse">
 When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
@@ -46,7 +46,7 @@ To become more effective in using learning strategies for papers, studying, etc.
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:Lime; width:100%"><b>Seek help...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:Lime; width:100%"><b>Seek help</b></button>
 
 <div id="efficacyrec2" class="collapse">
 We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
@@ -58,7 +58,7 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:Lime; width:100%"><b>Learn strategies to use...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:Lime; width:100%"><b>Learn strategies to use</b></button>
 
 <div id="efficacyrec3" class="collapse">
 Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
@@ -68,56 +68,50 @@ To become more effective in using learning strategies for papers, studying, etc.
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:Lime; width:100%"><b>Use positive self-talk</b></button>
 
 <div id="efficacyrec4" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+It may sound silly but talking in a positive way to yourself is important. Most confident people use positive self-talk, such as telling themselves, “I can learn how to do this” and “I have done this successfully before, I can do it again.” Try to become more aware of the things you naturally say to yourself and remind yourself about your prior successes and accomplishments.
 <br>
+<i> As Samantha sat down to study for her math test she felt anxious and defeated. Because she was trying to become more aware of the types of things she thought about when studying, she soon realized that most of her thoughts were negative. She actually become motivated to write down the bad thoughts, and with the help of her advisor, rewrote them as positive statements. </i>
+<br>
+<b> Examples of situations when you can use self-talk:</b>
+<ul>
+<li><b>WHEN</b> I feel overwhelmed while studying, ><b>SAY</b>, "Breathe, I can do this, one bit at a time." </li>
+<li>><b>WHEN</b> I doubt my ability to write a paper, ><b>SAY</b>, "Last paper I put in time and effort and I WAS able to learn the material, even though it was hard at first - keep going."  </li>
+<li>><b>WHEN</b> I get stuck in an online lesson, ><b>SAY</b>, "I can use my skills and resources to get through this." </li>
+<li>><b>WHEN</b> I feel unmotivated to complete a reading, ><b>SAY</b>, "This is difficult, but if I can push through I will feel better in the end."  </li>
+<li>><b>WHEN</b> I am bored and disinterested in the work, ><b>SAY</b>, "Sometimes I will not like things in school but it is important to always try my best."  </li>
+</ul>
 <br>
 </div>
 
-### Use positive self-talk...
-> It may sound silly but talking in a positive way to yourself is important. Most confident people use positive self-talk, such as telling themselves, “I can learn how to do this” and “I have done this successfully before, I can do it again.” Try to become more aware of the things you naturally say to yourself and remind yourself about your prior successes and accomplishments.
-> 
-> *Brief Scenario*
-> *As Samantha sat down to study for her math test she felt anxious and defeated. Because she was trying to become more aware of the types of things she thought about when studying, she soon realized that most of her thoughts were negative. She actually become motivated to write down the bad thoughts, and with the help of her advisor, rewrote them as positive statements.*
-> 
-> *Examples of situations when you can use self-talk:*
-> * **WHEN** I feel overwhelmed while studying, **SAY**, “Breathe, I can do this, one bit at a time.”
-> * **WHEN** I doubt my ability to write a paper, **SAY**, “Last paper I put in time and effort and I WAS able to learn the material, even though it was hard at first – keep going.”
-> * **WHEN** I get stuck in an online lesson, **SAY**, “I can use my skills and resources to get through this.”
-> * **WHEN** I feel unmotivated to complete a reading, **SAY**, “This is difficult, but if I can push through I will feel better in the end.”
-> * **WHEN** I am bored and disinterested in the work, **SAY**, “Sometimes I will not like things in school but it is important to always try my best.”
-
-<button data-toggle="collapse" data-target="#efficacyrec5" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec5" style="background-color:Lime; width:100%"><b>Practice and get feedback</b></button>
 
 <div id="efficacyrec5" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+When completing learning tasks like studying for an exam or writing a paper, set aside time to practice and get feedback after completing part or all of the assignment.
 <br>
+<i> Dylan was feeling unsure about his ability to write his final English paper, but knew that he needed to do well. Dylan decided to write a draft of the paper and get feedback from a friend or classmate before turning it in. He had not really done this before and was surprised that his classmate gave him 2-3 really useful things to help him improve. He felt more confident that he was submitting high quality work. </i>
+<br>
+There are many things you can do to practice and get feedback for different activities:
+<br>
+<b> TESTS </b>
+<ul>
+<li> Quiz yourself. </li>
+<li> Ask others to quiz you. </li>
+<li> Compare your notes to others. </li>
+<li> Have a study partner and shared information. </li>
+</ul>
+<b> PAPER</b>
+<ul>
+<li> Create an outline or summarize research articles to demonstrate your understanding of the content you are about to write about. </li>
+<li> Compare these materials with others in your class. </li>
+<li> Ask your professor for feedback before you begin writing. </li>
+<li> Complete a draft of the paper early and ask others to proofread it. </li>
+</ul>
+To become more effective in using learning strategies for papers, tests, etc., such as how to quiz yourself and/or create an outline, <a href="http://srl.daacs.net/strategies.html">click here.</a>
 <br>
 </div>
-
-### Practice and get feedback...
-> When completing learning tasks like studying for an exam or writing a paper, set aside time to practice and get feedback after completing part or all of the assignment.
-> 
-> *Brief Scenario*
-> 
-> *Dylan was feeling unsure about his ability to write his final English paper, but knew that he needed to do well. Dylan decided to write a draft of the paper and get feedback from a friend or classmate before turning it in. He had not really done this before and was surprised that his classmate gave him 2-3 really useful things to help him improve. He felt more confident that he was submitting high quality work.*
-> There are many things you can do to practice and get feedback for different activities:
-> 
-> **TESTS**
-> * Quiz yourself.
-> * Ask others to quiz you.
-> * Compare your notes to others.
-> * Have a study partner and shared information.
-> 
-> **PAPER**
-> * Create an outline or summarize research articles to demonstrate your understanding of the content you are about to write about.
-> * Compare these materials with others in your class
-> * Ask your professor for feedback before you begin writing.
-> * Complete a draft of the paper early and ask others to proofread it.
->
->To become more effective in using learning strategies for papers, tests, etc., such as how to quiz yourself and/or create an outline, click here ***link to learning strategies***
 
 <button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
 
