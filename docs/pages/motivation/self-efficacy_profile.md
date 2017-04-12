@@ -60,9 +60,6 @@ Allison can continue to use the recommendations and find new ways to improve her
 <br>
 <br>
 <br>
- {% include footers/mindset_footer.html %}
-
-
 {% include footers/self-efficacy_footer.html %}
 
 
