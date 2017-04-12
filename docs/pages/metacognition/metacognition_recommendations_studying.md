@@ -60,7 +60,8 @@ To help you better learn and understand information (e.g., to improve your study
 <ol>
 <li> Start several days in advanced. </li>
 <li> Estimate how long the assignment will take you. Consider the goals of the assignment and different approaches you can take. </li>
-<li> Set aside regular times to work and set specific goals for each time period. Plan in extra time for certain approaches, such as writing an outline before writing a paper. </li>
+<li> Set aside regular times to work and set specific goals for each time period. Prioritize information to study and plan extra time for topics that you may struggle with. </li>
+<li> Take breaks and alternate topics when you feel tired or discouraged. </li>
 <li> Try to identify the types of things you do to procrastinate, and eliminate one type at a time. </li>
 </ol>
 For more information on how to improve your time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.
@@ -73,7 +74,7 @@ For more information on how to improve your time management, click <a href="http
 <div id="studyingbefore5" class="collapse">
 <ol>
 <li> Collect related course materials before beginning an assignment. Keep course materials in a binder and make sure you have class work from each class. </li>
-<li> If you feel overwhelmed by the material, use a graphic organizer or flow chart to connect your thoughts and course material. Re-writing the material can help you organize content. </li>
+<li> If you feel overwhelmed by the material, stay calm, seek help from classmates or your teacher, and organize the information in a way that makes the most sense to you. </li>
 </ol>
 <br>
 </div> 
@@ -88,19 +89,10 @@ Resources:
 <li> Teachers </li>
 <li> Classmates </li>
 </ul>
-When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. Click <a href="http://srl.daacs.net/help_seeking.html">here</a> in order to learn more about approaching teachers and classmates.
+When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have a full understanding of the material you will be tested on.. Click <a href="http://srl.daacs.net/help_seeking.html">here</a> in order to learn more about approaching teachers and classmates.
 <br>
 <br>
 </div>
-
-
-
-
-
-
-
-
-
 
 ### While studying ask yourself...
   
@@ -128,7 +120,7 @@ Click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>in order to 
 
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
-> **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. > 
+> **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. 
 > **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
 
 For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
