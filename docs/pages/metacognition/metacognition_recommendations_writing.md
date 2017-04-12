@@ -119,7 +119,8 @@ CLick <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to
 
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
-> **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. > 
+> **ASK** yourself “What am I having trouble with?” so you know where to pay more attention.
+
 > **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
 
 For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
