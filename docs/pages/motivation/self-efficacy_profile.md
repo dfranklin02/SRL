@@ -19,7 +19,7 @@ The scenario below explores the self-efficacy profile of a college student, Alli
 
 **Before** receiving SRL feedback – Allison had  **LOW** self-efficacy:
 
-<div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
+<div class="col-md-6" style="margin-top: 80px"> <!-- Adjust the margin-top until the text displays where you want -->
 Allison has been putting off her college writing course requirement for as long as possible, and was forced to enroll in the online version this semester. Allison took an online course last year and did not perform well. Allison had difficulty understanding the material and assignments and she often thought, “This is too hard, I can’t do this! I don’t understand this online course work and I never have time to finish my work!” Now that Alison is forced to take online writing courses, she feels uncertain about her ability to succeed. </div><div class="col-md-6"><blockquote class="oval-thought">
 Allison doubts her abilities and discourages herself by engaging in negative self-talk. Think about how this would look if Allison tried using the strategy Positive Self Talk. 
 </blockquote></div>
