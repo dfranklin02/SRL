@@ -19,39 +19,62 @@ There are many different things students can do to improve their self-efficacy. 
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
-### Break down the task...
-> When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable. 
->
-> *Brief Scenario*
-> *Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
-past, which makes her feel more confident about successfully writing this research paper.
-> Examples of questions to ask to help break down different tasks*
-> **RESEARCH PAPERS**
-> - Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
-instructions)? 
-> - Are there certain strategies that can help me write the paper? 
-> - What steps can I take to review or check my progress (e.g., proofread each paragraph/section as you write it, ask a classmate to provide feedback)?
->
-> **STUDYING**
-> - What are the course materials and information that I need to use to study well? 
-> - Are there specific strategies that I can use to learn the information most effectively? 
-> - How can I check my comprehension while studying (e.g., quiz yourself after each topic, compare notes with a classmate)?
->
-> To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***
+<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
 
-### Seek help...
-> We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
->
-> To become more effective at seeking help, click here ***link to help seeking recommendations***
->
-> When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
-> 
-> *Brief Scenario* 
-> *Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant to ask for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. *
+<div id="efficacyrec1" class="collapse">
+When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+<br>
+<br>
+<i>Mary feels she does not have the skills to write a research paper and is hesitant to begin. Because completing the entire paper feels overwhelming, Mary breaks down the assignment into parts: 1) writing an outline, 2) researching the topic, 3) writing the paper, and 4) proofreading. Mary remembers she has successfully written outlines and proofread papers in the 
+past, which makes her feel more confident about successfully writing this research paper.</i>
+<br>
+Examples of questions to ask to help break down different tasks:
+<b> RESEARCH PAPERS</b>
+<ul>
+<li> Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
+instructions)?  </li>
+<li> Are there certain strategies that can help me write the paper? </li>
+<li> What steps can I take to review or check my progress (e.g., proofread each paragraph/section as you write it, ask a classmate to provide feedback)? </li>
+</ul>
+<b> STUDYING </b>
+<ul>
+<li> What are the course materials and information that I need to use to study well?  </li>
+<li> Are there specific strategies that I can use to learn the information most effectively?  </li>
+<li> How can I check my comprehension while studying (e.g., quiz yourself after each topic, compare notes with a classmate)? </li>
+</ul>
+To become more effective in using learning strategies for papers, studying, etc., <a href="http://srl.daacs.net/strategies.html">click here.</a>
+<br>
+</div>
 
-### Learn strategies to use...
-> Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
-> To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***   
+<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:Lime; width:100%"><b>Seek help...</b></button>
+
+<div id="efficacyrec2" class="collapse">
+We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
+<br>
+To become more effective at seeking help, <a href="http://srl.daacs.net/help_seeking.html">click here.</a>
+<br>
+<i> Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant to ask for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. </i>
+<br>
+<br>
+</div>
+
+<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:Lime; width:100%"><b>Learn strategies to use...</b></button>
+
+<div id="efficacyrec3" class="collapse">
+Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
+<br>
+To become more effective in using learning strategies for papers, studying, etc., <a href="http://srl.daacs.net/strategies.html">click here.</a>
+<br>
+<br>
+</div>
+
+<button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+
+<div id="efficacyrec4" class="collapse">
+When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+<br>
+<br>
+</div>
 
 ### Use positive self-talk...
 > It may sound silly but talking in a positive way to yourself is important. Most confident people use positive self-talk, such as telling themselves, “I can learn how to do this” and “I have done this successfully before, I can do it again.” Try to become more aware of the things you naturally say to yourself and remind yourself about your prior successes and accomplishments.
@@ -65,6 +88,14 @@ instructions)?
 > * **WHEN** I get stuck in an online lesson, **SAY**, “I can use my skills and resources to get through this.”
 > * **WHEN** I feel unmotivated to complete a reading, **SAY**, “This is difficult, but if I can push through I will feel better in the end.”
 > * **WHEN** I am bored and disinterested in the work, **SAY**, “Sometimes I will not like things in school but it is important to always try my best.”
+
+<button data-toggle="collapse" data-target="#efficacyrec5" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+
+<div id="efficacyrec5" class="collapse">
+When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+<br>
+<br>
+</div>
 
 ### Practice and get feedback...
 > When completing learning tasks like studying for an exam or writing a paper, set aside time to practice and get feedback after completing part or all of the assignment.
@@ -88,9 +119,25 @@ instructions)?
 >
 >To become more effective in using learning strategies for papers, tests, etc., such as how to quiz yourself and/or create an outline, click here ***link to learning strategies***
 
+<button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+
+<div id="efficacyrec6" class="collapse">
+When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+<br>
+<br>
+</div>
+
 ### Develop a growth mindset...
 > It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or incompetent. Success and confidence typically come from much practice. 
 > To learn more about mindset and how to improve it, [click here](mindset.html)
+
+<button data-toggle="collapse" data-target="#efficacyrec7" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+
+<div id="efficacyrec7" class="collapse">
+When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+<br>
+<br>
+</div>
 
 ### Review and record outcomes...
 > Many students who do not feel confident in themselves will not remember the many times in which they were successful. For each of your classes, keep track of your grades and feedback on tests, quizzes, homework assignments etc. By monitoring your performance, you will often notice that you do well in some areas and perhaps need to improve in others. Don’t minimize the successes that you are having.
@@ -104,6 +151,14 @@ instructions)?
 > 1. Decide what outcomes you want to track – grades are an easy way to track progress, but they often do not tell the entire story of your progress. Considering looking at written feedback from professors and try to identify trends in types of correct and incorrect answers you receive.
 > 2. Trying graphing your grades on tests, quizzes or projects. Creating a visual is very powerful in improving your understanding of how well you perform.
 > 3. If you notice that your outcomes are not improving or are becoming less positive, seek help from your professor or reach out to your academic advisor to determine steps you can take to make improvements.
+
+<button data-toggle="collapse" data-target="#efficacyrec8" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+
+<div id="efficacyrec8" class="collapse">
+When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+<br>
+<br>
+</div>
 
 ### Separate feedback into components...
 > When you receive feedback on a test, paper, or other assignment, try to avoid focusing on the overall grade. When you receive a grade, think of yourself as a mini-detective who wants to identify areas where you performed well and areas that you did not. By seeing areas that you have mastered, you will be reminded that you have developed some skills – you just need to keep improving. 
