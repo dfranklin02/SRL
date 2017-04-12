@@ -19,6 +19,16 @@ There are many different things students can do to improve their self-efficacy. 
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
+<button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+
+<div id="neuroplasticity" class="collapse">
+The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
+<br>
+<br>
+<b>WHEN</b> you encounter a challenge, <b>THINK</b> about how you can strengthen your brain, intelligence, and abilities with practice and effort, instead of focusing on how your level of intelligence is fixed.
+<br>
+</div>
+
 ### Break down the task...
 > When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable. 
 >
