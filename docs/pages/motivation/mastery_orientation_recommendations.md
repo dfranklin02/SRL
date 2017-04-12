@@ -105,6 +105,7 @@ These strategies will help you focus on the process of *your* learning, instead 
 <button data-toggle="collapse" data-target="#evaluate" style="background-color:Yellow; width:50%"><b>Evaluate your performance based on task criteria</b></button>
 
 <div id="evaluate" class="collapse">
+<br>
 There are different ways you can evaluate a grade that you receive on a test, project, or assignment. Learners with a Performance Orientation tend to compare themselves to others. For example, they might want to know if their grade or score was higher than the class average. Instead of using class average as the your “benchmark of success”, use other things such as how well you performed the different skills for that task. It is most important to focus on making progress and mastering skills than simply outperforming others.
 
 For example:
