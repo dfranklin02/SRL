@@ -102,7 +102,7 @@ Click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to
 > 
 > **WRITE** or verbally state the information you have learned and check the accuracy of this information with your course materials.
 
-To become more effective at learning information to meet your learning goals, click <a href="http://srl.daacs.net/understanding.html">here</a>. <br>
+To become more effective at learning information to meet your learning goals, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
 ### After reading ask yourself...
 
