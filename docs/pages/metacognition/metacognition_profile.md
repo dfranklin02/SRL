@@ -22,7 +22,7 @@ Ryan is a 40 year old male who recently enrolled in an online college. He is tak
 
 <center><img src='images/Metacognition-See.PNG' alt='Metacognition Profile for Ryan' /></center>
 
-### Ryan’s metacognitive strategy use *BEFORE* using SRL Survey recommendations:
+### Ryan’s metacognitive strategy use *BEFORE* using SRL Survey recommendations:###
 
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 Ryan is very busy with his family and work responsibilities. He can do his schoolwork and study for his exam after his children go to sleep – about 8:30pm or so. As a student, Ryan did not realize that planning is related to the way in which he engages in self-checking and adapting behaviors. Therefore, with his busy life, he studies when he finds time. As a result, he constantly feels rushed and worries that he just does not have the necessary time to get through all of the study material. Although some of his friends told him that he needs to plan better, Ryan told them that he has no time to plan and that it was a waste of his time. <b>(Infrequent Planning<b>
@@ -40,7 +40,7 @@ Although Ryan does a good job of trying to keep track of his learning during stu
 Ryan does not routinely reflect on and evaluate the quality of his study approach. Ryan does not routinely reflect on and evaluate the quality of his study approach.
 </blockquote></div>
 
-### Ryan’s metacognitive strategy use *AFTER* using SRL SURVEY recommendations:
+### Ryan’s metacognitive strategy use *AFTER* using SRL SURVEY recommendations:###
 
 <div class="col-md-6" style="margin-top: 20px"> <!-- Adjust the margin-top until the text displays where you want -->
 Upon completing the SRL survey and reviewing the different partsof the feedback, Ryan thought it would be bestto check-in with his advisor to find out more information regarding strategieshe could use. He realized that the frequency with which he engaged inmetacognition could be improved and therefore he needed to learn and usevarious strategies. Ryan gained insight into the fact that the frequency withwhich he plans, monitors, and evaluates his assignments are all related and canaffect his performance on an assignment. Therefore, he began to re-think hisapproach to school. Rather than waiting until the day before the exam to studyhe began to devote small segments of time each night. He also looked thesyllabus and study guide well in advance oftests so that he can figure out what might be the best way to study. He gotsome of these ideas about how to plan from the SRL survey feedback system and reached out tohis advisor to ask some questions about how he might become a better planner.He never realized that by preparing and thinking ahead he would actually becomemore relaxed and confident as a student <b>(Frequent Planning)</b>.
