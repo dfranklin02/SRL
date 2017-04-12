@@ -50,5 +50,5 @@ All students can benefit from developing a Mastery Orientation! To learn more ab
 <div class="embed-responsive embed-responsive-16by9"><iframe iframe class="embed-responsive-item" src="https://player.vimeo.com/video/207330839" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
-{% include footers/performance_orientation_footer.html %}
+{% include footers/mastery_orientation_footer.html %}
 

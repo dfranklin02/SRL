@@ -19,7 +19,7 @@ Students will often differ in the reasons why they engage in learning. The figur
 
 <center><img src='images/Mastery Orientation Outcomes.png' alt='Mastery Orientation' /></center> 
 
-{% include footers/masteryorientation_footer.html %}
+{% include footers/mastery_orientation_footer.html %}
 
 
 
