@@ -46,35 +46,27 @@ To become more effective in using learning strategies for papers, studying, etc.
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:Lime; width:100%"><b>Seek help...</b></button>
 
 <div id="efficacyrec2" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
+<br>
+To become more effective at seeking help, <a href="http://srl.daacs.net/help_seeking.html">click here.</a>
+<br>
+<i> Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant to ask for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. </i>
 <br>
 <br>
 </div>
 
-### Seek help...
-> We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
->
-> To become more effective at seeking help, click here ***link to help seeking recommendations***
->
-> When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
-> 
-> *Brief Scenario* 
-> *Jacob was unsure how to structure his discussion post for an online forum in his history class. Although he was hesitant to ask for help because he was afraid others would think he was dumb, he decided to use the chat feature of the class forum to ask his classmates about how they were formatting their posts. A few students responded and offered to review Jacob’s writing if he could give feedback on theirs in return. The classmates’ feedback not only helped Jacob understand the discussion post format for the class, it made him feel more confident that he was on the right track with the assignment, which increased his self-efficacy for discussion post tasks in the future. *
-
-<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:Lime; width:100%"><b>Learn strategies to use...</b></button>
 
 <div id="efficacyrec3" class="collapse">
-When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
+Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
+<br>
+To become more effective in using learning strategies for papers, studying, etc., <a href="http://srl.daacs.net/strategies.html">click here.</a>
 <br>
 <br>
 </div>
-
-### Learn strategies to use...
-> Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
-> To become more effective in using learning strategies for papers, studying, etc., click here ***link to learning strategies***   
 
 <button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:Lime; width:100%"><b>Break down the task...</b></button>
 
