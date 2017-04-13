@@ -172,22 +172,42 @@ To improve how you learn information to meet your goals,<a href="http://srl.daac
 
 ### After studying ask yourself...
 
-<p class='question'>“How well did I accomplish the goals of the assignment? What did I learn?”</p>
+<button data-toggle="collapse" data-target="#studyingafter1" style="background-color:Orchid; width:100%"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
 
-> 1. **ASK** yourself “Did I meet my study goals? Did I learn what I set out to?”
-> 2. If your answer is “No” try to meet your goals before taking the test. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to learn this material.
+<div id="studyingafter1" class="collapse">
+<ol>
+<li><b>ASK</b></li> yourself “Did I meet my study goals? Did I learn what I set out to?”
+<li>If your answer is “No” try to meet your goals before taking the test. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to learn this material.</li>
+</ol>
+To become more effective at seeking help, <a href="http://srl.daacs.net/help_seeking.html">click here.</a>
+<br>
+<br>
+</div>
 
-To become more effective at seeking help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
+<button data-toggle="collapse" data-target="#studyingafter2" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
 
-<p class='question'>“What did I do that worked well? What should I change”</p>
+<div id="studyingafter2" class="collapse">
+<ol>
+<li><b>ASK</b></li> yourself “Did one learning strategy work better than others?” Maybe making flashcards worked well, but skimming the textbook did not help your comprehension.
+<li><b>ASK</b></li> yourself “Did I perform better on one part of the test than others (e.g., type of question, topic)?”
+<li><b>WRITE</b></li> down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a test or quiz.
+</ol>
+<br>
+</div>
 
-> 1.  **ASK** yourself “Did one learning strategy work better than others?” Maybe making flashcards worked well, but skimming the textbook did not help your comprehension.
-> 2.  **ASK** yourself “Did I perform better on one part of the test than others (e.g., type of question, topic)?”
-> 3.  **WRITE** down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a test or quiz.
 
-<p class='question'>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</p>
+<button data-toggle="collapse" data-target="#studyingafter3" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
-> 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
-> 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.
+<div id="studyingafter3" class="collapse">
+<ol>
+<li>Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.</li>
+<li>Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.</li>
+</ol>
+To learn how to better ask for help,<a href="http://srl.daacs.net/help_seeking.html"> click here.</a>
+<br>
+<br>
+</div>
 
-To learn how to better ask for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
+
+
+
