@@ -28,9 +28,26 @@ toc: false
 
 ### Before reading ask yourself...
 
+<button data-toggle="collapse" data-target="#readingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+
+<div id="readingbefore1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
+
 <p class='question'>“What am I supposed to learn? What does the instructor want me to take away from this?”</p>
 
 > Do you understand what the reading or lesson is asking you to do? For instance, are you supposed to skim the reading for general concepts, or are there guided reading questions that you need to answer along the way?
+
+<button data-toggle="collapse" data-target="#readingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+
+<div id="readingbefore2" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“What do I already know and what would I like to learn?”</p>
 
@@ -38,11 +55,27 @@ toc: false
 > 2.  **ASK** yourself “What do I want to learn? What skills would I like to take away from this reading/lesson?”
 > 3.  **WRITE** down these goals so that you can return to them later.
 
+<button data-toggle="collapse" data-target="#readingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+
+<div id="readingbefore3" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What are some ways that I can accomplish this task?”</p>
 
 > **BRAINSTORM** multiple approaches to accomplish the reading/lesson. If you have seen this type of reading/lesson before, what strategies worked best for you? Consider approaches such as summarizing each chapter or section of a lesson before moving onto the next.
 
 To become more effective at summarizing, or other methods for better understanding what you are reading, click <a href="http://srl.daacs.net/managing_time.html">here</a>.<br>
+
+<button data-toggle="collapse" data-target="#readingbefore4" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+
+<div id="readingbefore4" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“How much time do I have to complete this? How much time do I need?”</p>
 
@@ -53,10 +86,26 @@ To become more effective at summarizing, or other methods for better understandi
 
 To become more effective at time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.<br>
 
+<button data-toggle="collapse" data-target="#readingbefore5" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+
+<div id="readingbefore5" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“How can I organize myself and my materials?”</p>
 
 > 1.  Collect related course materials before beginning a reading or lesson. Keep course materials in a binder and make sure you have class work from each class.
 > 2.  If you feel overwhelmed by the material, use a graphic organizer or flow chart to connect your thoughts and course material. Re-writing the material can help you organize content.
+
+<button data-toggle="collapse" data-target="#readingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+
+<div id="readingbefore6" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“What resources do I have to complete the task?”</p>
 
@@ -72,6 +121,14 @@ See "Help Seeking" in order to learn more about how to approach teachers and cla
 
 ### While reading ask yourself...
 
+<button data-toggle="collapse" data-target="#readingduring1" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingduring1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What strategies am I using that are or are not working well to help me learn?”</p>
 
 > **WHEN** you get stuck, **ASK** yourself “Am I using the best method possible to complete this reading/lesson? Should I use a different approach?” You can adjust how fast or slow you are reading the text, eliminate distractions from your environment, and consciously focus your thoughts on the task, rather than other things on your mind.
@@ -79,6 +136,15 @@ See "Help Seeking" in order to learn more about how to approach teachers and cla
 > **WHEN** reading, **ASK** yourself “What did I just read?” Summarize the reading or generate questions based on the reading to check your comprehension.
 
 For more information on strategies to help you learn, such as removing distractions from your environment or summarizing a reading, click on "Learning Strategies."
+
+
+<button data-toggle="collapse" data-target="#readingduring2" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingduring2" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“What other resources could I use to complete this task?”</p>
 
@@ -92,9 +158,27 @@ For more information on strategies to help you learn, such as removing distracti
 
 Click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to learn more about approaching teachersand classmates for help.
 
+
+<button data-toggle="collapse" data-target="#readingduring3" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingduring3" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
 > **ASK** yourself “What am I having trouble with?” **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
+
+
+<button data-toggle="collapse" data-target="#readingduring4" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingduring4" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“Am I meeting my learning goals?”</p>
 
@@ -106,6 +190,15 @@ To become more effective at learning information to meet your learning goals, cl
 
 ### After reading ask yourself...
 
+
+<button data-toggle="collapse" data-target="#readingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingafter1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“How well did I accomplish the goals of the assignment? What did I learn?”</p>
 
 > 1.  **ASK** yourself “Did I accomplish the goals of this reading/lesson? Did I learn what I set out to?” Check your comprehension by quizzing yourself or writing down the information you have learned and checking its accuracy with course materials.
@@ -114,11 +207,29 @@ To become more effective at learning information to meet your learning goals, cl
 
 CLick <a href="http://srl.daacs.net/help_seeking.html">here</a><br> for guidance on asking for help.
 
+
+<button data-toggle="collapse" data-target="#readingafter2" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingafter2" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What did I do that worked well? What should I change”</p>
 
 > 1.  **ASK** yourself “Did one learning strategy work better than others?”
 > 2.  **ASK** yourself “Did I perform better on one part of the lesson than others?” Maybe you understood the general ideas but had difficulties with the details.
 > 3.  **WRITE** down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a similar assignment.
+
+
+<button data-toggle="collapse" data-target="#readingafter3" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="readingafter3" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</p>
 
