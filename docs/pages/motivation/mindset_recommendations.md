@@ -29,7 +29,7 @@ There are many different things students can do to improve their mindset. Below 
 <b><i>NOTE: Tim, Jason - pick the box style that you think is most visually appealing - bold text? length of button? curved edges? </i></b>
 
 <br>
-<button data-toggle="collapse" data-target="#aware" style="background-color:DodgerBlue">Be aware of your Mindset</button>
+<button data-toggle="collapse" data-target="#aware" style="background-color:DodgerBlue; border-radius:8px; width:75%"><b>Be aware of your mindset</b></button>
 
 <div id="aware" class="collapse">
 Try to pay attention to how you talk to yourself about your schoolwork. It is important that you recognize when you respond to school activities with a Fixed mindset or a Growth mindset. A Fixed mindset will typically prompt you to question your ability to succeed and may convince you not to try, while a Growth mindset is more oriented towards seeing the positive in all situations.
@@ -40,7 +40,7 @@ Try to pay attention to how you talk to yourself about your schoolwork. It is im
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#adjust" style="background-color:Turquoise; width:50%"><b>Adjust your internal monologue</b></button>
+<button data-toggle="collapse" data-target="#adjust" style="background-color:Turquoise; border-radius:8px; width:75%"><b>Adjust your internal monologue</b></button>
 
 <div id="adjust" class="collapse">
 Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if you have Fixed Mindset thoughts, YOU CAN CHANGE THEM. In addition to trying to replace Fixed Mindset thoughts with a Growth Mindset, make sure that you remember to DO SOMETHING. That is, don’t just try to think differently – change what you do to match your new way of thinking.
@@ -51,7 +51,7 @@ Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#Reframe" style="background-color:MediumSpringGreen; border-radius:8px"><b>Reframe how you think about successes and failures</b></button>
+<button data-toggle="collapse" data-target="#Reframe" style="background-color:MediumSpringGreen; border-radius:8px; width:75%"><b>Reframe how you think about successes and failures</b></button>
 
 <div id="Reframe" class="collapse">
 Think about successes and failures in terms of controllable factors – such as time, effort, and strategy use – rather than uncontrollable factors – such as your innate ability or difficulty of the task.
@@ -62,7 +62,7 @@ Think about successes and failures in terms of controllable factors – such as 
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime; width:100%"><b>Learn about neuroplasticity</b></button>
+<button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:Lime; border-radius:8px; width:75%"><b>Learn about neuroplasticity</b></button>
 
 <div id="neuroplasticity" class="collapse">
 The brain is like a muscle: the more you work out your brain through practice, the stronger the muscle gets, and the smarter you can become! When you learn something new, your brain forms connections, which makes your brain stronger; you are not simply born with a set amount of connections and strength of your brain. If we could not strengthen our brain, then we would not be able to learn and grow after birth!
@@ -84,7 +84,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow; width:75%"><b>Remind yourself about successful attempts to use a Growth mindset</b></button>
+<button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow; border-radius: 8px; width:75%"><b>Remind yourself about successful attempts to use a Growth mindset</b></button>
 
 <div id="remind" class="collapse">
 1.  Reflect on a time when you successfully faced a challenge that seemed impossible based on your abilities at the time.
@@ -94,7 +94,7 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#ask" style="background-color:Yellow; width:75%"><b>Ask for help</b></button>
+<button data-toggle="collapse" data-target="#ask" style="background-color:Yellow; border-radius: 8px; width:75%"><b>Ask for help</b></button>
 
 <div id="ask" class="collapse">
 Developing a growth mindset means accepting that improvement happens gradually and through hard work. Asking for help is not a sign of weakness. Rather, it is a sign that you care about your learning and want to put in the necessary effort to learn and improve your skills.
@@ -115,7 +115,7 @@ To become more effective at help seeking, <a href="http://srl.daacs.net/help_see
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange; border-radius:8px"><b>Adopt a Growth mindset in all aspects of your life</b></button>
+<button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange; border-radius:8px; width:75%"><b>Adopt a Growth mindset in all aspects of your life</b></button>
 
 <div id="adopt" class="collapse">
 Developing a growth mindset is not simply about a particular class or situation in school. It important to embrace a Growth mindset perspective across all aspects of your life, such as your relationships, health, and work. The more you can get into the habit of thinking that your ability to do things can change and improve, the better able you will be to take on difficult challenges and feel more satisfied and happy with yourself.
