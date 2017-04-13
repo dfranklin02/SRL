@@ -97,7 +97,7 @@ Just because you got a few questions wrong, it does not mean that you failed the
 <br>
 <button data-toggle="collapse" data-target="#anxietyrec6" style="background-color:Lime; width:100%"><b>Practice relaxation techniques</b></button>
 
-<div id="#anxietyrec6" class="collapse">
+<div id="anxietyrec6" class="collapse">
 While you are studying and before entering a classroom to take an exam, it is important to use breathing/relaxation techniques. The key thing is trying taking a few deep, slow breaths while consciously relaxing your muscles. Once you’re able to get yourself back in the zone and you release some tension, focusing on studying and on the exam may become easier.
 <br>
 <br>
