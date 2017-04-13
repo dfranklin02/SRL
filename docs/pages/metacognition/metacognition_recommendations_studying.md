@@ -189,8 +189,8 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 <div id="studyingafter2" class="collapse">
 <ol>
 <li><b>ASK</b></li> yourself “Did one learning strategy work better than others?” Maybe making flashcards worked well, but skimming the textbook did not help your comprehension.
-<li><b>ASK</b></li> yourself “Did I perform better on one part of the test than others (e.g., type of question, topic)?”
-<li><b>WRITE</b></li> down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a test or quiz.
+<li><b>ASK</b> yourself “Did I perform better on one part of the test than others (e.g., type of question, topic)?” </li>
+<li><b>WRITE</b> down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a test or quiz. </li>
 </ol>
 <br>
 </div>
