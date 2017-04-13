@@ -31,93 +31,74 @@ toc: false
 <button data-toggle="collapse" data-target="#readingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
 
 <div id="readingbefore1" class="collapse">
-TEXT HERE
+Do you understand what the reading or lesson is asking you to do? For instance, are you supposed to skim the reading for general concepts, or are there guided reading questions that you need to answer along the way?
 <br>
 <br>
 </div>
 
-
-<p class='question'>“What am I supposed to learn? What does the instructor want me to take away from this?”</p>
-
-> Do you understand what the reading or lesson is asking you to do? For instance, are you supposed to skim the reading for general concepts, or are there guided reading questions that you need to answer along the way?
-
-<button data-toggle="collapse" data-target="#readingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#readingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
 
 <div id="readingbefore2" class="collapse">
-TEXT HERE
+<ol>
+<li><b>BRAINSTORM</b> what you already know about the topic of the reading/lesson. <b>WRITE</b> down or verbally state the information from memory.</li>
+<li><b>ASK</b> yourself “What do I want to learn? What skills would I like to take away from this reading/lesson?”</li>
+<li><b>WRITE</b> down these goals so that you can return to them later.</li>
+</ol>
 <br>
 <br>
 </div>
 
-<p class='question'>“What do I already know and what would I like to learn?”</p>
-
-> 1.  **BRAINSTORM** what you already know about the topic of the reading/lesson. **WRITE** down or verbally state the information from memory.
-> 2.  **ASK** yourself “What do I want to learn? What skills would I like to take away from this reading/lesson?”
-> 3.  **WRITE** down these goals so that you can return to them later.
-
-<button data-toggle="collapse" data-target="#readingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#readingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
 
 <div id="readingbefore3" class="collapse">
-TEXT HERE
+<b>BRAINSTORM</b> multiple approaches to accomplish the reading/lesson. If you have seen this type of reading/lesson before, what strategies worked best for you? Consider approaches such as summarizing each chapter or section of a lesson before moving onto the next.
 <br>
 <br>
+To become more effective at summarizing, or other methods for better understanding what you are reading, <a href="http://srl.daacs.net/strategies.html">click here.</a>
 </div>
 
-<p class='question'>“What are some ways that I can accomplish this task?”</p>
-
-> **BRAINSTORM** multiple approaches to accomplish the reading/lesson. If you have seen this type of reading/lesson before, what strategies worked best for you? Consider approaches such as summarizing each chapter or section of a lesson before moving onto the next.
-
-To become more effective at summarizing, or other methods for better understanding what you are reading, click <a href="http://srl.daacs.net/managing_time.html">here</a>.<br>
-
-<button data-toggle="collapse" data-target="#readingbefore4" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#readingbefore4" style="background-color:LightGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
 
 <div id="readingbefore4" class="collapse">
-TEXT HERE
+<ol>
+<li>Start several days in advanced.</li>
+<li>Estimate how long the reading/lesson will take you. Consider the goals of the reading/lesson and different approaches you can take.</li>
+<li>Set aside regular times to work and set specific goals for each time period. Plan in extra time for obstacles, such as looking up terms in other resources before you can understand a reading or technological issues that may prevent you from accessing course content.</li>
+<li>Try to identify the types of things you do to procrastinate, and eliminate one type at a time.</li>
+</ol>
+To become more effective at time management, <a href="http://srl.daacs.net/managing_time.html">click here.</a>
 <br>
 <br>
 </div>
 
-<p class='question'>“How much time do I have to complete this? How much time do I need?”</p>
-
-> 1.  Start several days in advanced.
-> 2.  Estimate how long the reading/lesson will take you. Consider the goals of the reading/lesson and different approaches you can take.
-> 3.  Set aside regular times to work and set specific goals for each time period. Plan in extra time for obstacles, such as looking up terms in other resources before you can understand a reading or technological issues that may prevent you from accessing course content.
-> 4.  Try to identify the types of things you do to procrastinate, and eliminate one type at a time.
-
-To become more effective at time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.<br>
-
-<button data-toggle="collapse" data-target="#readingbefore5" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#readingbefore5" style="background-color:LightGreen; width:100%"><b><i>“How can I organize myself and my materials?”</i></b></button>
 
 <div id="readingbefore5" class="collapse">
-TEXT HERE
-<br>
+<ol>
+<li>Collect related course materials before beginning a reading or lesson. Keep course materials in a binder and make sure you have class work from each class.</li>
+<li>If you feel overwhelmed by the material, use a graphic organizer or flow chart to connect your thoughts and course material. Re-writing the material can help you organize content.</li>
+</ol>
 <br>
 </div>
 
-<p class='question'>“How can I organize myself and my materials?”</p>
-
-> 1.  Collect related course materials before beginning a reading or lesson. Keep course materials in a binder and make sure you have class work from each class.
-> 2.  If you feel overwhelmed by the material, use a graphic organizer or flow chart to connect your thoughts and course material. Re-writing the material can help you organize content.
-
-<button data-toggle="collapse" data-target="#readingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#readingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What resources do I have to complete the task?”</i></b></button>
 
 <div id="readingbefore6" class="collapse">
-TEXT HERE
+Resources:
+<ul>
+<li>Textbooks</li>
+<li>Course lessons</li>
+<li>Teachers</li>
+<li>Classmates</li>
+</ul>
+For instance, if you encounter technological difficulties, are there numbers you can call for help, rather than simply stopping the assignment?
 <br>
 <br>
+See <a href="http://srl.daacs.net/help_seeking.html">help seeking</a> to learn more about how to approach teachers and classmates for help.
 </div>
 
-<p class='question'>“What resources do I have to complete the task?”</p>
 
-> Resources:
-> - Textbooks
-> - Course lessons
-> - Your teacher
-> - Classmates
->  
-> For instance, if you encounter technological difficulties, are there numbers you can call for help, rather than simply stopping the assignment?
 
-See "Help Seeking" in order to learn more about how to approach teachers and classmates for help.
 
 ### While reading ask yourself...
 
