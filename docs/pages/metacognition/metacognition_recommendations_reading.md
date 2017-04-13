@@ -102,119 +102,90 @@ See <a href="http://srl.daacs.net/help_seeking.html">help seeking</a> to learn m
 
 ### While reading ask yourself...
 
-<button data-toggle="collapse" data-target="#readingduring1" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingduring1" style="background-color:DarkSalmon; width:100%"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
 
 <div id="readingduring1" class="collapse">
-TEXT HERE
+<b>WHEN</b> you get stuck, <b>ASK</b> yourself “Am I using the best method possible to complete this reading/lesson? Should I use a different approach?” You can adjust how fast or slow you are reading the text, eliminate distractions from your environment, and consciously focus your thoughts on the task, rather than other things on your mind.
+<b>WHEN</b> reading, <b>ASK</b> yourself “What did I just read?” Summarize the reading or generate questions based on the reading to check your comprehension.
 <br>
 <br>
+For more information on strategies to help you learn, such as removing distractions from your environment or summarizing a reading, <a href="http://srl.daacs.net/strategies.html">click here.</a> 
 </div>
 
-<p class='question'>“What strategies am I using that are or are not working well to help me learn?”</p>
-
-> **WHEN** you get stuck, **ASK** yourself “Am I using the best method possible to complete this reading/lesson? Should I use a different approach?” You can adjust how fast or slow you are reading the text, eliminate distractions from your environment, and consciously focus your thoughts on the task, rather than other things on your mind.
-> 
-> **WHEN** reading, **ASK** yourself “What did I just read?” Summarize the reading or generate questions based on the reading to check your comprehension.
-
-For more information on strategies to help you learn, such as removing distractions from your environment or summarizing a reading, click on "Learning Strategies."
-
-
-<button data-toggle="collapse" data-target="#readingduring2" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingduring2" style="background-color:DarkSalmon; width:100%"><b><i>“What other resources could I use to complete this task?”</i></b></button>
 
 <div id="readingduring2" class="collapse">
-TEXT HERE
+Resources:
+<ul>
+<li>Textbooks</li>
+<li>Course lessons</li>
+<li>Teachers</li>
+<li>Classmates</li>
+</ul>
+<b>WHEN</b> you get stuck, <b>ASK</b> yourself “Am I using all of these resources? Is there one I could use better?”
 <br>
 <br>
+<a href="http://srl.daacs.net/help_seeking.html">Click here</a>.<br> to learn more about approaching teachers and classmates for help.
 </div>
 
-<p class='question'>“What other resources could I use to complete this task?”</p>
-
-> Resources:
-> -   Textbooks
-> -   Course lessons
-> -   Your teacher
-> -   Classmates
-> 
-> **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
-
-Click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to learn more about approaching teachersand classmates for help.
-
-
-<button data-toggle="collapse" data-target="#readingduring3" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
 
 <div id="readingduring3" class="collapse">
-TEXT HERE
+<b>ASK</b> yourself “What am I having trouble with?” <b>BRAINSTORM</b> ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
 <br>
 <br>
 </div>
 
-<p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
-
-> **ASK** yourself “What am I having trouble with?” **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
-
-
-<button data-toggle="collapse" data-target="#readingduring4" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingduring4" style="background-color:DarkSalmon; width:100%"><b><i>“Am I meeting my learning goals?”</i></b></button>
 
 <div id="readingduring4" class="collapse">
-TEXT HERE
+<b>ASK</b> yourself “Am I meeting the goals of this reading/lesson? Am I focusing on areas or topics where I want to learn more? If not, where did I diverge from my goals and how can I get back on track?”
+<br>
+<br>
+<b>WRITE</b> or verbally state the information you have learned and check the accuracy of this information with your course materials.
+<br>
+<br>
+To become more effective at learning information to meet your learning goals, <a href="http://srl.daacs.net/strategies.html">click here.</a> 
 <br>
 <br>
 </div>
 
-<p class='question'>“Am I meeting my learning goals?”</p>
-
-> **ASK** yourself “Am I meeting the goals of this reading/lesson? Am I focusing on areas or topics where I want to learn more? If not, where did I diverge from my goals and how can I get back on track?”
-> 
-> **WRITE** or verbally state the information you have learned and check the accuracy of this information with your course materials.
-
-To become more effective at learning information to meet your learning goals, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
 ### After reading ask yourself...
 
 
-<button data-toggle="collapse" data-target="#readingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingafter1" style="background-color:Orchid; width:100%"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
 
 <div id="readingafter1" class="collapse">
-TEXT HERE
+<ol>
+<li><b>ASK</b> yourself “Did I accomplish the goals of this reading/lesson? Did I learn what I set out to?” Check your comprehension by quizzing yourself or writing down the information you have learned and checking its accuracy with course materials.</li>
+<li>If your answer is “No”, look back to the reading or lesson to try again. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.</li>
+</ol>
+<br>
+<a href="http://srl.daacs.net/help_seeking.html">Click here</a><br> for guidance on asking for help.
 <br>
 <br>
 </div>
 
-<p class='question'>“How well did I accomplish the goals of the assignment? What did I learn?”</p>
-
-> 1.  **ASK** yourself “Did I accomplish the goals of this reading/lesson? Did I learn what I set out to?” Check your comprehension by quizzing yourself or writing down the information you have learned and checking its accuracy with course materials.
-> 
-> 2.  If your answer is “No”, look back to the reading or lesson to try again. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.
-
-CLick <a href="http://srl.daacs.net/help_seeking.html">here</a><br> for guidance on asking for help.
-
-
-<button data-toggle="collapse" data-target="#readingafter2" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingafter2" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
 
 <div id="readingafter2" class="collapse">
-TEXT HERE
-<br>
+<ol>
+<li><b>ASK</b> yourself “Did one learning strategy work better than others?”</li>
+<li><b>ASK</b> yourself “Did I perform better on one part of the lesson than others?” Maybe you understood the general ideas but had difficulties with the details.</li>
+<li><b>WRITE</b> down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a similar assignment.</li>
+</ol>
 <br>
 </div>
 
-<p class='question'>“What did I do that worked well? What should I change”</p>
-
-> 1.  **ASK** yourself “Did one learning strategy work better than others?”
-> 2.  **ASK** yourself “Did I perform better on one part of the lesson than others?” Maybe you understood the general ideas but had difficulties with the details.
-> 3.  **WRITE** down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a similar assignment.
-
-
-<button data-toggle="collapse" data-target="#readingafter3" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#readingafter3" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
 <div id="readingafter3" class="collapse">
-TEXT HERE
+<ol>
+<li>Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.</li>
+<li>Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another reading or lesson.</li>
+</ol>
+<a href="http://srl.daacs.net/help_seeking.html">Click here</a><br> for effective strategies to ask for help.
 <br>
 <br>
 </div>
-
-<p class='question'>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</p>
-
-> 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
-> 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another reading or lesson.
-
-Click <a href="http://srl.daacs.net/help_seeking.html">here</a><br> for more information on asking for help.
