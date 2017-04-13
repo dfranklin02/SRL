@@ -45,7 +45,6 @@ Do you understand what the reading or lesson is asking you to do? For instance, 
 <li><b>WRITE</b> down these goals so that you can return to them later.</li>
 </ol>
 <br>
-<br>
 </div>
 
 <button data-toggle="collapse" data-target="#readingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
@@ -125,7 +124,7 @@ Resources:
 <b>WHEN</b> you get stuck, <b>ASK</b> yourself “Am I using all of these resources? Is there one I could use better?”
 <br>
 <br>
-<a href="http://srl.daacs.net/help_seeking.html">Click here</a>.<br> to learn more about approaching teachers and classmates for help.
+<a href="http://srl.daacs.net/help_seeking.html">Click here</a> to learn more about approaching teachers and classmates for help.
 </div>
 
 <button data-toggle="collapse" data-target="#readingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
@@ -162,7 +161,7 @@ To become more effective at learning information to meet your learning goals, <a
 <li>If your answer is “No”, look back to the reading or lesson to try again. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.</li>
 </ol>
 <br>
-<a href="http://srl.daacs.net/help_seeking.html">Click here</a><br> for guidance on asking for help.
+<a href="http://srl.daacs.net/help_seeking.html">Click here</a> for guidance on asking for help.
 <br>
 <br>
 </div>
@@ -185,7 +184,7 @@ To become more effective at learning information to meet your learning goals, <a
 <li>Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.</li>
 <li>Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another reading or lesson.</li>
 </ol>
-<a href="http://srl.daacs.net/help_seeking.html">Click here</a><br> for effective strategies to ask for help.
+<a href="http://srl.daacs.net/help_seeking.html">Click here</a> for effective strategies to ask for help.
 <br>
 <br>
 </div>
