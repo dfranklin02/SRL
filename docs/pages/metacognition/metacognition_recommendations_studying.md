@@ -96,44 +96,79 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 
 ### While studying ask yourself...
   
-<p class='question'>“What strategies am I using that are or are not working well to help me learn?”</p>
+  <button data-toggle="collapse" data-target="#studyingduring1" style="background-color:DarkSalmon; width:100%"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
 
-> **WHEN** you get stuck, **ASK** yourself “Am I using the best method possible to study? Should I use a different approach?” Figure out what material you understand already so you know where to focus your studying.
-> 
-> *Try:*
-> -   Generating questions to quiz yourself
-> -   Reorganizing the information in a different way (e.g., list similarities between concepts in a Venn diagram)
+<div id="studyingduring1" class="collapse">
+<b> WHEN</b> you get stuck, <b> ASK</b> yourself "Am I using the best method possible to study? Should I use a different approach?" Figure out what material you understand already so you know where to focus your studying.
+<br>
+<br>
+Try:
+<ul>
+<li>Generating questions to quiz yourself</li>
+<li>Reorganizing the information in a different way (e.g., list similarities between concepts in a Venn diagram)</li>
+</ul>
+<br>
+<br>
+For more information on strategies to help you learn, such as reorganizing information in a way that makes sense to you, <a href="http://srl.daacs.net/strategies.html">click here.</a>
+<br>
+<br>
+</div>
 
-For more information on strategies to help you learn, such as reorganizing information in a way that makes sense to you, click <a href="http://srl.daacs.net/strategies.html">here</a>.<br> 
+<button data-toggle="collapse" data-target="#studyingduring2" style="background-color:DarkSalmon; width:100%"><b><i>“What other resources could I use to complete this task?”</i></b></button>
 
-<p class='question'>“What other resources could I use to complete this task?”</p>
+<div id="studyingduring2" class="collapse">
+Resources:
+<ul>
+<li> Textbooks </li>
+<li> Course lessons </li>
+<li> Teachers </li>
+<li> Classmates </li>
+</ul>
+<b> WHEN </b>you get stuck, <b> ASK </b>yourself "Am I using all of these resources? Is there one I could use better?"
+<br>
+<br>
+<a href="http://srl.daacs.net/help_seeking.html"> Click here</a> in order to learn more about approaching teachers and classmates for help.
+<br>
+<br>
+</div>
 
-> Resources:
-> - Textbooks
-> - Course lessons
-> - Your teacher
-> - Classmates
-> 
-> **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
+<button data-toggle="collapse" data-target="#studyingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
 
-Click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>in order to learn more about approaching teachers and classmates for help.
+<div id="studyingduring3" class="collapse">
+<b>ASK</b> yourself "What am I having trouble with?" so you know where to pay more attention.
+<br>
+<br>
+<b>BRAINSTORM</b> ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
+<br>
+<br>
+For more information on asking for help, <a href="http://srl.daacs.net/help_seeking.html">click here</a>
+<br>
+<br>
+</div>
 
-<p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
+<button data-toggle="collapse" data-target="#studyingduring4" style="background-color:DarkSalmon; width:100%"><b><i>“Am I meeting my learning goals?”</i></b></button>
 
-> **ASK** yourself “What am I having trouble with?” so you know where to pay more attention. 
-> **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
+<div id="studyingduring4" class="collapse">
+<b>ASK</b> yourself “What have I learned? Does what I learned match my learning goals? If not, where did I diverge from my goals and how can I get back on track?”
+<br>
+<br>
+To check your understanding of the material, try:
+<ul>
+<li>Writing or verbally stating information from memory. Compare this information to course materials to verify its accuracy.</li>
+<li>Ask others to quiz you.</li>
+</ul>
+To improve how you learn information to meet your goals,<a href="http://srl.daacs.net/understanding.html"> click here.</a>
+<br>
+<br>
+</div>
 
-For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
-<p class='question'>“Am I meeting my learning goals?”</p>
 
-> **ASK** yourself “What have I learned? Does what I learned match my learning goals? If not, where did I diverge from my goals and how can I get back on track?”
-> 
-> *To check what your understanding of the material, try:*
-> - Writing or verbally stating information from memory. Compare this information to course materials to verify its accuracy.
-> - Ask others to quiz you.
 
-To improve how you learn information to meet your goals, click <a href="http://srl.daacs.net/understanding.html">here</a>.<br>
+
+
+
+
 
 ### After studying ask yourself...
 
