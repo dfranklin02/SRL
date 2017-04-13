@@ -100,7 +100,7 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 <button data-toggle="collapse" data-target="#writingduring1" style="background-color:DarkSalmon; width:100%"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
 
 <div id="writingduring1" class="collapse">
-<b> WHEN </b> you get stuck, <b> ASK </b> yourself "Am I using the best method possible to write this paper? Should I use a different approach?"
+<b> WHEN</b> you get stuck, <b> ASK</b> yourself "Am I using the best method possible to write this paper? Should I use a different approach?"
 <br>
 <br>
 For example, if using an outline did not help, you can organize your thoughts in a flow chart or other graphic organizer. 
@@ -112,97 +112,84 @@ To become more effective at using different learning strategies (e.g., making an
 </div>
 
 
-<button data-toggle="collapse" data-target="#writingduring2" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring2" style="background-color:DarkSalmon; width:100%"><b><i>“What other resources could I use to complete this task?”</i></b></button>
 
 <div id="writingduring2" class="collapse">
-TEXT HERE
+Resources:
+<ul>
+<li> Textbooks </li>
+<li> Course lessons </li>
+<li> Teachers </li>
+<li> Classmates </li>
+</ul>
+<b> WHEN </b>you get stuck, <b> ASK </b>yourself "Am I using all of these resources? Is there one I could use better?"
+<br>
+<br>
+<a href="http://srl.daacs.net/help_seeking.html"> Click here</a> in order to learn more about approaching teachers and classmates.
 <br>
 <br>
 </div>
 
-<p class='question'>“What other resources could I use to complete this task?”</p>
-
-> Resources:
-> - Textbooks
-> - Course lessons
-> - Your teacher
-> - Classmates
-> 
-> **WHEN** you get stuck, **ASK** yourself “Am I using all of these resources? Is there one I could use better?”
-
-CLick <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to learn more about approaching teachers and classmates.
-
-<button data-toggle="collapse" data-target="#writingduring3" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
 
 <div id="writingduring3" class="collapse">
-TEXT HERE
+<b>ASK</b> yourself "What am I having trouble with?" so you know where to pay more attention.
+<br>
+<br>
+<b>BRAINSTORM</b> ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
+<br>
+<br>
+For more information on asking for help, <a href="http://srl.daacs.net/help_seeking.html">click here</a>
 <br>
 <br>
 </div>
 
-<p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
-
-> **ASK** yourself “What am I having trouble with?” so you know where to pay more attention.
-
-> **BRAINSTORM** ways to overcome these challenges instead of continuing to run into the same obstacles. Seek help if you cannot find a solution on your own or before you start another assignment of the same type.
-
-For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
-
-<button data-toggle="collapse" data-target="#writingduring4" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring4" style="background-color:DarkSalmon; width:100%"><b><i>“Am I meeting my learning goals?”</i></b></button>
 
 <div id="writingduring4" class="collapse">
-TEXT HERE
+<b>ASK</b> yourself “Does what you have written for this assignment match the criteria for the assignment? Am I focusing on areas or topics where I want to learn more? If not, where did I diverge from my goals and how can I get back on track?”
 <br>
 <br>
 </div>
-
-<p class='question'>“Am I meeting my learning goals?”</p>                                        
-
-> **ASK** yourself “Does what you have written for this assignment match the criteria for the assignment? Am I focusing on areas or topics where I want to learn more? If not, where did I diverge from my goals and how can I get back on track?”
 
 
 ### After completing an assignment ask yourself...
 
-<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
 
 <div id="writingafter1" class="collapse">
-TEXT HERE
+<ol>
+<li><b>ASK</b> yourself “Did I accomplish the assignment’s goals? Did I learn what I set out to?”</li>
+<li> If your answer is “No” try to meet your goals before submitting the assignment. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.</li>
+</ol>
+For more information on asking for help, <a href="http://srl.daacs.net/help_seeking.html">click here.</a>
 <br>
 <br>
 </div>
 
-<p class='question'>“How well did I accomplish the goals of the assignment? What did I learn?”</p>
-
-> 1.  **ASK** yourself “Did I accomplish the assignment’s goals? Did I learn what I set out to?”
-> 2.  If your answer is “No” try to meet your goals before submitting the assignment. Also, make note of the topics you still have to learn and revisit these in the future. You can also reach out to your professor or use other resources to accomplish these goals.
-
-For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
-
-<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
 
 <div id="writingafter1" class="collapse">
-TEXT HERE
+<ol>
+<li><b>ASK</b> yourself “Did one learning strategy work better than others?”</li>
+<li><b>ASK</b> yourself “Did I perform better on one part of the assignment than others?” Maybe your outline was great, but the written paper was not your highest quality work. </li>
+<li><b>WRITE</b> down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a similar assignment.</li>
+</ol>
 <br>
 <br>
 </div>
 
-<p class='question'>“What did I do that worked well? What should I change”</p>
-
-> 1.  **ASK** yourself “Did one learning strategy work better than others?”
-> 2.  **ASK** yourself “Did I perform better on one part of the assignment than others?” Maybe your outline was great, but the written paper was not your highest quality work.
-> 3.  **WRITE** down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a similar assignment.
-
-
-<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
 <div id="writingafter1" class="collapse">
 TEXT HERE
+<ol>
+<li>Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.</li>
+<li>Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.
+</li>
+</ol>
+To learn strategies for seeking help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>
 <br>
 <br>
 </div>
-<p class='question'>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</p>
 
-> 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
-> 2.  Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.
-
-To learn strategies for seeking help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
