@@ -97,6 +97,14 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 
 ### While working on an assignment ask yourself...
 
+<button data-toggle="collapse" data-target="#writingduring1" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingduring1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What strategies am I using that are or are not working well to help me learn?”</p>
 
 > **WHEN** you get stuck, **ASK** yourself “Am I using the best method possible to write this paper? Should I use a different approach?”
@@ -104,6 +112,14 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 > For example, if using an outline did not help, you can organize your thoughts in a flow chart or other graphic organizer. 
 
 > To become more effective at using different learning strategies (e.g., making an outline), click on "Learning Strategies".
+
+<button data-toggle="collapse" data-target="#writingduring2" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingduring2" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“What other resources could I use to complete this task?”</p>
 
@@ -117,6 +133,14 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 
 CLick <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to learn more about approaching teachers and classmates.
 
+<button data-toggle="collapse" data-target="#writingduring3" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingduring3" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What is most challenging about this task? What can I do different at this point to address these challenges?”</p>
 
 > **ASK** yourself “What am I having trouble with?” so you know where to pay more attention.
@@ -125,12 +149,28 @@ CLick <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br> in order to
 
 For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
+<button data-toggle="collapse" data-target="#writingduring4" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingduring4" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“Am I meeting my learning goals?”</p>                                        
 
 > **ASK** yourself “Does what you have written for this assignment match the criteria for the assignment? Am I focusing on areas or topics where I want to learn more? If not, where did I diverge from my goals and how can I get back on track?”
 
 
 ### After completing an assignment ask yourself...
+
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingafter1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 
 <p class='question'>“How well did I accomplish the goals of the assignment? What did I learn?”</p>
 
@@ -139,12 +179,28 @@ For more information on asking for help, click <a href="http://srl.daacs.net/hel
 
 For more information on asking for help, click <a href="http://srl.daacs.net/help_seeking.html">here</a>.<br>
 
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingafter1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
+
 <p class='question'>“What did I do that worked well? What should I change”</p>
 
 > 1.  **ASK** yourself “Did one learning strategy work better than others?”
 > 2.  **ASK** yourself “Did I perform better on one part of the assignment than others?” Maybe your outline was great, but the written paper was not your highest quality work.
 > 3.  **WRITE** down effective strategies and areas for improvements. You can also write a reminder on a calendar to return to this list the next time you have a similar assignment.
-                                                                                                                                                                   
+
+
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>TEXT HERE</i></b></button>
+
+<div id="writingafter1" class="collapse">
+TEXT HERE
+<br>
+<br>
+</div>
 <p class='question'>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</p>
 
 > 1.  Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.
