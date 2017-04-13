@@ -73,7 +73,7 @@ The brain is like a muscle: the more you work out your brain through practice, t
 </div>
 
 <br>
-<button data-toggle="collapse" data-target="#embrace" style="background-color:LawnGreen; width:75%"><b>Embrace challenge</b></button>
+<button data-toggle="collapse" data-target="#embrace" style="background-color:LawnGreen; border-radius:8px; width:75%"><b>Embrace challenge</b></button>
 
 <div id="embrace" class="collapse">
 People with a Fixed Mindset often stay away from challenges for fear of failure. People with a Growth Mindset embrace challenges and view them as an opportunity to learn and grow. <b>When you encounter a challenge, try to think about what you can learn from the opportunity</b>, even if you do not succeed at the task. Challenges, hard work, and mistakes will help you learn and grow more than successfully accomplishing easy tasks.
