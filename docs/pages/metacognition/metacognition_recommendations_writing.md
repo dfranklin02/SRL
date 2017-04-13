@@ -167,9 +167,9 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter2" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
 
-<div id="writingafter1" class="collapse">
+<div id="writingafter2" class="collapse">
 <ol>
 <li><b>ASK</b> yourself “Did one learning strategy work better than others?”</li>
 <li><b>ASK</b> yourself “Did I perform better on one part of the assignment than others?” Maybe your outline was great, but the written paper was not your highest quality work. </li>
@@ -179,9 +179,9 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter3" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
-<div id="writingafter1" class="collapse">
+<div id="writingafter3" class="collapse">
 TEXT HERE
 <ol>
 <li>Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.</li>
