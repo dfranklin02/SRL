@@ -52,8 +52,6 @@ Everyone experiences some level of test anxiety, but not everyone reaches out fo
 <div id="anxietyrec3" class="collapse">
 When preparing for an exam, think about which study strategies might be most helpful to you learning. Many times reading your notes or re-reading a chapter from the textbook is not enough. Memorizing material (using mnemonic devices), using flash cards or graphic organizers, practicing writing, studying with others, and scheduling in study time can all be helpful for successful studying. See the link below for a more detailed list of suggestions for improvement.
 <br>
-<br>
-<br>
 </div>
 
 
@@ -68,8 +66,6 @@ You can build your self-confidence and reduce test anxiety by using positive sel
 <li> “I can reach out for some help if I can’t get this.”</li>
 <li> “I know this material, I studied.”</li>
 </ul>
-<br>
-<br>
 </div>
 
 <br>
@@ -111,14 +107,12 @@ While you are studying and before entering a classroom to take an exam, it is im
 <div id="anxietyrec7" class="collapse">
 Learners sometimes feel overwhelmed by an exam and find themselves unable to focus and feeling scattered before even beginning the exam. It can be helpful to slow down at the beginning of a test and carefully read directions. It also can be helpful to briefly look over the entire exam before beginning so that you get a sense of the different section. There several other test-taking tips that can help with anxiety:
 <br>
-<br>
 <ul>
 <li>Answer easy questions (or question to which you know the answer) first. This can free up time to devote to harder questions</li>
 <li> Use positive self talk if you feel nervous </li>
 <li>Take a few deep breaths if you get stuck</li>
 <li>If there is an essay or another type of written response, spend 2-3 minutes creating an outline or pre-writing</li>
 </ul>
-<br>
 </div>
 
 <br>
