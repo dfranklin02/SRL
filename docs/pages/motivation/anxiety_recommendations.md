@@ -104,7 +104,6 @@ While you are studying and before entering a classroom to take an exam, it is im
 <i>Kathy was studying for her exam that was just a few days away. She started feeling overwhelmed with anxiety. Kathy had this feeling before; it usually ended with her avoiding her work because it was simply too uncomfortable. However, this time was different. Kathy put down her study materials, closed her eyes, and began taking long, deep breathes. Her focus shifted from the exam and studying to only focus on her breathing… the air going in and out of her lungs. She would take a long, deep breath, hold it for a few seconds, and then exhale. After about 5 minutes, Kathy felt more relaxed and knew she was in a better place to be able to focus and study.</i>
 <br>
 </div>
-<br>
 
 <br>
 <button data-toggle="collapse" data-target="#anxietyrec7" style="background-color:Lime; width:100%"><b>Develop good test taking skills</b></button>
