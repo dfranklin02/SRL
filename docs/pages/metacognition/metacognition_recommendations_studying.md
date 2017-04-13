@@ -59,7 +59,7 @@ To help you better learn and understand information (e.g., to improve your study
 <div id="studyingbefore4" class="collapse">
 <ol>
 <li> Start several days in advanced. </li>
-<li> Estimate how long the assignment will take you. Consider the goals of the assignment and different approaches you can take. </li>
+<li> Estimate how long studying will take you. Consider the goals for studying and different approaches you can take. </li>
 <li> Set aside regular times to work and set specific goals for each time period. Prioritize information to study and plan extra time for topics that you may struggle with. </li>
 <li> Take breaks and alternate topics when you feel tired or discouraged. </li>
 <li> Try to identify the types of things you do to procrastinate, and eliminate one type at a time. </li>
@@ -73,7 +73,7 @@ For more information on how to improve your time management, click <a href="http
 
 <div id="studyingbefore5" class="collapse">
 <ol>
-<li> Collect related course materials before beginning an assignment. Keep course materials in a binder and make sure you have class work from each class. </li>
+<li> Collect related course materials before you begin studying. Keep course materials in a binder and make sure you have class work from each class. </li>
 <li> If you feel overwhelmed by the material, stay calm, seek help from classmates or your teacher, and organize the information in a way that makes the most sense to you. </li>
 </ol>
 <br>
