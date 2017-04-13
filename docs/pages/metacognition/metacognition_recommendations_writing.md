@@ -97,21 +97,20 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 
 ### While working on an assignment ask yourself...
 
-<button data-toggle="collapse" data-target="#writingduring1" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring1" style="background-color:DarkSalmon; width:100%"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
 
 <div id="writingduring1" class="collapse">
-TEXT HERE
+<b> WHEN </b> you get stuck, <b> ASK </b> yourself "Am I using the best method possible to write this paper? Should I use a different approach?"
+<br>
+<br>
+For example, if using an outline did not help, you can organize your thoughts in a flow chart or other graphic organizer. 
+<br>
+<br>
+To become more effective at using different learning strategies (e.g., making an outline),<a href="http://srl.daacs.net/strategies.html"> click here</a>
 <br>
 <br>
 </div>
 
-<p class='question'>“What strategies am I using that are or are not working well to help me learn?”</p>
-
-> **WHEN** you get stuck, **ASK** yourself “Am I using the best method possible to write this paper? Should I use a different approach?”
-
-> For example, if using an outline did not help, you can organize your thoughts in a flow chart or other graphic organizer. 
-
-> To become more effective at using different learning strategies (e.g., making an outline), click on "Learning Strategies".
 
 <button data-toggle="collapse" data-target="#writingduring2" style="background-color:DarkSalmon; width:100%"><b><i>TEXT HERE</i></b></button>
 
