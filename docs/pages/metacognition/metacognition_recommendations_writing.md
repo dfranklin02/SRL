@@ -182,7 +182,6 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <button data-toggle="collapse" data-target="#writingafter3" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
 <div id="writingafter3" class="collapse">
-TEXT HERE
 <ol>
 <li>Recognize concepts you still need to master – it is likely that these concepts will come up again throughout the course of your education.</li>
 <li>Use your resources (e.g., ask a teacher, read the textbook) to clarify confusions before attempting another assignment of this type.
