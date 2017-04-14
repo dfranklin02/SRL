@@ -92,6 +92,10 @@ entries:
       - title: Understanding
         url: /understanding.html
         output: web
+        
+      - title: Profiles
+        url: /strategies_profiles.html
+        output: web
 
       - title: Recommendations
         url: /strategies_recommendations.html
