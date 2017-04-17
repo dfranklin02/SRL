@@ -25,7 +25,7 @@ toc: false
 
 ### Before studying ask yourself...
 
-<button data-toggle="collapse" data-target="#studyingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingbefore1" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
 
 <div id="studyingbefore1" class="collapse">
 <b>WRITE</b> a list of the information you will be tested on. <b>ASK</b> yourself “Am I forgetting about any topics or course materials that I need to study?” 
@@ -33,7 +33,7 @@ toc: false
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingbefore2" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
 
 <div id="studyingbefore2" class="collapse">
 <ol>
@@ -44,7 +44,7 @@ toc: false
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingbefore3" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
 
 <div id="studyingbefore3" class="collapse">
 <b>BRAINSTORM</b> multiple approaches to studying. If you have studied for a similar topic or test before, what study strategies worked best for you? Consider using flashcards or combining rewriting your class and/or reading notes into a studyguide.
@@ -54,7 +54,7 @@ To help you better learn and understand information (e.g., to improve your study
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingbefore4" style="background-color:LightGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingbefore4" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
 
 <div id="studyingbefore4" class="collapse">
 <ol>
@@ -69,7 +69,7 @@ For more information on how to improve your time management, click <a href="http
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingbefore5" style="background-color:LightGreen; width:100%"><b><i>“How can I organize myself and my materials?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingbefore5" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“How can I organize myself and my materials?”</i></b></button>
 
 <div id="studyingbefore5" class="collapse">
 <ol>
@@ -79,7 +79,7 @@ For more information on how to improve your time management, click <a href="http
 <br>
 </div> 
 
-<button data-toggle="collapse" data-target="#studyingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What resources do I have to complete the task?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingbefore6" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What resources do I have to complete the task?”</i></b></button>
 
 <div id="studyingbefore6" class="collapse">
 Resources:
@@ -96,7 +96,7 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 
 ### While studying ask yourself...
   
-  <button data-toggle="collapse" data-target="#studyingduring1" style="background-color:DarkSalmon; width:100%"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
+  <button data-toggle="collapse" data-target="#studyingduring1" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
 
 <div id="studyingduring1" class="collapse">
 <b> WHEN</b> you get stuck, <b> ASK</b> yourself "Am I using the best method possible to study? Should I use a different approach?" Figure out what material you understand already so you know where to focus your studying.
@@ -113,7 +113,7 @@ For more information on strategies to help you learn, such as reorganizing infor
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingduring2" style="background-color:DarkSalmon; width:100%"><b><i>“What other resources could I use to complete this task?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingduring2" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“What other resources could I use to complete this task?”</i></b></button>
 
 <div id="studyingduring2" class="collapse">
 Resources:
@@ -131,7 +131,7 @@ Resources:
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingduring3" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
 
 <div id="studyingduring3" class="collapse">
 <b>ASK</b> yourself "What am I having trouble with?" so you know where to pay more attention.
@@ -145,7 +145,7 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingduring4" style="background-color:DarkSalmon; width:100%"><b><i>“Am I meeting my learning goals?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingduring4" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“Am I meeting my learning goals?”</i></b></button>
 
 <div id="studyingduring4" class="collapse">
 <b>ASK</b> yourself “What have I learned? Does what I learned match my learning goals? If not, where did I diverge from my goals and how can I get back on track?”
@@ -171,7 +171,7 @@ To improve how you learn information to meet your goals,<a href="http://srl.daac
 
 ### After studying ask yourself...
 
-<button data-toggle="collapse" data-target="#studyingafter1" style="background-color:Orchid; width:100%"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingafter1" style="background-color:Orchid; width:100%; font-size:20px"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
 
 <div id="studyingafter1" class="collapse">
 <ol>
@@ -183,7 +183,7 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#studyingafter2" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingafter2" style="background-color:Orchid; width:100%; font-size:20px"><b><i>“What did I do that worked well? What should I change”</i></b></button>
 
 <div id="studyingafter2" class="collapse">
 <ol>
@@ -195,7 +195,7 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 </div>
 
 
-<button data-toggle="collapse" data-target="#studyingafter3" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
+<button data-toggle="collapse" data-target="#studyingafter3" style="background-color:Orchid; width:100%; font-size:20px"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
 <div id="studyingafter3" class="collapse">
 <ol>
