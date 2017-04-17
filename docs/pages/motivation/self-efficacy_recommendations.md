@@ -19,7 +19,7 @@ There are many different things students can do to improve their self-efficacy. 
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
-<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:DodgerBlue; width:100%; font-size:16px"><b>Break down the task</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:DodgerBlue; width:100%; font-size:20px"><b>Break down the task</b></button>
 
 <div id="efficacyrec1" class="collapse">
 When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
@@ -63,7 +63,7 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:MediumSpringGreen; width:100%; font-size:14px"><b>Learn strategies to use</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:MediumSpringGreen; width:100%; font-size:20px"><b>Learn strategies to use</b></button>
 
 <div id="efficacyrec3" class="collapse">
 Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
@@ -73,7 +73,7 @@ To become more effective in using learning strategies for papers, studying, etc.
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:LimeGreen; width:100%"><b>Use positive self-talk</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:LimeGreen; width:100%; font-size:20px"><b>Use positive self-talk</b></button>
 
 <div id="efficacyrec4" class="collapse">
 It may sound silly but talking in a positive way to yourself is important. Most confident people use positive self-talk, such as telling themselves, “I can learn how to do this” and “I have done this successfully before, I can do it again.” Try to become more aware of the things you naturally say to yourself and remind yourself about your prior successes and accomplishments.
@@ -93,7 +93,7 @@ It may sound silly but talking in a positive way to yourself is important. Most 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec5" style="background-color:Lime; width:100%"><b>Practice and get feedback</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec5" style="background-color:Lime; width:100%; font-size:20px"><b>Practice and get feedback</b></button>
 
 <div id="efficacyrec5" class="collapse">
 When completing learning tasks like studying for an exam or writing a paper, set aside time to practice and get feedback after completing part or all of the assignment.
@@ -124,7 +124,7 @@ To become more effective in using learning strategies for papers, tests, etc., s
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:GreenYellow; width:100%"><b>Develop a growth mindset</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec6" style="background-color:GreenYellow; width:100%; font-size:20px"><b>Develop a growth mindset</b></button>
 
 <div id="efficacyrec6" class="collapse">
 It is important to always remember to think about school and your performance from the perspective of a growth mindset. That is, believe that ability and intelligence can change over time with practice and effort. Trying hard is not a sign that you are dumb or incompetent. Success and confidence typically come from much practice. 
@@ -135,7 +135,7 @@ To learn more about your mindset and how to improve it, <a href="http://srl.daac
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec7" style="background-color:Yellow; width:100%"><b>Review and record outcomes</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec7" style="background-color:Yellow; width:100%; font-size:20px"><b>Review and record outcomes</b></button>
 
 <div id="efficacyrec7" class="collapse">
 Many students who do not feel confident in themselves will not remember the many times in which they were successful. For each of your classes, keep track of your grades and feedback on tests, quizzes, homework assignments etc. By monitoring your performance, you will often notice that you do well in some areas and perhaps need to improve in others. Don’t minimize the successes that you are having.
@@ -153,7 +153,7 @@ To record your outcomes:
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec8" style="background-color:DarkOrange; width:100%"><b>Separate feedback into components</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec8" style="background-color:DarkOrange; width:100%; font-size:20px"><b>Separate feedback into components</b></button>
 
 <div id="efficacyrec8" class="collapse">
 When you receive feedback on a test, paper, or other assignment, try to avoid focusing on the overall grade. When you receive a grade, think of yourself as a mini-detective who wants to identify areas where you performed well and areas that you did not. By seeing areas that you have mastered, you will be reminded that you have developed some skills – you just need to keep improving. 
