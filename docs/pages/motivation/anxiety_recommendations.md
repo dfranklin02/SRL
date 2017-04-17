@@ -121,7 +121,7 @@ Learners sometimes feel overwhelmed by an exam and find themselves unable to foc
 <div id="anxietyrec8" class="collapse">
 After completing an exam, you may have some doubts and feelings of uncertainty. You may think: did you perform to the best of your ability? Did you use effective strategies? Could you have done something differently? Take note of the strategies you used for the exam, and determine what worked and what didn’t work. When you begin planning and studying for your next exam, make the appropriate changes so you can be better prepared.
 <br>
-To become more effective at reviewing and adapting your learning techniques, click here <b>***link to metacognition – evaluation</b>
+To become more effective at reviewing and adapting your learning techniques,  <a href="http://srl.daacs.net/metacognition_evaluation.html">click here.</a>
 <br>
 <br>
 <i>Tony took an exam a few weeks ago and has another one coming up in a week. He looked at his previous exam and took note of the questions he got wrong. He then went back to his study materials and thought about how he studied for that exam. With this information, he created a study plan for the upcoming exam. This plan involved changing some of his previous ways of studying (i.e. not reading the entire chapter) since it didn’t seem to benefit him. Although he had not yet taken the test, he felt more at ease because he felt better prepared.</i>
