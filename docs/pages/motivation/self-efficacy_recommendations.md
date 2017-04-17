@@ -19,7 +19,7 @@ There are many different things students can do to improve their self-efficacy. 
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
 
-<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:DodgerBlue; width:100%"><b>Break down the task</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:DodgerBlue; width:100%; font-size:16px"><b>Break down the task</b></button>
 
 <div id="efficacyrec1" class="collapse">
 When a task seems complex or overwhelming it is important to: 1) break it down into smaller components, and 2) reflect on how well you can do each of smaller parts. By looking at an assignment as a smaller set of parts to complete, students will often view the assignment as more doable.
@@ -50,7 +50,7 @@ To become more effective in using learning strategies for papers, studying, etc.
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:DarkTurquoise; width:100%"><b>Seek help</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec2" style="background-color:DarkTurquoise; width:100%; font-size:20px"><b>Seek help</b></button>
 
 <div id="efficacyrec2" class="collapse">
 We all get stuck, frustrated, or confused when learning. Most effective learners will seek out help – so don’t hesitate to ask your professor, classmates, advisor, or others for help. Seeking help is not a sign of weakness. Rather, it is an action that will likely to improve your knowledge and skills which can increase the sense that you are capable of doing the task well.
@@ -63,7 +63,7 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:MediumSpringGreen; width:100%"><b>Learn strategies to use</b></button>
+<button data-toggle="collapse" data-target="#efficacyrec3" style="background-color:MediumSpringGreen; width:100%; font-size:14px"><b>Learn strategies to use</b></button>
 
 <div id="efficacyrec3" class="collapse">
 Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
