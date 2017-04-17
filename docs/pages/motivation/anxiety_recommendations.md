@@ -15,7 +15,7 @@ toc: false
     <li class="active">Recommendations</li>
 </ul>
 
-There are a variety of different strategies learners can use to lessen their level of anxiety. Below are several strategies to help you decrease your level of anxiety related to tests as well as other performance or evaluation situations in school. You might find that not all strategies are useful to you, but there are likely a few suggestions that will be helpful. Click on the strategies that you think will be helpful to you. 
+There are a variety of different strategies learners can use to lessen their level of anxiety. Below are several strategies to help you decrease your level of anxiety related to tests as well as other performance or evaluation situations in school. You might find that not all strategies are useful to you, but there are likely a few suggestions that will be helpful. <b>Click on the strategies that you think will be helpful to you.</b> 
 
 <center><img src='images/testanxietydo1.png' alt='anxiety_recommendations' /></center>
 <br>
