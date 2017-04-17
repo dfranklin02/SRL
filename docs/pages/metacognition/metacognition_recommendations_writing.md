@@ -61,7 +61,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <li> Set aside regular times to work and set specific goals for each time period. Plan in extra time for certain approaches, such as writing an outline before writing a paper. </li>
 <li> Try to identify the types of things you do to procrastinate, and eliminate one type at a time. </li>
 </ol>
-For more information on how to improve your time management, click <a href="http://srl.daacs.net/managing_time.html">here</a>.
+For more information on how to improve your time management, <a href="http://srl.daacs.net/managing_time.html">click here</a>.
 <br>
 <br>
 </div>
