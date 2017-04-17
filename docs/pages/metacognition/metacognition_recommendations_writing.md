@@ -25,7 +25,7 @@ toc: false
 
 ### Before beginning the assignment ask yourself...
 
-<button data-toggle="collapse" data-target="#writingbefore1" style="background-color:LightGreen; width:100%"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore1" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What am I supposed to learn? What does the instructor want me to take away from this?”</i></b></button>
 
 <div id="writingbefore1" class="collapse">
 Do you understand what the assignment is asking you to do? For example, is your paper supposed to be a narrative of your experiences or is it a research paper using peer-reviewed articles?
@@ -33,7 +33,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore2" style="background-color:LightGreen; width:100%"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore2" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
 
 <div id="writingbefore2" class="collapse">
 <ol>
@@ -44,7 +44,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore3" style="background-color:LightGreen; width:100%"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore3" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What are some ways that I can accomplish this task?”</i></b></button>
 
 <div id="writingbefore3" class="collapse">
 <b>BRAINSTORM</b> multiple approaches to the assignment. If you have seen this type of assignment before, what strategies worked best for you? Consider approaches such as making an outline to organize your thoughts.
@@ -52,7 +52,7 @@ Do you understand what the assignment is asking you to do? For example, is your 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore4" style="background-color:LightGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore4" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
 
 <div id="writingbefore4" class="collapse">
 <ol>
@@ -66,7 +66,7 @@ For more information on how to improve your time management, <a href="http://srl
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingbefore5" style="background-color:LightGreen; width:100%"><b><i>“How can I organize myself and my materials?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore5" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“How can I organize myself and my materials?”</i></b></button>
 
 <div id="writingbefore5" class="collapse">
 <ol>
@@ -76,7 +76,7 @@ For more information on how to improve your time management, <a href="http://srl
 <br>
 </div> 
 
-<button data-toggle="collapse" data-target="#writingbefore6" style="background-color:LightGreen; width:100%"><b><i>“What resources do I have to complete the task?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingbefore6" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What resources do I have to complete the task?”</i></b></button>
 
 <div id="writingbefore6" class="collapse">
 Resources:
@@ -97,7 +97,7 @@ When writing a paper, it may be useful to consult multiple sources on a topic (e
 
 ### While working on an assignment ask yourself...
 
-<button data-toggle="collapse" data-target="#writingduring1" style="background-color:DarkSalmon; width:100%"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring1" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“What strategies am I using that are or are not working well to help me learn?”</i></b></button>
 
 <div id="writingduring1" class="collapse">
 <b> WHEN</b> you get stuck, <b> ASK</b> yourself "Am I using the best method possible to write this paper? Should I use a different approach?"
@@ -112,7 +112,7 @@ To become more effective at using different learning strategies (e.g., making an
 </div>
 
 
-<button data-toggle="collapse" data-target="#writingduring2" style="background-color:DarkSalmon; width:100%"><b><i>“What other resources could I use to complete this task?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring2" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“What other resources could I use to complete this task?”</i></b></button>
 
 <div id="writingduring2" class="collapse">
 Resources:
@@ -130,7 +130,7 @@ Resources:
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring3" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
 
 <div id="writingduring3" class="collapse">
 <b>ASK</b> yourself "What am I having trouble with?" so you know where to pay more attention.
@@ -144,7 +144,7 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingduring4" style="background-color:DarkSalmon; width:100%"><b><i>“Am I meeting my learning goals?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingduring4" style="background-color:DarkSalmon; width:100%; font-size:20px"><b><i>“Am I meeting my learning goals?”</i></b></button>
 
 <div id="writingduring4" class="collapse">
 <b>ASK</b> yourself “Does what you have written for this assignment match the criteria for the assignment? Am I focusing on areas or topics where I want to learn more? If not, where did I diverge from my goals and how can I get back on track?”
@@ -155,7 +155,7 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 
 ### After completing an assignment ask yourself...
 
-<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter1" style="background-color:Orchid; width:100%; font-size:20px"><b><i>“How well did I accomplish the goals of the assignment? What did I learn?”</i></b></button>
 
 <div id="writingafter1" class="collapse">
 <ol>
@@ -167,7 +167,7 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingafter2" style="background-color:Orchid; width:100%"><b><i>“What did I do that worked well? What should I change”</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter2" style="background-color:Orchid; width:100%; font-size:20px"><b><i>“What did I do that worked well? What should I change”</i></b></button>
 
 <div id="writingafter2" class="collapse">
 <ol>
@@ -179,7 +179,7 @@ For more information on asking for help, <a href="http://srl.daacs.net/help_seek
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#writingafter3" style="background-color:Orchid; width:100%"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
+<button data-toggle="collapse" data-target="#writingafter3" style="background-color:Orchid; width:100%; font-size:20px"><b><i>“What topics am I still confused about that I need to clarify? How can I get my questions answered?”</i></b></button>
 
 <div id="writingafter3" class="collapse">
 <ol>
