@@ -54,6 +54,8 @@ Do you understand what the reading or lesson is asking you to do? For instance, 
 <br>
 <br>
 To become more effective at summarizing, or other methods for better understanding what you are reading, <a href="http://srl.daacs.net/strategies.html">click here.</a>
+<br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#readingbefore4" style="background-color:LightGreen; width:100%"><b><i>“How much time do I have to complete this? How much time do I need?”</i></b></button>
@@ -94,6 +96,8 @@ For instance, if you encounter technological difficulties, are there numbers you
 <br>
 <br>
 See <a href="http://srl.daacs.net/help_seeking.html">help seeking</a> to learn more about how to approach teachers and classmates for help.
+<br>
+<br>
 </div>
 
 
@@ -109,6 +113,8 @@ See <a href="http://srl.daacs.net/help_seeking.html">help seeking</a> to learn m
 <br>
 <br>
 For more information on strategies to help you learn, such as removing distractions from your environment or summarizing a reading, <a href="http://srl.daacs.net/strategies.html">click here.</a> 
+<br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#readingduring2" style="background-color:DarkSalmon; width:100%"><b><i>“What other resources could I use to complete this task?”</i></b></button>
@@ -125,6 +131,8 @@ Resources:
 <br>
 <br>
 <a href="http://srl.daacs.net/help_seeking.html">Click here</a> to learn more about approaching teachers and classmates for help.
+<br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#readingduring3" style="background-color:DarkSalmon; width:100%"><b><i>“What is most challenging about this task? What can I do different at this point to address these challenges?”</i></b></button>
