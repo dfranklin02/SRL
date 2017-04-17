@@ -36,7 +36,6 @@ Try to pay attention to how you talk to yourself about your schoolwork. It is im
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#adjust" style="background-color:DarkTurquoise; width:100%"><b>Adjust your internal monologue</b></button>
 
 <div id="adjust" class="collapse">
@@ -47,7 +46,6 @@ Replace Fixed mindset thoughts with those of a Growth mindset. Recognize that if
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#Reframe" style="background-color:MediumSpringGreen; width:100%"><b>Reframe how you think about successes and failures</b></button>
 
 <div id="Reframe" class="collapse">
@@ -58,7 +56,6 @@ Think about successes and failures in terms of controllable factors – such as 
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#neuroplasticity" style="background-color:LimeGreen; width:100%"><b>Learn about neuroplasticity</b></button>
 
 <div id="neuroplasticity" class="collapse">
@@ -69,7 +66,6 @@ The brain is like a muscle: the more you work out your brain through practice, t
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#embrace" style="background-color:Lime; width:100%"><b>Embrace challenge</b></button>
 
 <div id="embrace" class="collapse">
@@ -80,7 +76,6 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#remind" style="background-color:GreenYellow; width:100%"><b>Remind yourself about successful attempts to use a Growth mindset</b></button>
 
 <div id="remind" class="collapse">
@@ -90,7 +85,6 @@ People with a Fixed Mindset often stay away from challenges for fear of failure.
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#ask" style="background-color:Yellow; width:100%"><b>Ask for help</b></button>
 
 <div id="ask" class="collapse">
@@ -111,7 +105,6 @@ To become more effective at help seeking, <a href="http://srl.daacs.net/help_see
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#adopt" style="background-color:DarkOrange; width:100%"><b>Adopt a Growth mindset in all aspects of your life</b></button>
 
 <div id="adopt" class="collapse">
