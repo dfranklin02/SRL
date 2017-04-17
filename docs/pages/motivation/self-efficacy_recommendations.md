@@ -31,6 +31,7 @@ past, which makes her feel more confident about successfully writing this resear
 <br>
 Examples of questions to ask to help break down different tasks:
 <br>
+<br>
 <b> RESEARCH PAPERS</b>
 <ul>
 <li> Are there things I can do to guide my preparation (e.g., write an outline, research the topic, review assignment    
@@ -68,6 +69,8 @@ To become more effective at seeking help, <a href="http://srl.daacs.net/help_see
 Use effective learning strategies to improve your learning. Knowing which strategies are most effective and how to use the strategies will improve your confidence in your ability to succeed.
 <br>
 To become more effective in using learning strategies for papers, studying, etc., <a href="http://srl.daacs.net/strategies.html">click here.</a>
+<br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#efficacyrec4" style="background-color:Lime; width:100%"><b>Use positive self-talk</b></button>
