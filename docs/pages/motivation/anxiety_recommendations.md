@@ -34,7 +34,6 @@ To become more effective at creating a schedule and other time management techni
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec2" style="background-color:DarkTurquoise; width:100%; font-size:20px"><b>Seek Help</b></button>
 
 <div id="anxietyrec2" class="collapse">
@@ -47,7 +46,6 @@ Everyone experiences some level of test anxiety, but not everyone reaches out fo
 </ol>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec3" style="background-color:MediumSpringGreen; width:100%; font-size:20px"><b>Learn practice and study strategies</b></button>
 
 <div id="anxietyrec3" class="collapse">
@@ -55,8 +53,6 @@ When preparing for an exam, think about which study strategies might be most hel
 <br>
 </div>
 
-
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec4" style="background-color:LimeGreen; width:100%; font-size:20px"><b>Use positive self-talk</b></button>
 
 <div id="anxietyrec4" class="collapse">
@@ -69,7 +65,6 @@ You can build your self-confidence and reduce test anxiety by using positive sel
 </ul>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec5" style="background-color:Lime; width:100%; font-size:20px"><b>Challenge your irrational thinking</b></button>
 
 <div id="anxietyrec5" class="collapse">
@@ -91,7 +86,6 @@ Just because you got a few questions wrong, it does not mean that you failed the
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec6" style="background-color:GreenYellow; width:100%; font-size:20px"><b>Practice relaxation techniques</b></button>
 
 <div id="anxietyrec6" class="collapse">
@@ -102,7 +96,6 @@ While you are studying and before entering a classroom to take an exam, it is im
 <br>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec7" style="background-color:Yellow; width:100%; font-size:20px"><b>Develop good test taking skills</b></button>
 
 <div id="anxietyrec7" class="collapse">
@@ -116,7 +109,6 @@ Learners sometimes feel overwhelmed by an exam and find themselves unable to foc
 </ul>
 </div>
 
-<br>
 <button data-toggle="collapse" data-target="#anxietyrec8" style="background-color:DarkOrange; width:100%; font-size:20px"><b>Review and adapt learning techniques</b></button>
 
 <div id="anxietyrec8" class="collapse">
