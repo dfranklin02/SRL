@@ -18,7 +18,7 @@ toc: false
 
 Self-efficacy refers to beliefs about one’s own ability or competency to do something. It involves levels of confidence to do specific things or the belief that one can perform well. The interesting thing about self-efficacy is that is it can vary across different courses and learning activities. For example, it would not be surprising to see that your self-efficacy for studying, writing an essay, or performing mathematics problems were very different. The DAACS SRL survey looked at a particular aspect of your self-efficacy – that is, how confident you are to learn and succeed when taking classes in an online environment. Thus, the information provided in this section is tailored to **self-efficacy for online learning,** but the principles we share are applicable to most other activities! 
 
-To learn more about your self-efficacy for online learning, we encourage you to take the SRL survey by clicking here ***link to daacs.net***.
+To learn more about your self-efficacy for online learning, we encourage you to take the take the <a href="https://demo.daacs.net/">SRL survey.</a>
 
 ## WHY is self-efficacy important?
 
