@@ -18,7 +18,7 @@ Have you encountered a difficult assignment and thought, “I can’t do this, I
 
 <center><img src='images/motivationoverview.png' alt='motivation' /></center>
 
-Just remember, each of these four concepts represent *beliefs,* not actual abilities. Further, these beliefs can be changed or tweaked. A key purpose of the information presented in this motivation section is to help you learn how to improve how you think about yourself as a learner. If you would like to learn more about YOUR motivational beliefs, take the SRL survey here ***link to daacs.net website***.
+Just remember, each of these four concepts represent *beliefs,* not actual abilities. Further, these beliefs can be changed or tweaked. A key purpose of the information presented in this motivation section is to help you learn how to improve how you think about yourself as a learner. If you would like to learn more about YOUR motivational beliefs, take the <a href="https://demo.daacs.net/">SRL survey.</a>
 
 ## WHY is motivation important?
 Many students in school believe that:
