@@ -18,6 +18,10 @@ toc: false
 There are many different things students can do to improve their self-efficacy. Below are several different strategies for enhancing your self-efficacy while completing learning tasks (e.g., writing a paper, studying for a test, completing difficult homework assignments). Every strategy might not be useful to you, but there are likely a few suggestions that will be helpful. <b>Click on the strategies that you think will be helpful to you. </b>
 
 <center><img src='images/selfefficacydo.png' alt='self-efficacy_importance' /></center>
+<br>
+<br>
+<br>
+<br>
 
 <button data-toggle="collapse" data-target="#efficacyrec1" style="background-color:DodgerBlue; width:100%; font-size:20px"><b>Break down the task</b></button>
 
