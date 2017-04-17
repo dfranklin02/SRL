@@ -108,7 +108,6 @@ Try:
 <li>Reorganizing the information in a different way (e.g., list similarities between concepts in a Venn diagram)</li>
 </ul>
 <br>
-<br>
 For more information on strategies to help you learn, such as reorganizing information in a way that makes sense to you, <a href="http://srl.daacs.net/strategies.html">click here.</a>
 <br>
 <br>
