@@ -3,7 +3,7 @@ title: WHAT is Mastery Orientation?
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
-permalink: masteryorientation.html
+permalink: mastery_orientation.html
 folder: motivation
 toc: false
 ---
