@@ -31,7 +31,7 @@ Frequent use of metacognitive skills is important to being a successful learner!
 
 ## HOW can I improve my metacognitive skills?
 
-To learn more about the three components of metacognition – planning, monitoring, and evaluation – and how you can improve your metacognition, click on the “Learn More” buttons below.
+To learn more about the three components of metacognition – planning, monitoring, and evaluation – and how you can improve your metacognition, click on the <b>“Learn More”</b> buttons below.
 
 <div class="row">
          <div class="col-lg-12">
