@@ -24,7 +24,7 @@ An important thing to remember is that each of these four learning strategies ar
 Successful learners will use various strategies to help them overcome different challenges that they experience. As a general rule of thumb, if you are having difficulty with managing your time efficiently, learning information in a class, or getting the assistance and help you need, you can probably benefit from using learning strategies more frequently and/or trying new strategies to help you learn.  
 
 ## HOW can I improve the use of learning strategies?
-To further develop your knowledge and understanding about the four learning strategies – managing your time, managing your environment, asking for help, and improving your understanding – click on the **Learn More** buttons below.
+To further develop your knowledge and understanding about the four learning strategies – managing your time, managing your environment, asking for help, and improving your understanding – click on the **"Learn More"** buttons below.
 
 <div class="row">
          <div class="col-lg-12">
