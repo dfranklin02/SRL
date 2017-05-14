@@ -30,7 +30,7 @@ Many students in school believe that:
 These types of beliefs make it extremely difficult for students to excel and perform optimally in school. When students learn how to shift these negative motivation beliefs into more positive ways of thinking, they will be much more likely to persist and display resiliency as they attempt to overcome different challenges they experience.
 
 ## HOW can I improve the use of motivation?
-To develop a deeper understanding about these four motivational beliefs – *Self-efficacy, Mindset, Goal Orientation, and Test Anxiety* – and to hear about some ideas on how to improve them, click on the **Learn More** buttons below to learn about different motivation beliefs. 
+To develop a deeper understanding about these four motivational beliefs – *Self-efficacy, Mindset, Goal Orientation, and Test Anxiety* – and to hear about some ideas on how to improve them, click on the **"Learn More"** buttons below to learn about different motivation beliefs. 
 
 <div class="row">
          <div class="col-lg-12">
