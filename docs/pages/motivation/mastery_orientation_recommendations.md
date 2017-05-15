@@ -36,6 +36,7 @@ Whenever you are assigned a project or some type of learning activity, think abo
 <br>
 <br>
 </div>
+<br>
 
 <button data-toggle="collapse" data-target="#develop" style="background-color:MediumSpringGreen; width:100%; font-size:20px"><b>Develop a Growth Mindset</b></button>
 
