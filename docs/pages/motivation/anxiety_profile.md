@@ -14,6 +14,9 @@ toc: false
     <li><a href="anxiety.html">Test Anxiety</a></li>
     <li class="active">Profiles</li>
 </ul>
+The scenario below explores the test anxiety of a fictional college student, George. Read below about how George's test anxiety impacted his academic performance. As you read both of these scenarios, notice how George's experiences change as a result of using the SRL survey recommendations to reduce his test anxiety. 
+
+
 
 **Before** George began using SRL resources and recommendations – George had **HIGH** test anxiety:
 
@@ -37,7 +40,7 @@ George reflects on his exam, but doesn't use this information in a useful way. H
 **AFTER** using SRL resources and recommendations - George had **MEDIUM** test anxiety:
 
 <div class="col-md-6" style="margin-top: 20px"> <!-- Adjust the margin-top until the text displays where you want -->
-Luckily, George took the SRL survey. After talking with his DAACS advisor, he received some advice to look through Test Anxiety section. Gradually, George began to realize that his excessive worry and fear of failure was probably a major reason why he has not improved in school. He began to search for some strategies or ideas about how he could lessen his anxiety.
+Luckily, George took the SRL survey. After talking with his advisor, he received some advice to look through Test Anxiety section. Gradually, George began to realize that his excessive worry and fear of failure was probably a major reason why he has not improved in school. He began to search for some strategies or ideas about how he could lessen his anxiety.
 </div><div class="col-md-6"><blockquote class="oval-thought">
 George sought help from his advisor and became aware of his test anxiety.
 </blockquote></div>
