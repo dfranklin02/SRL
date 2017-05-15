@@ -18,7 +18,7 @@ toc: false
 
 Goal orientation refers to the reasons individuals engage in a learning task. There are two types of goal orientation -- mastery and performance. Individuals with a Performance Orientation, want to perform well so they appear intelligent or capable to others, while those with a Mastery Orientation are much more interesting in learning for the sake of learning. They are interested in learning and want to develop skill and to increase knowledge. The SRL survey targeted the extent to which you display mastery orientation.
 
-The extent to which you exhibit a Mastery Orientation is important because it can influence how you feel about school and is connected to other forms of motivation. If you are interested in learning more about whether you possess Mastery Orientation, we strongly encourage you to take the SRL survey by clicking here ***link to daacs.net***.
+The extent to which you exhibit a Mastery Orientation is important because it can influence how you feel about school and is connected to other forms of motivation. If you are interested in learning more about whether you possess Mastery Orientation, we strongly encourage you to take the <a href="https://demo.daacs.net/">SRL survey.</a>
 
 ## WHY is Mastery Orientation important?
 Adopting a high level of Mastery Orientation across different topics and situations will help you: 
