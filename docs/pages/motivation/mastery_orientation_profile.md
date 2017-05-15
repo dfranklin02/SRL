@@ -19,7 +19,7 @@ toc: false
 
 
 
-The scenario below explores the goal orientation profile of a fictional college student, Janet. Click on the statements below to read about how Janet’s performance and behaviors varied based on her level of Mastery Orientation before and after using SRL feedback.
+The scenario below explores the goal orientation profile of a fictional college student, Janet. Read the following scenarios about how Janet’s performance and behaviors varied based on her level of Mastery Orientation before and after using SRL feedback.
 
 **BEFORE** using SRL survey resources and recommendations, Janet had a **Low Mastery Orientation**:
 
