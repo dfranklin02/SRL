@@ -5,7 +5,7 @@ keywords:
 sidebar: mydoc_sidebar
 permalink: mastery_orientation_recommendations.html
 folder: motivation
-toc: true
+toc: false
 ---
 
 <ul class="breadcrumb">
