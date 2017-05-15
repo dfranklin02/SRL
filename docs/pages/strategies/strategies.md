@@ -40,23 +40,8 @@ To further develop your knowledge and understanding about the four learning stra
                  </div>
                  <div class="panel-body">
                      <h4>Strategies for Help Seeking</h4>
-                     <p></p>
+                     <p>Strategies for help seeking refers to how well and often learners ask others for help when they become stuck.</p>
                      <a href="help_seeking.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-         <div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-users fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Strategies for Managing Time</h4>
-                     <p></p>
-                     <a href="managing_time.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -70,8 +55,23 @@ To further develop your knowledge and understanding about the four learning stra
                  </div>
                  <div class="panel-body">
                      <h4>Strategies for Managing Learning Environments</h4>
-                     <p></p>
+                     <p>Strategies for managing learning environments refers to how people structure and manage the space and distractions around them while completing schoolwork. </p>
                      <a href="managing_environment.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Strategies for Managing Time</h4>
+                     <p>Strategies for managing time refers to setting aside and planning time to complete schoolwork. </p>
+                     <a href="managing_time.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -85,7 +85,7 @@ To further develop your knowledge and understanding about the four learning stra
                  </div>
                  <div class="panel-body">
                      <h4>Strategies for Understanding</h4>
-                     <p></p>
+                     <p>Strategies for understanding refers to tactics learners use to help them learn and remember information.</p>
                      <a href="understanding.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
