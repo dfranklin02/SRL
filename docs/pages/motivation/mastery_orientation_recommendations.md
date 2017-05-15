@@ -26,7 +26,7 @@ There are various ways in which students can do to improve their level of Master
 <br>
 <br>
 <br>
-<button data-toggle="collapse" data-target="make" style="background-color:DodgerBlue; width:100%; font-size:20px"><b>Make learning relevant</b></button>
+<button data-toggle="collapse" data-target="#make" style="background-color:DodgerBlue; width:100%; font-size:20px"><b>Make learning relevant</b></button>
 
 <div id="make" class="collapse">
 Whenever you are assigned a project or some type of learning activity, think about how it is relevant to your career, your goals, or your life. Focusing on the relevance of the work will help you enjoy the process of learning, because you will care about knowing the material or mastering the skills.
@@ -36,7 +36,6 @@ Whenever you are assigned a project or some type of learning activity, think abo
 <br>
 <br>
 </div>
-<br>
 
 <button data-toggle="collapse" data-target="#develop" style="background-color:MediumSpringGreen; width:100%; font-size:20px"><b>Develop a Growth Mindset</b></button>
 
