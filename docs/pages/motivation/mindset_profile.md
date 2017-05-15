@@ -18,7 +18,7 @@ toc: false
 
 
 
-The scenario below explores the mindset profile of a fictional college student, Ben. Click on the statements below to read about how Ben’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
+The scenario below explores the mindset profile of a fictional college student, Below you can read about how Ben’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
  
 
 **Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
