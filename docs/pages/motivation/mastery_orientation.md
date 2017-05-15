@@ -14,7 +14,7 @@ toc: false
     <li class="active">Mastery Orientation</li>
 </ul>
 
-<center><img src='images/Mastery Orientation Identification.png' alt='mastery orientation' /></center>
+<center><img src='images/Mastery Orientation identification.png' alt='mastery orientation' /></center>
 
 Goal orientation refers to the reasons individuals engage in a learning task. There are two types of goal orientation -- mastery and performance. Individuals with a Performance Orientation, want to perform well so they appear intelligent or capable to others, while those with a Mastery Orientation are much more interesting in learning for the sake of learning. They are interested in learning and want to develop skill and to increase knowledge. The SRL survey targeted the extent to which you display mastery orientation.
 
