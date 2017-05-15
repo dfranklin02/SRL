@@ -112,13 +112,14 @@ There are different ways you can evaluate a grade that you receive on a test, pr
 For example:
 <br>
 <br>
-<i>*You scored a 78 on an exam. Reflect on your grade by asking yourself: Which material on the exam did I know well? Which questions did I get wrong? Did I misunderstand a concept or topic that I should review again?*</i>
+<i>You scored a 78 on an exam. Reflect on your grade by asking yourself: Which material on the exam did I know well? Which questions did I get wrong? Did I misunderstand a concept or topic that I should review again?</i>
 <br>
 <br>
-<i>*You received a B+ grade on an essay. Think: What did I do well on this essay? Did I include the right content? Was my word usage/grammar/sentence structure correct? What can I improve for the next essay I write?*</i>
+<i>You received a B+ grade on an essay. Think: What did I do well on this essay? Did I include the right content? Was my word usage/grammar/sentence structure correct? What can I improve for the next essay I write?</i>
 <br>
 <br>
 </div>
+<br>
 
 {% include footers/mastery_orientation_footer.html %}
 
