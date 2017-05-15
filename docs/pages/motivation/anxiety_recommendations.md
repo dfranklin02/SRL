@@ -30,8 +30,7 @@ Create a schedule of days and times to study and complete your work. In addition
 <br>
 <i>When you learn about an upcoming exam in a class, begin laying out your study plan. Figure out how much material you need to cover and how many days you have to cover that material. Then, begin putting in study times on specific days (i.e. Monday, study Chapter 5 for 2 hours, Tuesday, review Chapter 5 for 1 hour, Study Chapter 6 for 2 hours. Monday – Friday, complete practice work sheets,30 minutes each day).</i>
 <br>
-To become more effective at creating a schedule and other time management techniques, click here ***link to time management recommendations***
-<br>
+To become more effective at creating a schedule and other time management techniques, <a href="http://srl.daacs.net/managing_time.html">click here.</a>
 </div>
 
 <button data-toggle="collapse" data-target="#anxietyrec2" style="background-color:DarkTurquoise; width:100%; font-size:20px"><b>Seek Help</b></button>
