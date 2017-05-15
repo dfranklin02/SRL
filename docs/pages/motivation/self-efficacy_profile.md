@@ -15,7 +15,7 @@ toc: false
     <li class="active">Profiles</li>
 </ul>
 
-The scenario below explores the self-efficacy profile of a college student, Allison. Click on the statements below to read about Allison’s performance in her writing class, and how her self-efficacy improves by using SRL survey resources and recommendations. As you read both of these scenarios, notice how Allison’s experiences change as she begins to use the SRL survey recommended strategies to improve self-efficacy.
+The scenario below explores the self-efficacy profile of a college student, Allison. Below you can read about Allison’s performance in her writing class, and how her self-efficacy improves by using SRL survey resources and recommendations. As you read both of these scenarios, notice how Allison’s experiences change as she begins to use the SRL survey recommended strategies to improve self-efficacy.
 
 **Before** receiving SRL feedback – Allison had  **LOW** self-efficacy:
 
