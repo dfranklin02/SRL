@@ -26,9 +26,9 @@ The following scenario illustrates how the different types of Learning Strategie
 •	Before he took the SRL survey and reviewed the feedback recommendations
 <br>
 •	After he began using the recommended tips and strategies 
-
 <br>
 As you read the scenario, take note of how Stephen’s experiences changed based on his strategy use for managing his distractions in the environment
+<br>
 
 <i>Stephen is a 38-year-old male who has been enrolled at Excelsior for one semester. He typically takes two classes per semester, as he also has a full-time job and a family to care for. Stephen’s wife runs a business out of their home, which typically means that the office and living room are filled with many products and constant conversation. After Stephen completed his first semester, he felt overwhelmed with the amount of activity happening at home, which lead to him feeling distracted and unsure of his assignments for class. Stephen wanted to address these concerns early on during his second semester.  </i>
 <br>
