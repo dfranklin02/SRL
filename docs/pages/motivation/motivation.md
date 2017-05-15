@@ -76,7 +76,7 @@ To develop a deeper understanding about these four motivational beliefs – *Sel
                  </div>
                  <div class="panel-body">
                      <h4>Test Anxiety</h4>
-                     <p></p>
+                     <p>Test anxiety refers to the experience of negative thoughts and uncomfortable feelings when people are evaluated in some way.</p>
                      <a href="anxiety.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -91,7 +91,7 @@ To develop a deeper understanding about these four motivational beliefs – *Sel
                  </div>
                  <div class="panel-body">
                      <h4>Mastery Orientation</h4>
-                     <p></p>
+                     <p>Mastery orientation refers to the desire to learn for the sake of learning.</p>
                      <a href="mastery_orientation.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
