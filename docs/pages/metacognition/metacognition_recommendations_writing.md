@@ -30,6 +30,7 @@ toc: false
 <div id="writingbefore1" class="collapse">
 Do you understand what the assignment is asking you to do? For example, is your paper supposed to be a narrative of your experiences or is it a research paper using peer-reviewed articles?
 <br>
+<br>
 Click <a href="http://owl.excelsior.edu/writing-process/audience-awareness/">here</a> to learn more about how your writing style would change depending on the type of paper you are required to write and your intended audience. 
 <br>
 <br>
@@ -50,6 +51,7 @@ Click <a href="http://owl.excelsior.edu/writing-process/audience-awareness/">her
 
 <div id="writingbefore3" class="collapse">
 <b>BRAINSTORM</b> multiple approaches to the assignment. If you have seen this type of assignment before, what strategies worked best for you? Consider approaches such as making an outline to organize your thoughts.
+<br>
 <br>
 In order to learn more about specific strategies you can use to organize your ideas before you start writing, click <a href="http://owl.excelsior.edu/writing-process/prewriting-strategies/">here</a>.
 <br>
@@ -91,6 +93,7 @@ Resources:
 <li> Classmates </li>
 </ul>
 When writing a paper, it may be useful to consult multiple sources on a topic (e.g., your class notes, textbook, and classmates) to ensure you have all the necessary information before writing about it. Click <a href="http://srl.daacs.net/help_seeking.html">here</a> in order to learn more about approaching teachers and classmates.
+<br>
 <br>
 In addition to using resources to help you with essay content, it may be useful to use resources that help you with the writing process itself. Click <a href="http://owl.excelsior.edu/writing-process/writing-process-overview/">here</a> for an example of a resources that will help you walk through the entire writing process.
 <br>
