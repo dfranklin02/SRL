@@ -319,6 +319,9 @@ Instead of simply memorizing facts, push yourself to explain why an idea or conc
 For information to get into your long-term memory, it is often helpful to connect new information to things that you have already mastered and learned. It is essential that you relate class information to things you already know in order to improve your level of understanding.  
 <br>
 <br>
+Click <a href="http://owl.excelsior.edu/orc/what-to-do-after-reading/synthesizing/">here</a> to learn how to more effectively synthesize ideas.
+<br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#understandingrec5" style="background-color:CornflowerBlue; width:100%; font-size:20px"><b><i>Guiding Principle 5:</i> ELABORATE on material: Identify connection and relations</b></button>
@@ -341,7 +344,7 @@ When studying, it may help you to imagine what you are reading. Instead of just 
 
 <div id="understandingrec7" class="collapse">
 
-Instead of reading in your head, it helps to say what you are reading out loud. This strategy applies regardless of whether you are trying to read a textbook or class notes. By reading out loud, you will be learning the information through visual and auditory modalities, which will allow you to better remember what you are learning.
+"Instead of reading in your head, it helps to say what you are reading out loud. This strategy applies regardless of whether you are trying to read a textbook or class notes. By reading out loud, you will be learning the information through visual and auditory modalities, which will allow you to better remember what you are learning.
 <br>
 <br>
 </div>
@@ -366,7 +369,11 @@ Use index cards in order to remember things such as facts, details, definitions,
 
 <div id="understandingrec10" class="collapse">
 Writing summaries is useful thing to do when reading texts or when studying. Making a summary of what you are learning can help you better understand material and to assess how much you already have retained. By writing the important points in your own words, you will also be more likely to recall the material later on. If you are unsure about how to pick out the main ideas, it would be a good idea to meet with your advisor and practice. You can read a section of the text while with your advisor and practice determining the important ideas. Because the advisor will be there, he/she can provide you with feedback about your ability to pick out the big idea in a text.
-<br><br>
+<br>
+<br>
+Click <a href="http://owl.excelsior.edu/orc/what-to-do-after-reading/summarizing/">here</a> to learn how to effectively summarize what you are learning, reading, and studying.
+<br>
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#understandingrec11" style="background-color:CornflowerBlue; width:100%; font-size:20px"><b><i>Guiding Principle 11:</i> Gather detailed information about the assignment, project, or test</b></button>
