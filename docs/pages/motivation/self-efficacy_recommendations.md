@@ -151,8 +151,11 @@ Many students who do not feel confident in themselves will not remember the many
 To record your outcomes:
 <ol>
 <li> Decide what outcomes you want to track – grades are an easy way to track progress, but they often do not tell the entire story of your progress. Considering looking at written feedback from professors and try to identify trends in types of correct and incorrect answers you receive. </li>
-<li> Trying graphing your grades on tests, quizzes or projects. Creating a visual is very powerful in improving your understanding of how well you perform. </li>
+<li> Try graphing your grades on tests, quizzes or projects. Creating a visual is very powerful in improving your understanding of how well you perform. </li>
 <li> If you notice that your outcomes are not improving or are becoming less positive, seek help from your professor or reach out to your academic advisor to determine steps you can take to make improvements. </li>
+<br>
+<br>
+To become more effective at monitoring yourself, click <a href="http://srl.daacs.net/monitoring.html">here</a>.
 </ol>
 <br>
 </div>
