@@ -34,6 +34,8 @@ toc: false
 Do you understand what the reading or lesson is asking you to do? For instance, are you supposed to skim the reading for general concepts, or are there guided reading questions that you need to answer along the way?
 <br>
 <br>
+In order to learn more about what to do before you start reading in order to enhance your overall understanding of the text, click <a href="http://owl.excelsior.edu/orc/what-to-do-before-reading/">here</a>.
+<br>
 </div>
 
 <button data-toggle="collapse" data-target="#readingbefore2" style="background-color:LightGreen; width:100%; font-size:20px"><b><i>“What do I already know and what would I like to learn?”</i></b></button>
@@ -113,6 +115,9 @@ See <a href="http://srl.daacs.net/help_seeking.html">help seeking</a> to learn m
 <br>
 <br>
 For more information on strategies to help you learn, such as removing distractions from your environment or summarizing a reading, <a href="http://srl.daacs.net/strategies.html">click here.</a> 
+<br>
+<br>
+In order to learn more information about what to do while reading to enhance your overall understanding of the text, click <a href="http://owl.excelsior.edu/orc/what-to-do-while-reading/">here</a>.
 <br>
 <br>
 </div>
