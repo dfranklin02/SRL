@@ -30,7 +30,7 @@ toc: false
 <div id="writingbefore1" class="collapse">
 Do you understand what the assignment is asking you to do? For example, is your paper supposed to be a narrative of your experiences or is it a research paper using peer-reviewed articles?
 
-Click <a href="http://owl.excelsior.edu/writing-process/audience-awareness/">here</a> to learn more about how your writing style would change depending on the type of paper you are required to write and your intended audience. 
+Click <a href="http://owl.excelsior.edu/writing-process/audience-awareness/">here</a> to learn more about how your writing style would change depending on the type of paper you are required to write and your intended audience. 
 <br>
 <br>
 </div>
