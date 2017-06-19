@@ -19,7 +19,6 @@ The scenario below explores the self-efficacy profile of a college student, Mari
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
 Maria is a 43-year-old female who has been enrolled in an online college a year. Maria is a single mother of two children (ages 13 and 15 years old). Maria takes one class per semester while working as an administrative assistant. Maria gets home from work at 4:00 pm but from 4:30 pm - 7:30 pm she is responsible for picking her children up from their extracurricular activities at various times. Maria tries to use her time wisely and tries to complete school work while waiting for her children. However, she often finds herself distracted. Every other weekend Maria has the house to herself, as the children's father takes the children. During these few days, Maria tries to get as much work done as possible. </i>
-
 </div>
 
 <br>
