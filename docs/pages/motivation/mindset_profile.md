@@ -22,8 +22,6 @@ Omar is a 45 year old male who enrolled in an online college five months ago. Om
 </div>
 
 <br>
-<br>
-<br>
 
 **Before** receiving SRL feedback – Omar used a  **FIXED** mindset:
 
