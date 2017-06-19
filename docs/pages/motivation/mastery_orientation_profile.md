@@ -18,10 +18,11 @@ toc: false
 The scenario below explores the goal orientation profile of a fictional college student, Janet. Read the following scenarios about how Janet’s performance and behaviors varied based on her level of Mastery Orientation before and after using SRL feedback.
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
-Janet is a 32-year-old female who recently enrolled in an online college. While taking classes part-time, she also works full-time at the front desk of a doctor's office. Janet shares a house with her sister (age 37) and her sister's child (age 5). Even thugh Janet does not have children of her own, she helps her sister care for her child. After returning home from work at 7:00 pm, Janet's goal is to start her school work right away; this goal is almost always side-tracked, as living with a child demands much of her attention. After helping with bedtime, laundry, and cleaning up all of the toys, Janet is able to start her work.</i>
+Janet is a 32-year-old female who recently enrolled in an online college. While taking classes part-time, she also works full-time at the front desk of a doctor's office. Janet shares a house with her sister (age 37) and her sister's child (age 5). Even thugh Janet does not have children of her own, she helps her sister care for her child. After returning home from work at 7:00 pm, Janet's goal is to start her school work right away; this goal is almost always side-tracked, as living with a child demands much of her attention. After helping with bedtime, laundry, and cleaning up all of the toys, Janet is able to start her work.</i> </div>
 <br>
 <br>
 <br>
+
 **BEFORE** using SRL survey resources and recommendations, Janet had a **Low Mastery Orientation**:
 
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
