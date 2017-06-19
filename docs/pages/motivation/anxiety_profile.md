@@ -17,7 +17,9 @@ toc: false
 The scenario below explores the test anxiety of a fictional college student, George. Read below about how George's test anxiety impacted his academic performance. As you read both of these scenarios, notice how George's experiences change as a result of using the SRL survey recommendations to reduce his test anxiety. 
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
-George is a 37-year-old male who has been enrolled in an online college for 8 months. George takes classes part-time while working a high stress job in marketing. George lives by himself in a one-bedroom apartment that is part of a larger apartment complex. The apartment complex is near a major university and therefore is filled with college students who are up all night and constantly make noise. George gets home at 5:00 pm every day, but often finds it difficult to focus on his school work due to the amount of noise within the apartment building. After about two hours of figuring out ways to block out or ignore the noise, George finds himself frazzled and nervous that his studying efforts may not be enough.</i> </div>
+George is a 37-year-old male who has been enrolled in an online college for 8 months. George takes classes part-time while working a high stress job in marketing. George lives by himself in a one-bedroom apartment that is part of a larger apartment complex. The apartment complex is near a major university and therefore is filled with college students who are up all night and constantly make noise. George gets home at 5:00 pm every day, but often finds it difficult to focus on his school work due to the amount of noise within the apartment building. After about two hours of figuring out ways to block out or ignore the noise, George finds himself frazzled and nervous that his studying efforts may not be enough.</i> 
+
+</div>
 
 <br>
 <br>
