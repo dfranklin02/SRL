@@ -15,12 +15,12 @@ toc: false
     <li class="active">Profiles</li>
 </ul>
 
-The scenario below explores the mindset profile of a fictional college student, Below you can read about how Omar’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
+The scenario below explores the mindset profile of a fictional college student, Omar. You can read about how Omar’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
 Omar is a 45 year old male who enrolled in an online college five months ago. Omar is married, has a 5 year old son, and his wife is due with his second child in four months. As a security guard, Omar works the night shift, and gets home at 7 am.  Omar likes succeeding at tasks, whether it’s doing something for his family, work related, or school related. As things around the house are becoming more stressful with his job and growing family, motivation is an area in which Omar is struggling. </i>
 
-**Before** receiving SRL feedback – Ben used a  **FIXED** mindset:
+**Before** receiving SRL feedback – Omar used a  **FIXED** mindset:
 
 <div class="col-md-6" style="margin-top: 100px"> <!-- Adjust the margin-top until the text displays where you want -->
 Omar recently took his midterm exam in his science class; he thought the exam was challenging but that he did alright. When Omar received a very poor grade on the midterm, he was quick to label himself as “bad at science” and “a failure.”
@@ -43,7 +43,7 @@ Notice how Omar's belief that his ability will not change led him to ponder whet
  **AFTER** receiving SRL feedback – Omar began to adopt a **GROWTH** mindset:
  
  <div class="col-md-6" style="margin-top: 20px"> <!-- Adjust the margin-top until the text displays where you want -->
-Rewind to the moment after Ben received his poor midterm grade, when he started to give up because he must be “bad at science.” Because Omar realized that the SRL survey feedback was helpful in improving his strategic behaviors, he began looking at the Mindset feedback. He was shocked to learn that he was someone who has typically displayed a Fixed Mindset. But he wanted to change that: “Because I have done well in school at certain times, maybe I do have the ability – I just have not been that “intelligent” in how I prepared for the exam.  I only studied the night before the exam and didn’t get much sleep. If I can change how I prepare, maybe I can do better.”
+Rewind to the moment after Omar received his poor midterm grade, when he started to give up because he must be “bad at science.” Because Omar realized that the SRL survey feedback was helpful in improving his strategic behaviors, he began looking at the Mindset feedback. He was shocked to learn that he was someone who has typically displayed a Fixed Mindset. But he wanted to change that: “Because I have done well in school at certain times, maybe I do have the ability – I just have not been that “intelligent” in how I prepared for the exam.  I only studied the night before the exam and didn’t get much sleep. If I can change how I prepare, maybe I can do better.”
 </div><div class="col-md-6"><blockquote class="oval-thought">
 In reading the feedback, Omar became aware of his Fixed mindset. He then reframed the failure in terms of factors that he can control, which helped him to see how he can improve. 
 </blockquote></div>
