@@ -22,8 +22,6 @@ Janet is a 32-year-old female who recently enrolled in an online college. While 
 </div>
 
 <br>
-<br>
-<br>
 
 **BEFORE** using SRL survey resources and recommendations, Janet had a **Low Mastery Orientation**:
 
