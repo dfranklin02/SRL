@@ -18,7 +18,7 @@ toc: false
 The scenario below explores the mindset profile of a fictional college student, Omar. You can read about how Omar’s performance and behaviors in his science class varied based on the type of mindset he exhibited. 
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
-Omar is a 45 year old male who enrolled in an online college five months ago. Omar is married, has a 5 year old son, and his wife is due with his second child in four months. As a security guard, Omar works the night shift, and gets home at 7 am.  Omar likes succeeding at tasks, whether it’s doing something for his family, work related, or school related. As things around the house are becoming more stressful with his job and growing family, motivation is an area in which Omar is struggling. </i>
+Omar is a 45 year old male who enrolled in an online college five months ago. Omar is married, has a 5 year old son, and his wife is due with his second child in four months. As a security guard, Omar works the night shift, and gets home at 7 am.  Omar likes succeeding at tasks, whether it’s doing something for his family, work related, or school related. As things around the house are becoming more stressful with his job and growing family, motivation is an area in which Omar is struggling. </i> </div>
 
 <br>
 <br>
