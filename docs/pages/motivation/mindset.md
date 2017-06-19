@@ -40,7 +40,7 @@ Alternatively, a Fixed mindset can adversely affect you in school. This type of 
 The scenarios below illustrate the distinctions in the experiences of students who exhibit different type of mindsets.
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>FIXED:</b>
-Ben recently received a poor grade on his science midterm and was quick to label himself as “bad at science” and “a failure”. Ben decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Ben stopped paying attention in class, felt defeated, and barely studied for the final exam.
+Omar recently received a poor grade on his science midterm and was quick to label himself as “bad at science” and “a failure”. Omar decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Omar stopped paying attention in class, felt defeated, and barely studied for the final exam.
 </div>
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>GROWTH:</b>
