@@ -22,8 +22,6 @@ Maria is a 43-year-old female who has been enrolled in an online college a year.
 </div>
 
 <br>
-<br>
-<br>
 
 **Before** receiving SRL feedback – Maria had  **LOW** self-efficacy:
 
