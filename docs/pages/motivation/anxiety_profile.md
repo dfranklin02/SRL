@@ -21,8 +21,6 @@ George is a 37-year-old male who has been enrolled in an online college for 8 mo
 </div>
 
 <br>
-<br>
-<br>
 
 **Before** George began using SRL resources and recommendations – George had **HIGH** test anxiety:
 
