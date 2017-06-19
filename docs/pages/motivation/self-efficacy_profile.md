@@ -20,7 +20,7 @@ The scenario below explores the self-efficacy profile of a college student, Mari
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
 Maria is a 43-year-old female who has been enrolled in an online college a year. Allison is a single mother of two children (ages 13 and 15 years old). Allison takes one class per semester while working as an administrative assistant. Allison gets home from work at 4:00 pm but from 4:30 pm - 7:30 pm she is responsible for picking her children up from their extracurricular activities at various times. Allison tries to use her time wisely and tries to complete school work while waiting for her children. However, she often finds herself distracted. Every other weekend Allison has the house to herself, as the children's father takes the children. During these few days, Allison tries to get as much work done as possible. </i>
 
-**Before** receiving SRL feedback – Allison had  **LOW** self-efficacy:
+**Before** receiving SRL feedback – Maria had  **LOW** self-efficacy:
 
 <div class="col-md-6" style="margin-top: 40px"> <!-- Adjust the margin-top until the text displays where you want -->
 Maria has been putting off her college writing course requirement for as long as possible, and was forced to enroll in the online version this semester. Maria took an online course last year and did not perform well. Maria had difficulty understanding the material and assignments and she often thought, “This is too hard, I can’t do this! I don’t understand this online course work and I never have time to finish my work!” Now that Maria is forced to take online writing courses, she feels uncertain about her ability to succeed. </div><div class="col-md-6"><blockquote class="oval-thought">
