@@ -23,6 +23,7 @@ toc: false
 
 The following scenario illustrates how the different types of Learning Strategies (Managing time, Managing the environment, Seeking help, Enhancing understanding and learning) with a fictional college student, Stephen. Below you can read about Stephen’s college experience in two situations, before and after using SRL resources and recommendations.
 <br>
+
 As you read the scenario, take note of how Stephen’s experiences changed based on his strategy use for managing his distractions in the environment
 <br>
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
