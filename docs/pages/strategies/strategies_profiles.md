@@ -24,10 +24,8 @@ toc: false
 The following scenario illustrates how the different types of Learning Strategies (Managing time, Managing the environment, Seeking help, Enhancing understanding and learning) with a fictional college student, Stephen. Below you can read about Stephen’s college experience in two situations.
 
 <br>
-<br>
 As you read the scenario, take note of how Stephen’s experiences changed based on his strategy use for managing his distractions in the environment
 <br>
-
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle">
 Stephen is a 38-year-old male who has been enrolled at Excelsior for one semester. He typically takes two classes per semester, as he also has a full-time job and a family to care for. Stephen’s wife runs a business out of their home, which typically means that the office and living room are filled with many products and constant conversation. After Stephen completed his first semester, he felt overwhelmed with the amount of activity happening at home, which lead to him feeling distracted and unsure of his assignments for class. Stephen wanted to address these concerns early on during his second semester.  </i></i>
 </div>
