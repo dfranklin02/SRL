@@ -214,7 +214,7 @@ While studying, you shouldn’t feel uncomfortable in your environment, but you 
 <br>
 </div>
 
-<button data-toggle="collapse" data-target="#environmentrec6" style="background-color:Orange; width:100%; font-size:20px"><b><i>Guiding Principle 6:</i> Set specific study goals</b></button>
+<button data-toggle="collapse" data-target="#environmentrec6" style="background-color:Orange; width:100%; font-size:20px"><b><i>Guiding Principle 6:</i> Use various forms of sensory enhancements </b></button>
 
 <div id="environmentrec6" class="collapse">
 Scented candles, classical music, or white noise may help keep you relaxed and focused throughout a study session. They can provide appropriate sensory enhancements, which can make studying feel easier, without distracting you from your work. Obviously, these things only work if YOU learn that they actually help you. Different people have different ways to relax and induce relaxation. Use those that work best for you.
