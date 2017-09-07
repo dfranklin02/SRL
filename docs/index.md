@@ -30,7 +30,7 @@ Self-regulated learners set goals, plan their learning, monitor their progress, 
                  <div class="panel-body">
                      <h4>Motivation</h4>
                      <p>Motivation is literally the desire to do things.</p>
-                     <a href="motivation_overview.html" class="btn btn-primary">Learn More</a>
+                     <a href="motivation.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -45,7 +45,7 @@ Self-regulated learners set goals, plan their learning, monitor their progress, 
                  <div class="panel-body">
                      <h4>Metacognition</h4>
                      <p>Metacognition depicts your ability to “think about your thinking.”</p>
-                     <a href="metacognition_overview.html" class="btn btn-primary">Learn More</a>
+                     <a href="metacognition.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -60,7 +60,7 @@ Self-regulated learners set goals, plan their learning, monitor their progress, 
                  <div class="panel-body">
                      <h4>Strategies</h4>
                      <p>Strategies deals with managing and deepening learning.</p>
-                     <a href="strategies_overview.html" class="btn btn-primary">Learn More</a>
+                     <a href="strategies.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
